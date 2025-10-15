@@ -8,8 +8,12 @@ st.set_page_config(page_title="Fine-mapping summary → FinnGen links", layout="
 st.title("Fine-mapping summary → FinnGen (R13) links")
 
 # === Settings ===
-RELEASE = "r13"
+RELEASE = "r12"
 BASE_URL = f"https://{RELEASE}.finngen.fi"
+
+def finngen_url(rsid: str) -> str:
+    # opens FinnGen with the rsID in the search bar
+    return f"{BASE_URL}/?query={rsid}"
 
 # === Load data ===
 # Make sure your CSV file is committed in the same directory as this script.
@@ -39,9 +43,6 @@ def parse_top_pip_snps(cell: str):
             items.append({"rsid": rsid, "pip": pip_val})
     items.sort(key=lambda d: (-d["pip"] if isinstance(d["pip"], (float, int)) else float("inf")))
     return items
-
-def finngen_url(rsid: str):
-    return f"{BASE_URL}/variant/{rsid}"
 
 # === Build table ===
 rows = []
