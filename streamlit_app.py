@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 
 st.set_page_config(page_title="Fine-mapping summary → FinnGen links", layout="wide")
-st.title("Fine-mapping summary → FinnGen (R13) links")
+st.title("Fine-mapping summary → FinnGen (R12) links")
 
 # === Settings ===
 RELEASE = "r12"
