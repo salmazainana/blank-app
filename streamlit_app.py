@@ -87,7 +87,7 @@ for _, r in df.iterrows():
         "CS_Size": r["CS_Size"],
         "Top_SNP": top["rsid"],
         "Top_SNP_PIP": top["pip"],
-        "FinnGen": out["FinnGen"] = out["Top_SNP"].apply(lambda x: finngen_link_for_rsid(x) if pd.notna(x) else None)
+        "FinnGen": out["Top_SNP"].apply(lambda x: finngen_link_for_rsid(x) if pd.notna(x) else None)
     })
 
 out = pd.DataFrame(rows)
