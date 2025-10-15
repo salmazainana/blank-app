@@ -10,10 +10,42 @@ st.title("Fine-mapping summary → FinnGen (R13) links")
 # === Settings ===
 RELEASE = "r12"
 BASE_URL = f"https://{RELEASE}.finngen.fi"
+# add near the top
+import requests
+import streamlit as st
 
-def finngen_url(rsid: str) -> str:
-    # opens FinnGen with the rsID in the search bar
-    return f"{BASE_URL}/?query={rsid}"
+RELEASE = "r12"
+BASE_URL = f"https://{RELEASE}.finngen.fi"
+
+@st.cache_data(show_spinner=False)
+def finngen_first_variant_from_rsid(rsid: str) -> str | None:
+    """
+    Ask FinnGen's autocomplete for this rsID and return the first variant path '/variant/chr:pos-ref-alt'.
+    Returns None if nothing sensible is found.
+    """
+    try:
+        r = requests.get(f"{BASE_URL}/api/autocomplete", params={"q": rsid}, timeout=6)
+        r.raise_for_status()
+        hits = r.json() if r.headers.get("content-type","").startswith("application/json") else []
+        # PheWeb-style results typically include dicts with fields like: {"type":"variant","url":"/variant/6:...-...-...","label":"..."}
+        for h in hits:
+            url = h.get("url") or ""
+            if h.get("type") == "variant" and url.startswith("/variant/"):
+                return BASE_URL + url
+        # fallback: sometimes the 'value' is the variant-id
+        for h in hits:
+            val = str(h.get("value") or "")
+            if h.get("type") == "variant" and val and ":" in val and "-" in val:
+                return f"{BASE_URL}/variant/{val}"
+    except Exception:
+        pass
+    return None
+
+def finngen_link_for_rsid(rsid: str) -> str | None:
+    """Prefer direct variant page; fall back to the search page if resolution fails."""
+    v = finngen_first_variant_from_rsid(rsid)
+    return v if v else f"{BASE_URL}/?query={rsid}"
+
 
 # === Load data ===
 # Make sure your CSV file is committed in the same directory as this script.
@@ -55,7 +87,7 @@ for _, r in df.iterrows():
         "CS_Size": r["CS_Size"],
         "Top_SNP": top["rsid"],
         "Top_SNP_PIP": top["pip"],
-        "FinnGen": finngen_url(top["rsid"]) if top["rsid"] else None,
+        "FinnGen": out["FinnGen"] = out["Top_SNP"].apply(lambda x: finngen_link_for_rsid(x) if pd.notna(x) else None)
     })
 
 out = pd.DataFrame(rows)
