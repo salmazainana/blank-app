@@ -1,6 +1,76 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+import re
+import pandas as pd
+import streamlit as st
+
+st.set_page_config(page_title="Fine-mapping summary → FinnGen links", layout="wide")
+st.title("Fine-mapping summary → FinnGen (R13) links")
+
+# === Settings ===
+RELEASE = "r13"
+BASE_URL = f"https://{RELEASE}.finngen.fi"
+
+# === Load data ===
+# Make sure your CSV file is committed in the same directory as this script.
+df = pd.read_csv("fine_mapping_summary.csv")
+
+# === Parse the Top_PIP_SNPs column ===
+rs_pat = re.compile(r"(rs\d+|Affx-\d+)", re.IGNORECASE)
+pip_pat = re.compile(r"\(([-+]?\d*\.?\d+(?:[eE][-+]?\d+)?)\)")
+
+def parse_top_pip_snps(cell: str):
+    """Parse entries like 'rs123 (0.91); rs456 (0.40)' and return [{'rsid':..., 'pip':...}]"""
+    if not isinstance(cell, str) or not cell.strip():
+        return []
+    parts = [p.strip() for p in cell.split(";") if p.strip()]
+    items = []
+    for p in parts:
+        rs_match = rs_pat.search(p)
+        pip_match = pip_pat.search(p)
+        if rs_match:
+            rsid = rs_match.group(1)
+            pip_val = None
+            if pip_match:
+                try:
+                    pip_val = float(pip_match.group(1))
+                except ValueError:
+                    pip_val = None
+            items.append({"rsid": rsid, "pip": pip_val})
+    items.sort(key=lambda d: (-d["pip"] if isinstance(d["pip"], (float, int)) else float("inf")))
+    return items
+
+def finngen_url(rsid: str):
+    return f"{BASE_URL}/variant/{rsid}"
+
+# === Build table ===
+rows = []
+for _, r in df.iterrows():
+    parsed = parse_top_pip_snps(r["Top_PIP_SNPs"])
+    top = parsed[0] if parsed else {"rsid": None, "pip": None}
+    rows.append({
+        "GWAS_File": r["GWAS_File"],
+        "Lead_SNP": r["Lead_SNP"],
+        "CS_Size": r["CS_Size"],
+        "Top_SNP": top["rsid"],
+        "Top_SNP_PIP": top["pip"],
+        "FinnGen": finngen_url(top["rsid"]) if top["rsid"] else None,
+    })
+
+out = pd.DataFrame(rows)
+
+# === Display ===
+st.dataframe(
+    out,
+    use_container_width=True,
+    column_config={
+        "Top_SNP_PIP": st.column_config.NumberColumn(format="%.3f"),
+        "FinnGen": st.column_config.LinkColumn(display_text="Open in FinnGen"),
+    }
 )
+
+st.markdown(f"""
+This table shows each GWAS file, its lead SNP, number of credible sets,
+and the **top SNP by PIP** with a direct link to the [FinnGen {RELEASE} browser]({BASE_URL}).
+""")
+
