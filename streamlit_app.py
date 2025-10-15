@@ -81,14 +81,18 @@ rows = []
 for _, r in df.iterrows():
     parsed = parse_top_pip_snps(r["Top_PIP_SNPs"])
     top = parsed[0] if parsed else {"rsid": None, "pip": None}
+    link = finngen_link_for_rsid(top["rsid"]) if top["rsid"] else None
+
     rows.append({
         "GWAS_File": r["GWAS_File"],
         "Lead_SNP": r["Lead_SNP"],
         "CS_Size": r["CS_Size"],
         "Top_SNP": top["rsid"],
         "Top_SNP_PIP": top["pip"],
-        "FinnGen": out["Top_SNP"].apply(lambda x: finngen_link_for_rsid(x) if pd.notna(x) else None)
+        "FinnGen": link,
     })
+
+out = pd.DataFrame(rows)
 
 out = pd.DataFrame(rows)
 
