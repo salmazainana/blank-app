@@ -33,10 +33,13 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
             alts = parts[1:]
             
             # Choose alt: ancestral if in alts, else first
+            # FIXED LOGIC: 
             if ancestral and ancestral in alts:
-                alt = ancestral
+                alt = ancestral  # Use ancestral if it's an alternate
+            elif ancestral == ref and len(alts) > 1:
+                alt = alts[1]   # Ancestral=ref → pick SECOND alt (most common)
             else:
-                alt = alts[0]
+                alt = alts[0]   # Default: first alt
             
             return f"{chr_num}:{pos}-{ref}-{alt}"
     except Exception:
