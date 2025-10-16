@@ -11,7 +11,7 @@ BASE_URL = f"https://{RELEASE}.finngen.fi"
 
 @st.cache_data(show_spinner=False)
 def get_variant_id_from_rsid(rsid: str) -> str | None:
-    """Get chr:pos-ref-alt from Ensembl API (handles A/G/T format)"""
+    """Get chr:pos-ref-alt from Ensembl API (handles multi-allelic with ancestral)"""
     try:
         r = requests.get(f"https://rest.ensembl.org/variation/human/{rsid}", 
                         headers={"Content-Type": "application/json"}, timeout=6)
@@ -23,13 +23,20 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
             chr_num = mapping["seq_region_name"].replace("23", "X").replace("24", "Y")
             pos = mapping["start"]
             allele_string = mapping["allele_string"]
+            ancestral = data.get("ancestral_allele")
             
-            # Handle "A/G/T" format: split by '/', take first as ref, second as alt
+            # Parse: "G/C/T" → ref='G', alts=['C','T']
             parts = allele_string.split('/')
             if len(parts) < 2:
                 return None
             ref = parts[0]
-            alt = parts[1]
+            alts = parts[1:]
+            
+            # Choose alt: ancestral if in alts, else first
+            if ancestral and ancestral in alts:
+                alt = ancestral
+            else:
+                alt = alts[0]
             
             return f"{chr_num}:{pos}-{ref}-{alt}"
     except Exception:
