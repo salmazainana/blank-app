@@ -14,11 +14,10 @@ BASE_URL = f"https://{RELEASE}.finngen.fi"
 def get_variant_id_from_rsid(rsid: str) -> str | None:
     """
     Query Ensembl REST API to resolve rsID to chr:pos-ref-alt (FinnGen format).
-    Handles multi-allelic variants by taking the first allele pair.
     """
     try:
         r = requests.get(f"https://rest.ensembl.org/variation/human/{rsid}", 
-                         headers={"Content-Type": "application/json"}, timeout=6)
+                        headers={"Content-Type": "application/json"}, timeout=6)
         r.raise_for_status()
         data = r.json()
         if "mappings" in data and data["mappings"]:
@@ -27,18 +26,16 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
             pos = mapping["start"]
             allele_string = mapping["allele_string"]
             
-            # Parse allele_string: "ref/alt1/alt2" → take ref-alt1
-            parts = allele_string.split("/")
-            if len(parts) < 2:
-                return None  # Invalid
-            ref = parts[0]
-            alt = parts[1]
+            # Drop last 2 chars if "/letter" (e.g., "A-G/T" → "A-G")
+            if len(allele_string) >= 3 and allele_string[-2:] == f"/{allele_string[-1]}":
+                allele_string = allele_string[:-2]
             
+            ref, alt = allele_string.split("-", 1)
             return f"{chr}:{pos}-{ref}-{alt}"
     except Exception:
         pass
     return None
-
+    
 def finngen_link_for_rsid(rsid: str) -> str | None:
     """Prefer direct variant page; fall back to the search page if resolution fails."""
     v_id = get_variant_id_from_rsid(rsid)
