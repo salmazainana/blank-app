@@ -23,7 +23,7 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
             chr_num = mapping["seq_region_name"].replace("23", "X").replace("24", "Y")
             pos = mapping["start"]
             allele_string = mapping["allele_string"]
-            ancestral = data.get("ancestral_allele")
+            ancestral = mapping["ancestral_allele"]
             
             # Parse: "G/C/T" → ref='G', alts=['C','T']
             parts = allele_string.split('/')
