@@ -26,7 +26,7 @@ def finngen_link_for_rsid(rsid: str) -> str:
     v_id = get_variant_id_from_rsid(rsid)
     if v_id:
         return f"{BASE_URL}/variant/{v_id}"
-    return f"{BASE_URL}/?query={rsid}"
+    return None
 
 # === Load data ===
 df = pd.read_csv("fine_mapping_summary.csv")
