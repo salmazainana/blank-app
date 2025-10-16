@@ -31,7 +31,18 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
                 allele_string = allele_string[:-2]
             
             ref, alt = allele_string.split("-", 1)
-            return f"{chr}:{pos}-{ref}-{alt}"
+            
+            # BUILD THE EXACT STRING WE WANT
+            result = f"{chr}:{pos}-{ref}-{alt}"
+            
+            # DEBUG: Print for rs9387540 only
+            if rsid == "rs9387540":
+                st.write(f"**DEBUG rs9387540:**")
+                st.write(f"chr='{chr}' | pos={pos} | ref='{ref}' | alt='{alt}'")
+                st.write(f"**FINAL RESULT = '{result}'**")
+                st.write(f"**FULL URL =** {BASE_URL}/variant/{result}")
+            
+            return result
     except Exception:
         pass
     return None
