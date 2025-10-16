@@ -18,7 +18,7 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
     """
     try:
         r = requests.get(f"https://rest.ensembl.org/variation/human/{rsid}", 
-                        headers={"Content-Type": "application/json"}, timeout=6)
+                         headers={"Content-Type": "application/json"}, timeout=6)
         r.raise_for_status()
         data = r.json()
         if "mappings" in data and data["mappings"]:
@@ -27,12 +27,14 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
             pos = mapping["start"]
             allele_string = mapping["allele_string"]
             
-            # Handle multi-allelic: split A-G/T → take first pair A-G
-            if "/" in allele_string:
-                allele_string = allele_string.split("/")[0]  # A-G/T → A-G
+            # Parse allele_string: "ref/alt1/alt2" → take ref-alt1
+            parts = allele_string.split("/")
+            if len(parts) < 2:
+                return None  # Invalid
+            ref = parts[0]
+            alt = parts[1]
             
-            ref, alt = allele_string.split("-", 1)
-            return f"{chr}:{pos}-{ref}-{alt}"  # FinnGen format: colon, not dash
+            return f"{chr}:{pos}-{ref}-{alt}"
     except Exception:
         pass
     return None
