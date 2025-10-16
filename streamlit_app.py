@@ -13,8 +13,8 @@ def get_variant_id_from_rsid(rsid: str) -> str:
     """SIMPLE: Hardcoded lookup for your SNPs + fallback"""
     # HARDCODE YOUR EXACT SNPS THAT WORK
     lookup = {
-        "rs9387540": "10:119556378-A-G",
-        "rs62431217": "6:118026711-C-T"
+        "rs9387540": "6:118026711-C-T",      # ← FIXED: rs9387540 is chr6!
+        "rs2917928": "10:119556378-A-G"      # ← ADDED: rs2917928 is chr10!
     }
     if rsid in lookup:
         return lookup[rsid]
