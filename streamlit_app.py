@@ -1,8 +1,7 @@
 import streamlit as st
-
 import re
 import pandas as pd
-import streamlit as st
+import requests
 
 st.set_page_config(page_title="Fine-mapping summary → FinnGen links", layout="wide")
 st.title("Fine-mapping summary → FinnGen (R12) links")
@@ -10,42 +9,33 @@ st.title("Fine-mapping summary → FinnGen (R12) links")
 # === Settings ===
 RELEASE = "r12"
 BASE_URL = f"https://{RELEASE}.finngen.fi"
-# add near the top
-import requests
-import streamlit as st
-
-RELEASE = "r12"
-BASE_URL = f"https://{RELEASE}.finngen.fi"
 
 @st.cache_data(show_spinner=False)
-def finngen_first_variant_from_rsid(rsid: str) -> str | None:
+def get_variant_id_from_rsid(rsid: str) -> str | None:
     """
-    Ask FinnGen's autocomplete for this rsID and return the first variant path '/variant/chr:pos-ref-alt'.
-    Returns None if nothing sensible is found.
+    Query Ensembl REST API to resolve rsID to chr-pos-ref-alt.
+    Returns the variant ID string or None if resolution fails.
     """
     try:
-        r = requests.get(f"{BASE_URL}/api/autocomplete", params={"q": rsid}, timeout=6)
+        r = requests.get(f"https://rest.ensembl.org/variation/human/{rsid}", headers={"Content-Type": "application/json"}, timeout=6)
         r.raise_for_status()
-        hits = r.json() if r.headers.get("content-type","").startswith("application/json") else []
-        # PheWeb-style results typically include dicts with fields like: {"type":"variant","url":"/variant/6:...-...-...","label":"..."}
-        for h in hits:
-            url = h.get("url") or ""
-            if h.get("type") == "variant" and url.startswith("/variant/"):
-                return BASE_URL + url
-        # fallback: sometimes the 'value' is the variant-id
-        for h in hits:
-            val = str(h.get("value") or "")
-            if h.get("type") == "variant" and val and ":" in val and "-" in val:
-                return f"{BASE_URL}/variant/{val}"
+        data = r.json()
+        if "mappings" in data and data["mappings"]:
+            mapping = data["mappings"][0]
+            chr = mapping["seq_region_name"].replace("23", "X").replace("24", "Y")  # Handle X/Y if needed
+            pos = mapping["start"]
+            allele_string = mapping["allele_string"]
+            if "/" in allele_string:
+                ref, alt = allele_string.split("/", 1)
+                return f"{chr}-{pos}-{ref}-{alt}"
     except Exception:
         pass
     return None
 
 def finngen_link_for_rsid(rsid: str) -> str | None:
     """Prefer direct variant page; fall back to the search page if resolution fails."""
-    v = finngen_first_variant_from_rsid(rsid)
-    return v if v else f"{BASE_URL}/?query={rsid}"
-
+    v_id = get_variant_id_from_rsid(rsid)
+    return f"{BASE_URL}/variant/{v_id}" if v_id else f"{BASE_URL}/?query={rsid}"
 
 # === Load data ===
 # Make sure your CSV file is committed in the same directory as this script.
@@ -73,7 +63,7 @@ def parse_top_pip_snps(cell: str):
                 except ValueError:
                     pip_val = None
             items.append({"rsid": rsid, "pip": pip_val})
-    items.sort(key=lambda d: (-d["pip"] if isinstance(d["pip"], (float, int)) else float("inf")))
+    items.sort(key=lambda d: (-d["pip"] if isinstance(d["pip"], (float, int)) else float("-inf")))
     return items
 
 # === Build table ===
@@ -94,8 +84,6 @@ for _, r in df.iterrows():
 
 out = pd.DataFrame(rows)
 
-out = pd.DataFrame(rows)
-
 # === Display ===
 st.dataframe(
     out,
@@ -110,4 +98,3 @@ st.markdown(f"""
 This table shows each GWAS file, its lead SNP, number of credible sets,
 and the **top SNP by PIP** with a direct link to the [FinnGen {RELEASE} browser]({BASE_URL}).
 """)
-
