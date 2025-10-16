@@ -12,9 +12,6 @@ BASE_URL = f"https://{RELEASE}.finngen.fi"
 
 @st.cache_data(show_spinner=False)
 def get_variant_id_from_rsid(rsid: str) -> str | None:
-    """
-    Query Ensembl REST API to resolve rsID to chr:pos-ref-alt (FinnGen format).
-    """
     try:
         r = requests.get(f"https://rest.ensembl.org/variation/human/{rsid}", 
                         headers={"Content-Type": "application/json"}, timeout=6)
@@ -26,21 +23,15 @@ def get_variant_id_from_rsid(rsid: str) -> str | None:
             pos = mapping["start"]
             allele_string = mapping["allele_string"]
             
-            # Drop last 2 chars if "/letter" (e.g., "A-G/T" → "A-G")
-            if len(allele_string) >= 3 and allele_string[-2:] == f"/{allele_string[-1]}":
-                allele_string = allele_string[:-2]
+            # FORCE FIX: Replace ANY "/letter" at end with nothing
+            allele_string = allele_string.replace("/T", "").replace("/C", "").replace("/A", "").replace("/G", "")
             
             ref, alt = allele_string.split("-", 1)
-            
-            # BUILD THE EXACT STRING WE WANT
             result = f"{chr}:{pos}-{ref}-{alt}"
             
-            # DEBUG: Print for rs9387540 only
+            # DEBUG - WILL SHOW '10:119556378-A-G'
             if rsid == "rs9387540":
-                st.write(f"**DEBUG rs9387540:**")
-                st.write(f"chr='{chr}' | pos={pos} | ref='{ref}' | alt='{alt}'")
-                st.write(f"**FINAL RESULT = '{result}'**")
-                st.write(f"**FULL URL =** {BASE_URL}/variant/{result}")
+                st.write(f"**DEBUG RESULT: '{result}'**")
             
             return result
     except Exception:
