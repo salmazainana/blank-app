@@ -13,21 +13,26 @@ BASE_URL = f"https://{RELEASE}.finngen.fi"
 @st.cache_data(show_spinner=False)
 def get_variant_id_from_rsid(rsid: str) -> str | None:
     """
-    Query Ensembl REST API to resolve rsID to chr-pos-ref-alt.
-    Returns the variant ID string or None if resolution fails.
+    Query Ensembl REST API to resolve rsID to chr:pos-ref-alt (FinnGen format).
+    Handles multi-allelic variants by taking the first allele pair.
     """
     try:
-        r = requests.get(f"https://rest.ensembl.org/variation/human/{rsid}", headers={"Content-Type": "application/json"}, timeout=6)
+        r = requests.get(f"https://rest.ensembl.org/variation/human/{rsid}", 
+                        headers={"Content-Type": "application/json"}, timeout=6)
         r.raise_for_status()
         data = r.json()
         if "mappings" in data and data["mappings"]:
             mapping = data["mappings"][0]
-            chr = mapping["seq_region_name"].replace("23", "X").replace("24", "Y")  # Handle X/Y if needed
+            chr = mapping["seq_region_name"].replace("23", "X").replace("24", "Y")
             pos = mapping["start"]
             allele_string = mapping["allele_string"]
+            
+            # Handle multi-allelic: split A-G/T → take first pair A-G
             if "/" in allele_string:
-                ref, alt = allele_string.split("/", 1)
-                return f"{chr}-{pos}-{ref}-{alt}"
+                allele_string = allele_string.split("/")[0]  # A-G/T → A-G
+            
+            ref, alt = allele_string.split("-", 1)
+            return f"{chr}:{pos}-{ref}-{alt}"  # FinnGen format: colon, not dash
     except Exception:
         pass
     return None
