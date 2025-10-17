@@ -1,497 +1,497 @@
 GWAS_File,Lead_SNP,CS_Size,Top_PIP_SNPs
-lead10_level2_energy.glm.linear,rs11153730,3,rs9387540 (1.000); rs62431217 (0.648)
-lead10_level2_energy.glm.linear,rs2234962,5,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs7075684 (0.999); rs12569630 (1.000)
-lead10_level2_energy.glm.linear,rs55770006,3,rs9387540 (1.000); rs62431217 (0.648)
-lead10_level3_energy.glm.linear,rs11153730,4,rs3734382 (1.000); rs117998291 (1.000); rs34911654 (1.000); rs10872168 (1.000)
-lead10_level3_energy.glm.linear,rs12210810,4,rs3734382 (1.000); rs117998291 (1.000); rs34911654 (1.000); rs10872168 (1.000)
-lead10_level3_energy.glm.linear,rs306206,0,rs1107179 (0.893)
-lead10_level3_energy.glm.linear,rs499906,2,rs9304167 (1.000); rs323295 (1.000)
-lead10_level3_energy.glm.linear,rs7342028,3,Affx-2533062 (0.454); rs7342028 (0.421); rs34050148 (0.087)
-lead10_level4_energy.glm.linear,rs11970286,3,rs4373391 (1.000); rs9387540 (1.000); rs11153717 (1.000)
-lead10_level4_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead10_level4_energy.glm.linear,rs306206,4,rs11633181 (0.998); rs1107179 (1.000); rs306206 (0.884)
-lead10_level4_energy.glm.linear,rs6480726,5,rs7069584 (1.000); rs2270548 (1.000); rs35601073 (0.997); rs7093532 (1.000); rs6480741 (0.996)
-lead10_level4_energy.glm.linear,rs7166231,1,rs7166231 (1.000)
-lead10_level4_energy.glm.linear,rs950169,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead10_level5_energy.glm.linear,rs11857366,3,rs11857366 (1.000); rs907808 (1.000); rs8041224 (1.000); rs870306 (0.801)
-lead10_level5_energy.glm.linear,rs17410855,4,rs3014242 (1.000); rs1250 (1.000); rs6666763 (1.000); rs1622208 (1.000)
-lead10_level5_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead10_level5_energy.glm.linear,rs58416181,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead10_level5_energy.glm.linear,rs6784842,1,rs7429135 (0.997); rs12639437 (0.609)
-lead10_level6_approx_energy.glm.linear,Affx-52364873,5,rs6599238 (1.000); rs6599240 (0.967); rs6801957 (0.760); rs9830687 (0.551); Affx-52364873 (0.993)
-lead10_level6_approx_energy.glm.linear,rs116015634,4,rs658806 (1.000); rs4660456 (1.000); rs823673 (0.832)
-lead10_level6_approx_energy.glm.linear,rs116544863,1,rs116544863 (0.999)
-lead10_level6_approx_energy.glm.linear,rs12454640,1,rs7226648 (0.741); rs12454640 (1.000)
-lead10_level6_approx_energy.glm.linear,rs12923640,0,rs12923640 (0.142); rs7201421 (0.108); rs6498186 (0.077)
-lead10_level6_approx_energy.glm.linear,rs679200,3,rs33973564 (1.000); rs612711 (1.000); rs640996 (1.000)
-lead10_level6_approx_energy.glm.linear,rs6801957,5,rs6599238 (1.000); rs6599240 (0.972); rs6801957 (0.760); rs9830687 (0.583); Affx-52364873 (0.993)
-lead10_level6_approx_energy.glm.linear,rs728926,2,rs728926 (1.000); rs1570745 (1.000)
-lead10_level6_energy.glm.linear,Affx-52364873,3,rs6599238 (0.999); rs6599240 (0.911); Affx-52364873 (0.958)
-lead10_level6_energy.glm.linear,rs58416181,4,rs1107179 (0.981)
-lead10_level6_energy.glm.linear,rs6784842,2,rs7429135 (1.000); rs12639437 (1.000)
-lead10_level6_energy.glm.linear,rs6801957,5,rs6599238 (1.000); rs6599240 (0.965); rs6801957 (0.506); Affx-52364873 (0.973)
-lead11_level2_energy.glm.linear,rs11153730,3,rs9387540 (1.000); rs62431217 (0.594)
-lead11_level2_energy.glm.linear,rs762624,5,rs9470361 (0.715); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead11_level3_energy.glm.linear,rs11633181,5,rs4842918 (0.903); rs12904682 (0.977); rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.999)
-lead11_level3_energy.glm.linear,rs11970286,3,rs4373391 (1.000); rs9387540 (0.999); rs11153717 (1.000)
-lead11_level3_energy.glm.linear,rs17362588,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead11_level3_energy.glm.linear,rs762624,5,rs9470361 (0.558); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead11_level4_energy.glm.linear,rs11633181,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead11_level4_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead11_level4_energy.glm.linear,rs6784842,3,rs6784842 (0.563)
-lead11_level4_energy.glm.linear,rs79146658,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead11_level5_energy.glm.linear,rs145281025,4,rs114948848 (0.999); rs145281025 (1.000); DPB1_401 (1.000); rs3130216 (1.000)
-lead11_level5_energy.glm.linear,rs17367504,4,rs4846054 (1.000); rs198375 (0.999); rs34593006 (0.973); rs9661078 (0.987)
-lead11_level5_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead11_level5_energy.glm.linear,rs58416181,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead11_level5_energy.glm.linear,rs62027818,2,rs4842918 (0.562); rs4842939 (1.000); rs11633181 (1.000)
-lead11_level5_energy.glm.linear,rs6784842,3,rs6784842 (0.600)
-lead11_level5_energy.glm.linear,rs9274569,4,rs114948848 (1.000); rs78825896 (0.995); rs145281025 (1.000); DPB1_401 (1.000)
-lead11_level6_approx_energy.glm.linear,Affx-52364873,2,rs6599238 (1.000); Affx-52364873 (1.000)
-lead11_level6_approx_energy.glm.linear,rs11067246,2,rs11067246 (1.000); rs6489973 (1.000)
-lead11_level6_approx_energy.glm.linear,rs116015634,4,rs658806 (1.000); rs12073537 (1.000); rs4660456 (1.000); rs823673 (1.000)
-lead11_level6_approx_energy.glm.linear,rs116544863,2,rs116544863 (0.881)
-lead11_level6_approx_energy.glm.linear,rs6762208,0,rs7429135 (0.820)
-lead11_level6_approx_energy.glm.linear,rs728926,4,rs4883948 (1.000); rs2274086 (1.000); rs728926 (1.000); rs1570745 (1.000)
-lead11_level6_energy.glm.linear,Affx-13934985,3,rs199442 (1.000); rs199536 (1.000); rs199530 (1.000)
-lead11_level6_energy.glm.linear,Affx-52364873,2,rs6599238 (1.000); Affx-52364873 (0.993)
-lead11_level6_energy.glm.linear,rs10054375,4,rs816040 (1.000); rs2434375 (1.000); rs10054375 (0.722)
-lead11_level6_energy.glm.linear,rs11067246,4,rs11067246 (1.000); rs6489973 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead11_level6_energy.glm.linear,rs17831429,3,rs12764660 (0.560); rs10885030 (0.980); rs10749053 (0.999); rs17831429 (0.993)
-lead11_level6_energy.glm.linear,rs1883085,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead11_level6_energy.glm.linear,rs3096690,4,rs114948848 (1.000); rs10484561 (0.999); rs78825896 (0.999); rs145281025 (1.000)
-lead11_level6_energy.glm.linear,rs3132450,0,rs644045 (0.005); rs2596473 (0.004); B_3901 (0.004)
-lead11_level6_energy.glm.linear,rs58416181,5,rs17300406 (1.000); rs4842939 (1.000); rs11633181 (1.000); rs2879971 (1.000); rs1107179 (0.998)
-lead11_level6_energy.glm.linear,rs6784842,3,rs7429135 (0.949); rs61587156 (1.000); rs7647305 (1.000)
-lead12_level2_energy.glm.linear,rs11153730,3,rs9387540 (1.000); rs62431217 (0.802)
-lead12_level2_energy.glm.linear,rs4842994,1,rs1107179 (0.940)
-lead12_level2_energy.glm.linear,rs762624,4,rs9470361 (0.967); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead12_level3_energy.glm.linear,rs11153730,4,rs9387540 (1.000); rs62431214 (0.949); rs62431217 (0.719)
-lead12_level3_energy.glm.linear,rs306206,2,rs11633181 (0.992); rs1107179 (1.000)
-lead12_level3_energy.glm.linear,rs62027818,3,rs4842918 (0.911); rs4842939 (1.000); rs11633181 (1.000)
-lead12_level3_energy.glm.linear,rs762624,5,rs9470361 (0.836); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead12_level4_energy.glm.linear,rs11633181,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.991)
-lead12_level4_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead12_level4_energy.glm.linear,rs762624,5,rs9470361 (0.640); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead12_level5_energy.glm.linear,Affx-13925660,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead12_level5_energy.glm.linear,rs10850409,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead12_level5_energy.glm.linear,rs11067246,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead12_level5_energy.glm.linear,rs11784192,3,rs10505438 (1.000); rs11784192 (0.805)
-lead12_level5_energy.glm.linear,rs11857366,3,rs11857366 (1.000); rs907808 (1.000); rs8041224 (1.000)
-lead12_level5_energy.glm.linear,rs13061708,0,rs13076191 (0.174); rs12152485 (0.168); rs12696549 (0.159)
-lead12_level5_energy.glm.linear,rs17367504,2,rs4846054 (1.000); rs198375 (0.995)
-lead12_level5_energy.glm.linear,rs17831429,2,rs10749053 (0.997); rs17831429 (0.999)
-lead12_level5_energy.glm.linear,rs1883085,4,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291312 (1.000)
-lead12_level5_energy.glm.linear,rs199529,5,rs199448 (1.000); rs199442 (1.000); rs199536 (1.000); rs199533 (1.000); rs199530 (1.000)
-lead12_level5_energy.glm.linear,rs2696624,2,rs199442 (1.000); rs199536 (1.000)
-lead12_level5_energy.glm.linear,rs35516100,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead12_level5_energy.glm.linear,rs62027818,2,rs4842918 (0.745); rs4842939 (1.000); rs11633181 (1.000)
-lead12_level6_approx_energy.glm.linear,Affx-52364873,2,rs6599238 (1.000); Affx-52364873 (0.998)
-lead12_level6_approx_energy.glm.linear,rs11067246,4,rs11067246 (1.000); rs6489973 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead12_level6_approx_energy.glm.linear,rs116015634,1,rs116015634 (1.000)
-lead12_level6_approx_energy.glm.linear,rs116544863,6,rs116544863 (0.881); rs17037804 (0.977)
-lead12_level6_approx_energy.glm.linear,rs6762208,0,rs7429135 (0.266); rs12696549 (0.161); rs6762208 (0.150)
-lead12_level6_approx_energy.glm.linear,rs728926,4,rs4883948 (1.000); rs2274086 (1.000); rs728926 (1.000); rs1570745 (1.000)
-lead12_level6_energy.glm.linear,Affx-13925660,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead12_level6_energy.glm.linear,rs10850409,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead12_level6_energy.glm.linear,rs11067246,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead12_level6_energy.glm.linear,rs11784192,3,rs10505438 (1.000); rs11784192 (0.732)
-lead12_level6_energy.glm.linear,rs17367504,1,rs4846054 (0.957)
-lead12_level6_energy.glm.linear,rs17831429,4,rs12764660 (0.937); rs10885030 (0.999); rs7069694 (0.819); rs10749053 (0.999); rs17831429 (0.996)
-lead12_level6_energy.glm.linear,rs1883085,4,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291312 (1.000)
-lead12_level6_energy.glm.linear,rs199529,5,rs199448 (1.000); rs199442 (1.000); rs199536 (1.000); rs199533 (1.000); rs199530 (1.000)
-lead12_level6_energy.glm.linear,rs2696624,2,rs199442 (1.000); rs199536 (1.000)
-lead12_level6_energy.glm.linear,rs35516100,4,rs17300406 (1.000); rs4842939 (1.000); rs11633181 (1.000); rs2879971 (1.000)
-lead12_level6_energy.glm.linear,rs4984806,5,rs17807841 (1.000); rs4984806 (1.000); rs78931180 (1.000); rs4984836 (1.000); rs35583599 (1.000)
-lead12_level6_energy.glm.linear,rs6784842,0,rs7647305 (0.371); rs61587156 (0.371); rs7429135 (0.298)
-lead12_level6_energy.glm.linear,rs7028995,5,rs12002810 (1.000); rs116529814 (0.999); rs7028995 (0.823)
-lead12_level6_energy.glm.linear,rs77188861,1,rs77188861 (0.984)
-lead12_level6_energy.glm.linear,rs77961995,3,rs255318 (0.997); rs77961995 (0.864)
-lead1_level3_energy.glm.linear,rs10054375,4,rs112084781 (1.000); rs2544880 (1.000); rs1421813 (1.000); rs1974777 (1.000)
-lead1_level3_energy.glm.linear,rs11067246,3,rs11067246 (0.999); rs1896312 (1.000); rs10850409 (1.000)
-lead1_level3_energy.glm.linear,rs1324007,1,rs9526222 (0.905)
-lead1_level3_energy.glm.linear,rs13386459,5,rs12617155 (1.000); rs7564856 (1.000); rs13386459 (1.000); rs1983210 (1.000); rs3183099 (0.965)
-lead1_level3_energy.glm.linear,rs2958149,2,rs2950390 (1.000); rs2958154 (1.000)
-lead1_level3_energy.glm.linear,rs306206,1,rs1107179 (0.989)
-lead1_level3_energy.glm.linear,rs34160967,2,rs6693391 (1.000); rs35375392 (1.000)
-lead1_level3_energy.glm.linear,rs4713996,4,rs9470361 (0.991); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead1_level3_energy.glm.linear,rs55824920,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
-lead1_level3_energy.glm.linear,rs950169,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000); rs11637728 (0.671)
-lead1_level4_energy.glm.linear,Affx-2533062,0,Affx-2533062 (0.370); rs7342028 (0.252); rs34050148 (0.175)
-lead1_level4_energy.glm.linear,rs10054375,2,rs10054375 (0.756); rs4958377 (0.645)
-lead1_level4_energy.glm.linear,rs10850409,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead1_level4_energy.glm.linear,rs11067246,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead1_level4_energy.glm.linear,rs1107179,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead1_level4_energy.glm.linear,rs12906247,2,rs12904682 (0.793); rs4842939 (1.000); rs11633181 (1.000)
-lead1_level4_energy.glm.linear,rs13386459,3,Affx-19148793 (1.000); rs11685912 (1.000); rs59332477 (1.000)
-lead1_level4_energy.glm.linear,rs1566643,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead1_level4_energy.glm.linear,rs2042995,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead1_level4_energy.glm.linear,rs2374381,0,rs4952542 (0.596)
-lead1_level4_energy.glm.linear,rs262121,6,rs262121 (0.268); rs262129 (0.186); rs3748069 (0.177)
-lead1_level4_energy.glm.linear,rs2926743,3,rs2950390 (1.000); rs2958154 (1.000); rs1800194 (1.000)
-lead1_level4_energy.glm.linear,rs4713996,4,rs9470361 (0.963); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead1_level4_energy.glm.linear,rs61732533,2,rs61732533 (0.832)
-lead1_level4_energy.glm.linear,rs6561323,0,rs9526222 (0.524)
-lead1_level4_energy.glm.linear,rs6810325,2,rs2442804 (1.000); rs9874315 (1.000)
-lead1_level5_energy.glm.linear,Affx-13925660,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead1_level5_energy.glm.linear,Affx-13934460,3,rs183211 (0.993); rs199442 (1.000); rs199536 (1.000)
-lead1_level5_energy.glm.linear,rs10850409,4,rs10850375 (1.000); rs35634211 (1.000); rs12318789 (1.000); rs116860533 (1.000)
-lead1_level5_energy.glm.linear,rs11067246,4,rs10850375 (1.000); rs35634211 (1.000); rs12318789 (1.000); rs116860533 (1.000)
-lead1_level5_energy.glm.linear,rs11073663,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead1_level5_energy.glm.linear,rs12188412,3,rs61551899 (1.000); rs6898804 (1.000); rs12188412 (1.000)
-lead1_level5_energy.glm.linear,rs12542527,3,rs6992468 (1.000); rs12542527 (0.996); rs10110021 (1.000)
-lead1_level5_energy.glm.linear,rs1566643,4,rs10850375 (1.000); rs35634211 (1.000); rs12318789 (1.000); rs116860533 (1.000)
-lead1_level5_energy.glm.linear,rs2042995,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead1_level5_energy.glm.linear,rs2298632,3,rs7514394 (1.000); rs10917431 (1.000); rs4649124 (1.000)
-lead1_level5_energy.glm.linear,rs2374381,0,rs4952542 (0.772)
-lead1_level5_energy.glm.linear,rs34050148,3,rs34050148 (0.668)
-lead1_level5_energy.glm.linear,rs3748069,4,rs3748069 (0.487); rs7776375 (0.284); rs262121 (0.103)
-lead1_level5_energy.glm.linear,rs61732533,2,rs61732533 (0.649)
-lead1_level5_energy.glm.linear,rs6810325,2,rs2442804 (1.000); rs9874315 (1.000)
-lead1_level5_energy.glm.linear,rs706606,2,rs1262775 (1.000); rs1638703 (1.000)
-lead1_level6_approx_energy.glm.linear,Affx-9453681,2,rs1262775 (1.000); rs1638703 (1.000)
-lead1_level6_approx_energy.glm.linear,rs11067246,4,rs10850365 (0.826); rs35789998 (1.000); rs74667501 (1.000); rs12318789 (0.998); rs10850409 (1.000)
-lead1_level6_approx_energy.glm.linear,rs12188412,3,rs61551899 (1.000); rs6898804 (1.000); rs12188412 (1.000)
-lead1_level6_approx_energy.glm.linear,rs2074238,1,rs2074238 (1.000)
-lead1_level6_approx_energy.glm.linear,rs2298632,5,rs2235547 (1.000); rs1738475 (1.000); rs2298632 (0.993); rs716243 (0.989); rs11574 (1.000)
-lead1_level6_approx_energy.glm.linear,rs34050148,1,rs10885375 (0.889); rs34050148 (0.957)
-lead1_level6_approx_energy.glm.linear,rs3748069,5,rs3748069 (0.374); rs262121 (0.212); rs7776375 (0.202)
-lead1_level6_approx_energy.glm.linear,rs687050,3,rs33973564 (1.000); rs612711 (1.000); rs640996 (1.000)
-lead1_level6_approx_energy.glm.linear,rs728926,3,rs728926 (1.000); rs1570745 (1.000); rs9592965 (0.994)
-lead1_level6_approx_energy.glm.linear,rs7629354,4,rs7629354 (0.555)
-lead1_level6_energy.glm.linear,Affx-13930382,3,Affx-13925346 (1.000); Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead1_level6_energy.glm.linear,Affx-9453681,2,rs1262775 (1.000); rs1638703 (1.000)
-lead1_level6_energy.glm.linear,rs10900864,4,rs1545036 (1.000); rs3172746 (1.000); rs11242459 (1.000); Affx-25714575 (1.000)
-lead1_level6_energy.glm.linear,rs11067246,5,rs10850365 (0.960); rs35789998 (1.000); rs74667501 (1.000); rs73210608 (1.000); rs10850409 (1.000)
-lead1_level6_energy.glm.linear,rs12188412,3,rs61551899 (1.000); rs6898804 (1.000); rs12188412 (1.000)
-lead1_level6_energy.glm.linear,rs12542527,4,rs6992468 (0.980); rs12542527 (1.000); rs10110021 (1.000); rs4567058 (0.994)
-lead1_level6_energy.glm.linear,rs1405210,5,rs654128 (1.000); rs339329 (1.000); rs1321364 (1.000); rs2498925 (0.996); rs1405210 (1.000)
-lead1_level6_energy.glm.linear,rs145809511,5,rs199515 (1.000); rs1662576 (1.000); rs7342957 (1.000); rs7225428 (1.000); rs197919 (1.000)
-lead1_level6_energy.glm.linear,rs1896312,5,rs10850365 (0.957); rs35789998 (1.000); rs74667501 (1.000); rs73210608 (1.000); rs10850409 (1.000)
-lead1_level6_energy.glm.linear,rs2298632,5,rs2235547 (0.962); rs7514394 (1.000); rs7515969 (1.000); rs10917431 (1.000); rs4649124 (1.000)
-lead1_level6_energy.glm.linear,rs34050148,5,rs7342028 (1.000); rs7915752 (1.000); rs17130052 (1.000); rs6585185 (1.000); rs118076713 (1.000)
-lead1_level6_energy.glm.linear,rs3748069,5,rs3748069 (0.331); rs7776375 (0.274); rs262121 (0.218)
-lead1_level6_energy.glm.linear,rs3798371,4,rs2498925 (1.000); rs1405210 (1.000); rs1166180 (0.892); rs72957407 (0.949); rs3798371 (0.998)
-lead1_level6_energy.glm.linear,rs4074536,5,rs7551746 (1.000); rs10127797 (1.000); rs12144451 (1.000); rs9428225 (1.000); rs4074536 (1.000)
-lead1_level6_energy.glm.linear,rs4466711,3,rs7097008 (1.000); rs7895833 (1.000); rs503677 (1.000)
-lead1_level6_energy.glm.linear,rs5026246,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead1_level6_energy.glm.linear,rs6810325,2,rs2442804 (1.000); rs9874315 (1.000)
-lead1_level6_energy.glm.linear,rs687050,3,rs33973564 (1.000); rs612711 (1.000); rs640996 (1.000)
-lead1_level6_energy.glm.linear,rs77961995,4,rs29783 (1.000); rs255318 (1.000); rs77961995 (0.991); rs2216553 (1.000); rs12514746 (0.530)
-lead2_level3_energy.glm.linear,rs10850409,2,rs1896312 (1.000); rs10850409 (1.000)
-lead2_level3_energy.glm.linear,rs11153730,0,rs9387565 (0.386); rs9387535 (0.118); rs11153730 (0.046)
-lead2_level3_energy.glm.linear,rs11857366,4,rs56190996 (1.000); rs4966013 (1.000); rs11857366 (1.000); rs907808 (1.000)
-lead2_level3_energy.glm.linear,rs2234962,4,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs12569630 (1.000)
-lead2_level3_energy.glm.linear,rs306206,3,rs11633181 (0.977); rs1107179 (1.000); rs306206 (0.960)
-lead2_level3_energy.glm.linear,rs762624,4,rs9470361 (0.985); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead2_level3_energy.glm.linear,rs9850919,5,rs1290788 (1.000); rs17485501 (1.000); rs1918974 (1.000); rs9850919 (1.000); rs7613621 (1.000)
-lead2_level4_energy.glm.linear,Affx-13928731,4,Affx-13925506 (1.000); Affx-92043049 (1.000); Affx-92045443 (1.000); Affx-92045444 (1.000)
-lead2_level4_energy.glm.linear,rs10850409,5,rs2384550 (1.000); rs2195097 (1.000); rs12318789 (1.000); rs73210608 (1.000); rs4994122 (1.000)
-lead2_level4_energy.glm.linear,rs11067246,5,rs2195097 (1.000); rs12318789 (1.000); rs73210608 (1.000); rs58269708 (1.000); rs78525245 (1.000)
-lead2_level4_energy.glm.linear,rs12902672,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead2_level4_energy.glm.linear,rs2288323,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead2_level4_energy.glm.linear,rs306206,1,rs1107179 (0.985)
-lead2_level4_energy.glm.linear,rs57701885,2,rs57701885 (0.608)
-lead2_level4_energy.glm.linear,rs6726147,1,rs2371573 (0.972); rs12694279 (0.714); rs6726147 (0.768)
-lead2_level4_energy.glm.linear,rs6784842,3,rs9681668 (0.505)
-lead2_level4_energy.glm.linear,rs77188861,1,rs77188861 (1.000)
-lead2_level4_energy.glm.linear,rs8327,4,Affx-13924541 (1.000); Affx-13924674 (1.000); Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead2_level4_energy.glm.linear,rs883894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead2_level5_energy.glm.linear,Affx-13930382,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead2_level5_energy.glm.linear,Affx-79512291,5,rs199442 (1.000); rs199536 (1.000); rs199533 (1.000); rs199530 (1.000); rs199509 (1.000)
-lead2_level5_energy.glm.linear,rs10850409,5,rs2384550 (1.000); rs2195097 (1.000); rs12318789 (1.000); rs73210608 (1.000); rs4994122 (1.000)
-lead2_level5_energy.glm.linear,rs11067246,5,rs2384550 (1.000); rs2195097 (1.000); rs12318789 (1.000); rs73210608 (1.000); rs4994122 (1.000)
-lead2_level5_energy.glm.linear,rs13061708,3,rs13061708 (0.572)
-lead2_level5_energy.glm.linear,rs1883085,4,rs7585334 (1.000); rs2291310 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead2_level5_energy.glm.linear,rs3803403,1,rs1107179 (0.975)
-lead2_level5_energy.glm.linear,rs3823183,0,rs3823183 (0.234); rs10484325 (0.197); rs72825089 (0.140)
-lead2_level5_energy.glm.linear,rs5026246,4,Affx-13924541 (1.000); Affx-13924674 (1.000); Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead2_level5_energy.glm.linear,rs55896578,2,rs72728427 (1.000); rs1859643 (1.000)
-lead2_level5_energy.glm.linear,rs77188861,1,rs77188861 (0.999)
-lead2_level5_energy.glm.linear,rs883894,4,rs7585334 (1.000); rs2291310 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead2_level6_approx_energy.glm.linear,Affx-13928731,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead2_level6_approx_energy.glm.linear,Affx-52364873,4,rs6599238 (1.000); rs6599240 (0.769); rs6801957 (0.711); Affx-52364873 (0.999)
-lead2_level6_approx_energy.glm.linear,rs11067246,3,rs11067246 (0.994); rs1896312 (1.000); rs10850409 (1.000)
-lead2_level6_approx_energy.glm.linear,rs116015634,3,rs12073537 (1.000); rs823673 (1.000); rs116015634 (0.968)
-lead2_level6_approx_energy.glm.linear,rs116544863,1,rs116544863 (0.989)
-lead2_level6_approx_energy.glm.linear,rs12923640,2,rs6498222 (1.000); rs12918651 (1.000)
-lead2_level6_approx_energy.glm.linear,rs13061708,0,rs7429135 (0.198); rs13061708 (0.143); rs73175579 (0.111)
-lead2_level6_approx_energy.glm.linear,rs883894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead2_level6_energy.glm.linear,Affx-79512291,5,rs199442 (1.000); rs199536 (1.000); rs199533 (1.000); rs199530 (1.000); rs199509 (1.000)
-lead2_level6_energy.glm.linear,Affx-92039435,4,Affx-13924674 (1.000); Affx-92045303 (1.000); Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead2_level6_energy.glm.linear,Affx-92043101,4,Affx-13924674 (1.000); Affx-92045303 (1.000); Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead2_level6_energy.glm.linear,Affx-9453681,3,rs2066615 (0.692); Affx-9453681 (1.000); rs2765768 (0.995); rs706606 (1.000)
-lead2_level6_energy.glm.linear,rs10850409,5,rs11067228 (1.000); rs484443 (1.000); rs11067246 (1.000); rs2384550 (1.000); rs4994122 (1.000)
-lead2_level6_energy.glm.linear,rs11067228,5,rs11067228 (1.000); rs484443 (1.000); rs11067246 (1.000); rs2384550 (1.000); rs4994122 (1.000)
-lead2_level6_energy.glm.linear,rs11067246,5,rs11067246 (1.000); rs2384550 (1.000); rs4994122 (1.000); rs11067345 (1.000); rs2195096 (1.000)
-lead2_level6_energy.glm.linear,rs11784175,3,rs10505438 (0.984); rs11784192 (0.772)
-lead2_level6_energy.glm.linear,rs13061708,0,rs7429135 (0.390); rs6804935 (0.077); rs13061708 (0.062)
-lead2_level6_energy.glm.linear,rs2271322,0,rs2271322 (0.328); rs354209 (0.112); rs4672003 (0.070)
-lead2_level6_energy.glm.linear,rs2742347,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead2_level6_energy.glm.linear,rs3750733,2,rs1411924 (0.998); rs3750733 (1.000); rs2776944 (0.893)
-lead2_level6_energy.glm.linear,rs3803403,0,rs1107179 (0.631)
-lead2_level6_energy.glm.linear,rs6489995,5,rs11067228 (1.000); rs484443 (1.000); rs11067246 (1.000); rs2384550 (1.000); rs4994122 (1.000)
-lead2_level6_energy.glm.linear,rs668477,0,rs12967102 (0.410); rs668477 (0.223); rs12454748 (0.206)
-lead2_level6_energy.glm.linear,rs72711231,3,rs10505438 (0.984); rs11784192 (0.772)
-lead2_level6_energy.glm.linear,rs77188861,3,rs2455144 (0.996); rs6670328 (0.922); rs77188861 (0.999)
-lead2_level6_energy.glm.linear,rs883894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead3_level1_energy.glm.linear,rs12055433,1,rs12055433 (1.000)
-lead3_level3_energy.glm.linear,rs11073663,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.999)
-lead3_level3_energy.glm.linear,rs11153730,0,rs9387565 (0.249); rs9387540 (0.184); rs284921 (0.136)
-lead3_level3_energy.glm.linear,rs2234962,4,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs12569630 (1.000)
-lead3_level3_energy.glm.linear,rs34940894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead3_level3_energy.glm.linear,rs950169,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead3_level4_energy.glm.linear,Affx-18566111,5,rs2627037 (1.000); rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291312 (1.000)
-lead3_level4_energy.glm.linear,rs11073663,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.999)
-lead3_level4_energy.glm.linear,rs1405210,4,rs654128 (1.000); rs339329 (1.000); rs1321364 (1.000); rs1405210 (0.978)
-lead3_level4_energy.glm.linear,rs34940894,5,rs2627037 (1.000); rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291312 (1.000)
-lead3_level4_energy.glm.linear,rs950169,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead3_level5_energy.glm.linear,Affx-18566111,5,rs2627037 (1.000); rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291312 (1.000)
-lead3_level5_energy.glm.linear,rs1405210,3,rs654128 (1.000); rs339329 (1.000); rs1321364 (1.000)
-lead3_level5_energy.glm.linear,rs2008262,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.999)
-lead3_level5_energy.glm.linear,rs34940894,5,rs2627037 (1.000); rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291312 (1.000)
-lead3_level6_approx_energy.glm.linear,rs1405210,4,rs654128 (1.000); rs339329 (1.000); rs1321364 (1.000); rs1405210 (1.000)
-lead3_level6_approx_energy.glm.linear,rs34050148,3,rs34050148 (0.397); rs17130052 (0.354); Affx-2533062 (0.234)
-lead3_level6_energy.glm.linear,rs1405210,4,rs654128 (1.000); rs339329 (1.000); rs1321364 (1.000); rs1405210 (0.997)
-lead4_level3_energy.glm.linear,rs10850409,2,rs1896312 (1.000); rs10850409 (1.000)
-lead4_level3_energy.glm.linear,rs11067246,2,rs1896312 (1.000); rs10850409 (1.000)
-lead4_level3_energy.glm.linear,rs11153730,3,rs9387540 (1.000); rs62431217 (0.848)
-lead4_level3_energy.glm.linear,rs17362588,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level3_energy.glm.linear,rs2028004,5,rs35769760 (1.000); rs12311063 (1.000); rs7958683 (0.949); rs4766497 (1.000); rs11065719 (1.000)
-lead4_level3_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead4_level3_energy.glm.linear,rs2932971,2,rs4522851 (1.000); rs619646 (1.000)
-lead4_level3_energy.glm.linear,rs306206,0,rs1107179 (0.856)
-lead4_level3_energy.glm.linear,rs3922844,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
-lead4_level3_energy.glm.linear,rs55742743,5,rs2627037 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level3_energy.glm.linear,rs55824920,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
-lead4_level3_energy.glm.linear,rs6561321,0,rs9526222 (0.551)
-lead4_level3_energy.glm.linear,rs6890391,4,rs29783 (1.000); rs255318 (1.000); rs77961995 (0.995); rs2216553 (1.000)
-lead4_level3_energy.glm.linear,rs705708,5,rs2456973 (0.868); rs2292239 (1.000); rs705708 (1.000); rs11171747 (1.000)
-lead4_level3_energy.glm.linear,rs762624,4,rs9470361 (0.994); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead4_level3_energy.glm.linear,rs950169,4,rs4842918 (0.930); rs12904682 (0.618); rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead4_level4_energy.glm.linear,Affx-13930382,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead4_level4_energy.glm.linear,rs10850409,3,rs12318789 (1.000); rs116860533 (1.000); rs4994122 (1.000)
-lead4_level4_energy.glm.linear,rs11067246,5,rs117902264 (1.000); rs75722275 (1.000); rs12318789 (1.000); rs116860533 (1.000); rs4994122 (1.000)
-lead4_level4_energy.glm.linear,rs12902672,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead4_level4_energy.glm.linear,rs13386459,3,Affx-19148793 (1.000); rs11685912 (1.000); rs59332477 (1.000)
-lead4_level4_energy.glm.linear,rs1361108,5,rs12202204 (0.995)
-lead4_level4_energy.glm.linear,rs17362588,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level4_energy.glm.linear,rs1883085,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level4_energy.glm.linear,rs199533,5,rs199442 (1.000); rs199536 (1.000); rs199533 (1.000); rs199530 (1.000); rs199515 (1.000)
-lead4_level4_energy.glm.linear,rs2135157,3,rs2135157 (0.991); rs2371573 (0.982); rs12694279 (0.993)
-lead4_level4_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead4_level4_energy.glm.linear,rs2932971,2,rs4522851 (1.000); rs619646 (1.000)
-lead4_level4_energy.glm.linear,rs306206,1,rs11633181 (0.898); rs1107179 (1.000)
-lead4_level4_energy.glm.linear,rs5030166,4,rs2450409 (0.550); rs201844 (1.000); rs7927900 (1.000)
-lead4_level4_energy.glm.linear,rs6726147,3,rs2135157 (0.997); rs2371573 (0.992); rs12694279 (0.997); rs6726147 (0.555)
-lead4_level4_energy.glm.linear,rs7591759,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level4_energy.glm.linear,rs762624,4,rs9470361 (0.967); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000)
-lead4_level4_energy.glm.linear,rs77961995,4,rs29783 (1.000); rs255318 (1.000); rs77961995 (0.994); rs2216553 (1.000)
-lead4_level4_energy.glm.linear,rs9825233,4,rs2442804 (1.000); rs904464 (1.000); rs9874315 (1.000); rs9837573 (1.000)
-lead4_level5_energy.glm.linear,Affx-13925660,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead4_level5_energy.glm.linear,Affx-13934460,2,rs199442 (1.000); rs199536 (1.000)
-lead4_level5_energy.glm.linear,Affx-9453681,3,Affx-9453681 (1.000); rs2765768 (1.000); rs706606 (1.000)
-lead4_level5_energy.glm.linear,rs10505438,2,rs10505438 (1.000); rs11784192 (0.917)
-lead4_level5_energy.glm.linear,rs10822099,0,rs10822099 (0.797)
-lead4_level5_energy.glm.linear,rs10850409,2,rs35634211 (1.000); rs11067283 (1.000)
-lead4_level5_energy.glm.linear,rs11031767,3,rs201873 (1.000); rs201844 (1.000); rs7927900 (1.000)
-lead4_level5_energy.glm.linear,rs11067246,2,rs35634211 (1.000); rs11067283 (1.000)
-lead4_level5_energy.glm.linear,rs13061708,2,rs13061708 (0.520)
-lead4_level5_energy.glm.linear,rs13386459,3,rs7564856 (0.853); Affx-19148793 (1.000); rs11685912 (1.000); rs59332477 (1.000)
-lead4_level5_energy.glm.linear,rs1566643,2,rs35634211 (1.000); rs11067283 (1.000)
-lead4_level5_energy.glm.linear,rs17362588,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level5_energy.glm.linear,rs17831429,3,rs6585015 (0.639); rs17831429 (0.917); rs4525160 (1.000); rs17764171 (1.000)
-lead4_level5_energy.glm.linear,rs1883085,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level5_energy.glm.linear,rs199529,2,rs8064557 (1.000); rs1630431 (1.000)
-lead4_level5_energy.glm.linear,rs2200541,1,rs2200541 (0.967)
-lead4_level5_energy.glm.linear,rs2298632,3,rs2235547 (1.000); rs6426786 (0.949); rs1738475 (1.000); rs2298632 (0.887); rs11574 (0.758)
-lead4_level5_energy.glm.linear,rs2374381,4,Affx-52362409 (1.000); rs11675336 (0.788); rs28651764 (1.000)
-lead4_level5_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead4_level5_energy.glm.linear,rs3183099,3,rs7564856 (0.866); Affx-19148793 (1.000); rs11685912 (1.000); rs59332477 (1.000)
-lead4_level5_energy.glm.linear,rs3803405,1,rs1107179 (0.920)
-lead4_level5_energy.glm.linear,rs4984806,5,rs17807841 (1.000); rs4984806 (1.000); rs78931180 (1.000); rs4984836 (0.999); rs35583599 (1.000)
-lead4_level5_energy.glm.linear,rs6489995,2,rs35634211 (1.000); rs11067283 (1.000)
-lead4_level5_energy.glm.linear,rs6726147,0,rs2135157 (0.843)
-lead4_level5_energy.glm.linear,rs7028995,1,rs7028995 (0.983)
-lead4_level5_energy.glm.linear,rs72837574,4,rs2169446 (1.000); rs8056064 (0.999); rs75546744 (1.000); rs11150507 (1.000)
-lead4_level5_energy.glm.linear,rs7591759,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level5_energy.glm.linear,rs77961995,4,rs29783 (0.973); rs255318 (1.000); rs77961995 (0.968); rs2216553 (1.000)
-lead4_level5_energy.glm.linear,rs9825233,5,rs2442804 (1.000); rs904464 (1.000); rs9874315 (1.000); rs9837573 (1.000); rs9825233 (0.987)
-lead4_level6_approx_energy.glm.linear,Affx-13925660,2,Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead4_level6_approx_energy.glm.linear,Affx-52364873,4,rs171248 (1.000); rs183574 (1.000); rs151608 (1.000); rs149738 (1.000)
-lead4_level6_approx_energy.glm.linear,Affx-9453681,3,Affx-9453681 (1.000); rs2765768 (1.000); rs706606 (1.000); rs2812212 (0.765)
-lead4_level6_approx_energy.glm.linear,rs10850409,6,rs35789998 (1.000); rs74667501 (1.000); rs1896312 (1.000); rs73210608 (0.833); rs10850409 (1.000)
-lead4_level6_approx_energy.glm.linear,rs11067246,6,rs35789998 (1.000); rs74667501 (1.000); rs1896312 (1.000); rs73210608 (0.835); rs10850409 (1.000)
-lead4_level6_approx_energy.glm.linear,rs116015634,1,rs116015634 (1.000)
-lead4_level6_approx_energy.glm.linear,rs116202356,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
-lead4_level6_approx_energy.glm.linear,rs145809511,4,rs199442 (1.000); rs199536 (1.000); rs1662576 (1.000); rs7342957 (1.000)
-lead4_level6_approx_energy.glm.linear,rs2074238,1,rs2074238 (1.000)
-lead4_level6_approx_energy.glm.linear,rs2298632,5,rs2235547 (1.000); rs1738475 (1.000); rs2298632 (0.999); rs716243 (0.993); rs11574 (1.000)
-lead4_level6_approx_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead4_level6_approx_energy.glm.linear,rs44410,3,rs10431808 (1.000); rs12148713 (1.000); rs7182574 (1.000)
-lead4_level6_approx_energy.glm.linear,rs6752756,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level6_approx_energy.glm.linear,rs687050,5,rs33973564 (1.000); rs612711 (1.000); rs640996 (1.000); rs9332417 (1.000); rs1655519 (1.000)
-lead4_level6_approx_energy.glm.linear,rs728926,4,rs728926 (1.000); rs1570745 (1.000); rs9592965 (0.793); rs9530281 (1.000); rs77919370 (0.997)
-lead4_level6_approx_energy.glm.linear,rs742036,3,rs17807841 (1.000); rs4984806 (1.000); rs78931180 (0.942)
-lead4_level6_approx_energy.glm.linear,rs8049607,0,rs11648827 (0.542)
-lead4_level6_approx_energy.glm.linear,rs883894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level6_approx_energy.glm.linear,rs9274569,4,rs9268978 (1.000); DRB5_9901 (1.000); DRB1_1501 (1.000); rs9270015 (1.000)
-lead4_level6_energy.glm.linear,Affx-13930382,4,Affx-13924674 (1.000); Affx-13924687 (1.000); Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead4_level6_energy.glm.linear,Affx-9453681,5,Affx-9453681 (1.000); rs2765768 (1.000); rs706606 (1.000); rs1262775 (1.000); rs1638703 (1.000)
-lead4_level6_energy.glm.linear,rs10505438,3,rs10505438 (1.000); rs11784192 (0.627)
-lead4_level6_energy.glm.linear,rs10850409,2,rs35634211 (1.000); rs11067283 (1.000)
-lead4_level6_energy.glm.linear,rs11067246,2,rs35634211 (1.000); rs11067283 (1.000)
-lead4_level6_energy.glm.linear,rs13061708,1,rs7429135 (0.996); rs12639437 (0.671)
-lead4_level6_energy.glm.linear,rs17831429,3,rs12764660 (0.542); rs10885030 (0.998); rs4525160 (1.000); rs17764171 (1.000)
-lead4_level6_energy.glm.linear,rs1883085,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level6_energy.glm.linear,rs199442,4,rs199442 (1.000); rs199536 (1.000); rs1662576 (1.000); rs7342957 (1.000)
-lead4_level6_energy.glm.linear,rs2200541,1,rs2200541 (0.992)
-lead4_level6_energy.glm.linear,rs2298632,5,rs2235547 (0.967); rs7514394 (1.000); rs7515969 (1.000); rs10917431 (1.000); rs4649124 (1.000)
-lead4_level6_energy.glm.linear,rs2374381,3,rs4952542 (0.548); Affx-52362409 (1.000); rs11675336 (0.994); rs28651764 (1.000)
-lead4_level6_energy.glm.linear,rs2926743,2,rs2950390 (1.000); rs2958154 (1.000)
-lead4_level6_energy.glm.linear,rs3803405,0,rs1107179 (0.496); rs3743160 (0.052); rs2008262 (0.047)
-lead4_level6_energy.glm.linear,rs4657175,5,rs2880058 (1.000); rs1415259 (0.695); rs1932933 (0.971); rs10918762 (0.993); rs4431825 (0.695)
-lead4_level6_energy.glm.linear,rs5026246,5,Affx-92045287 (1.000); Affx-92045288 (1.000); Affx-13924447 (1.000); Affx-13925506 (1.000); Affx-92043049 (1.000)
-lead4_level6_energy.glm.linear,rs5030166,4,Affx-52325322 (1.000); rs2450409 (1.000); rs271022 (1.000); rs7945593 (1.000)
-lead4_level6_energy.glm.linear,rs6489995,2,rs35634211 (1.000); rs11067283 (1.000)
-lead4_level6_energy.glm.linear,rs7028995,3,rs7039157 (1.000); rs17519205 (1.000); rs7028995 (0.996)
-lead4_level6_energy.glm.linear,rs7591759,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead4_level6_energy.glm.linear,rs77961995,4,rs29783 (1.000); rs255318 (1.000); rs77961995 (0.993); rs2216553 (1.000)
-lead4_level6_energy.glm.linear,rs9274569,3,rs9268978 (1.000); DRB5_9901 (1.000); DRB1_1501 (1.000)
-lead4_level6_energy.glm.linear,rs9825233,2,rs2442804 (1.000); rs9874315 (1.000)
-lead5_level3_energy.glm.linear,rs11637728,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead5_level3_energy.glm.linear,rs1324007,1,rs7982810 (0.734); rs2236592 (0.965)
-lead5_level4_energy.glm.linear,rs6810325,2,rs2442804 (1.000); rs9874315 (1.000)
-lead5_level5_energy.glm.linear,rs1405210,4,rs339329 (1.000); rs1321364 (1.000); rs2498925 (0.562); rs1405210 (1.000); rs3798371 (0.941)
-lead5_level5_energy.glm.linear,rs17263178,2,rs4235197 (0.999); rs6812032 (1.000); rs17263178 (0.664)
-lead5_level5_energy.glm.linear,rs2207790,0,rs2207790 (0.870)
-lead5_level5_energy.glm.linear,rs2298632,4,rs7514394 (1.000); rs7515969 (1.000); rs10917431 (1.000); rs4649124 (1.000)
-lead5_level5_energy.glm.linear,rs34050148,4,rs1926564 (1.000); rs12355831 (1.000); rs34050148 (0.814)
-lead5_level5_energy.glm.linear,rs3798371,4,rs2498925 (0.997); rs1405210 (1.000); rs72957407 (0.991); rs3798371 (0.992)
-lead5_level5_energy.glm.linear,rs4074536,5,rs7551746 (0.975); rs10127797 (1.000); rs12144451 (1.000); rs9428225 (1.000); rs4074536 (1.000)
-lead5_level5_energy.glm.linear,rs6810325,2,rs2442804 (1.000); rs9874315 (1.000)
-lead5_level6_approx_energy.glm.linear,rs1405210,4,rs654128 (1.000); rs339329 (1.000); rs1321364 (1.000); rs1405210 (0.972)
-lead5_level6_approx_energy.glm.linear,rs34050148,1,rs34050148 (0.947)
-lead5_level6_approx_energy.glm.linear,rs3798371,3,rs339329 (1.000); rs1321364 (1.000); rs1405210 (1.000); rs72957407 (0.512)
-lead5_level6_energy.glm.linear,rs1405210,5,rs339329 (1.000); rs1321364 (1.000); rs2498925 (0.992); rs1405210 (1.000); rs72957407 (0.996)
-lead5_level6_energy.glm.linear,rs17263178,2,rs4235197 (1.000); rs6812032 (1.000); rs17263178 (0.554)
-lead5_level6_energy.glm.linear,rs2207790,1,rs2207790 (0.938)
-lead5_level6_energy.glm.linear,rs2298632,4,rs7514394 (1.000); rs7515969 (1.000); rs10917431 (1.000); rs4649124 (1.000)
-lead5_level6_energy.glm.linear,rs34050148,1,rs34050148 (0.950)
-lead5_level6_energy.glm.linear,rs3798371,5,rs339329 (1.000); rs1321364 (1.000); rs2498925 (0.993); rs1405210 (1.000); rs72957407 (0.998)
-lead5_level6_energy.glm.linear,rs4074536,5,rs7551746 (1.000); rs10127797 (1.000); rs12144451 (1.000); rs9428225 (1.000); rs4074536 (1.000)
-lead5_level6_energy.glm.linear,rs6810325,2,rs2442804 (1.000); rs9874315 (1.000)
-lead6_level2_energy.glm.linear,rs11153730,2,rs9387540 (1.000); rs62431217 (0.969)
-lead6_level2_energy.glm.linear,rs2234962,4,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs12569630 (1.000)
-lead6_level3_energy.glm.linear,rs11153730,2,rs9387540 (1.000); rs62431217 (0.997)
-lead6_level3_energy.glm.linear,rs2234962,5,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs7075684 (1.000); rs12569630 (1.000)
-lead6_level3_energy.glm.linear,rs306206,0,rs1107179 (0.281); rs11073663 (0.097); rs6496318 (0.095)
-lead6_level3_energy.glm.linear,rs34940894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead6_level4_energy.glm.linear,rs2234962,5,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs7075684 (1.000); rs12569630 (1.000)
-lead6_level4_energy.glm.linear,rs34940894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead6_level4_energy.glm.linear,rs6496318,2,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.773)
-lead6_level5_energy.glm.linear,rs1280100,0,rs1280100 (0.675)
-lead6_level5_energy.glm.linear,rs2234962,3,rs2917928 (1.000); rs10749324 (1.000); rs12569630 (1.000)
-lead6_level5_energy.glm.linear,rs34940894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead6_level6_approx_energy.glm.linear,rs2234962,3,rs2917928 (1.000); rs10749324 (1.000); rs12569630 (1.000)
-lead6_level6_energy.glm.linear,rs13061708,3,rs7429135 (0.999); rs7646052 (1.000); rs1017501 (1.000)
-lead6_level6_energy.glm.linear,rs77188861,1,rs77188861 (0.996)
-lead7_level2_energy.glm.linear,rs1490384,0,rs1902258 (0.053); rs2746187 (0.051); rs146477102 (0.046)
-lead7_level2_energy.glm.linear,rs6496318,0,rs9806618 (0.630); rs1107179 (0.576)
-lead7_level3_energy.glm.linear,rs11067246,4,rs11067246 (1.000); rs6489973 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead7_level3_energy.glm.linear,rs12904777,0,rs1107179 (0.478); rs6496318 (0.129); rs11073663 (0.087)
-lead7_level3_energy.glm.linear,rs1490384,0,rs2746187 (0.295); rs1902258 (0.248); rs1490384 (0.211)
-lead7_level3_energy.glm.linear,rs2234962,4,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs12569630 (1.000)
-lead7_level3_energy.glm.linear,rs251253,4,rs29783 (1.000); rs255318 (1.000); rs2879599 (0.753); rs77961995 (0.957); rs2216553 (1.000)
-lead7_level3_energy.glm.linear,rs2729577,0,rs2729577 (0.015); rs742036 (0.014); rs34319385 (0.014)
-lead7_level3_energy.glm.linear,rs35504893,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead7_level3_energy.glm.linear,rs55877020,4,rs29783 (1.000); rs255318 (1.000); rs2879599 (0.659); rs77961995 (0.956); rs2216553 (1.000)
-lead7_level3_energy.glm.linear,rs6496318,0,rs1107179 (0.627)
-lead7_level3_energy.glm.linear,rs7374138,2,rs3922844 (1.000); rs1805124 (1.000); rs6599230 (0.655); rs6599240 (0.564)
-lead7_level3_energy.glm.linear,rs762624,5,rs9470361 (0.999); rs4713996 (1.000); Affx-28561763 (1.000); rs2395655 (1.000); rs6906101 (0.949)
-lead7_level3_energy.glm.linear,rs9825233,5,rs2442804 (1.000); rs904464 (1.000); rs9874315 (1.000); rs9837573 (1.000); rs9825233 (0.973)
-lead7_level4_energy.glm.linear,rs10850409,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead7_level4_energy.glm.linear,rs11067246,3,rs11067246 (1.000); rs1896312 (1.000); rs10850409 (1.000)
-lead7_level4_energy.glm.linear,rs1490384,0,rs2746187 (0.261); rs1902258 (0.212); rs1490384 (0.206)
-lead7_level4_energy.glm.linear,rs1883085,4,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291312 (1.000)
-lead7_level4_energy.glm.linear,rs251253,4,rs594140 (0.779); rs29783 (1.000); rs255318 (1.000); rs77961995 (0.998); rs2216553 (1.000)
-lead7_level4_energy.glm.linear,rs2729577,0,rs111383796 (0.014); rs2266931 (0.014); rs2729577 (0.013)
-lead7_level4_energy.glm.linear,rs55877020,4,rs594140 (0.724); rs29783 (1.000); rs255318 (1.000); rs77961995 (0.998); rs2216553 (1.000)
-lead7_level4_energy.glm.linear,rs6496318,0,rs117836980 (0.226); rs6496318 (0.178); rs1107179 (0.166)
-lead7_level4_energy.glm.linear,rs9825233,5,rs2442804 (1.000); rs904464 (1.000); rs9874315 (1.000); rs9837573 (1.000); rs9825233 (0.980)
-lead7_level5_energy.glm.linear,rs11067246,4,rs11067246 (1.000); rs6489973 (1.000); rs1896312 (1.000); rs10850409 (1.000); rs10735086 (0.594)
-lead7_level5_energy.glm.linear,rs13185595,4,rs13185595 (0.647); rs6882998 (1.000); rs13186258 (1.000)
-lead7_level5_energy.glm.linear,rs1490384,0,rs1902258 (0.424); rs12202204 (0.126); rs11154343 (0.092)
-lead7_level5_energy.glm.linear,rs2207790,2,rs2207790 (1.000); rs2257749 (0.985)
-lead7_level5_energy.glm.linear,rs2298632,1,rs2298632 (0.966)
-lead7_level5_energy.glm.linear,rs251253,4,rs29783 (1.000); rs2216553 (1.000); rs9284985 (1.000); rs254788 (1.000)
-lead7_level5_energy.glm.linear,rs34050148,3,rs34050148 (0.806)
-lead7_level5_energy.glm.linear,rs55877020,5,rs29783 (1.000); rs255318 (0.990); rs2216553 (1.000); rs9284985 (1.000); rs254788 (1.000)
-lead7_level6_approx_energy.glm.linear,rs10054375,2,rs10054375 (0.552)
-lead7_level6_approx_energy.glm.linear,rs1405210,3,rs2498925 (1.000); rs1405210 (1.000); rs72957407 (0.996)
-lead7_level6_approx_energy.glm.linear,rs1490384,0,rs1902258 (0.274); rs12202204 (0.122); rs853964 (0.116)
-lead7_level6_approx_energy.glm.linear,rs2207790,2,rs2207790 (1.000); rs2257749 (0.976)
-lead7_level6_approx_energy.glm.linear,rs55877020,4,rs29783 (1.000); rs255318 (0.561); rs2216553 (1.000); rs9284985 (1.000); rs254788 (1.000)
-lead7_level6_approx_energy.glm.linear,rs56087422,0,rs56087422 (0.872)
-lead7_level6_energy.glm.linear,rs11067246,4,rs11067246 (1.000); rs6489973 (0.990); rs117409025 (1.000); rs10735086 (1.000)
-lead7_level6_energy.glm.linear,rs1188298,2,rs7004456 (0.999); rs1188298 (1.000)
-lead7_level6_energy.glm.linear,rs13185595,5,rs13185595 (0.578); rs13154131 (0.986); rs6882998 (1.000); rs13186258 (1.000)
-lead7_level6_energy.glm.linear,rs1405210,2,rs2498925 (1.000); rs1405210 (1.000); rs72957407 (0.858)
-lead7_level6_energy.glm.linear,rs1490384,2,rs1902258 (1.000); rs853964 (0.980)
-lead7_level6_energy.glm.linear,rs2207790,2,rs2207790 (1.000); rs2257749 (0.996)
-lead7_level6_energy.glm.linear,rs2298632,4,rs2298632 (0.772); rs7514394 (1.000); rs7515969 (1.000); rs10917431 (1.000); rs4649124 (1.000)
-lead7_level6_energy.glm.linear,rs251253,4,rs594140 (0.683); rs29783 (1.000); rs255318 (1.000); rs77961995 (0.982); rs2216553 (1.000)
-lead7_level6_energy.glm.linear,rs34050148,2,rs10885375 (0.838); rs34050148 (0.826)
-lead7_level6_energy.glm.linear,rs3750733,2,rs1411924 (0.996); rs3750733 (1.000); rs2776944 (0.764)
-lead7_level6_energy.glm.linear,rs55877020,4,rs594140 (0.684); rs29783 (1.000); rs255318 (1.000); rs77961995 (0.982); rs2216553 (1.000)
-lead7_level6_energy.glm.linear,rs77188861,2,rs77188861 (0.610)
-lead8_level1_energy.glm.linear,rs11073663,0,rs9806618 (0.773); rs1107179 (0.734)
-lead8_level1_energy.glm.linear,rs34940894,2,rs34940894 (0.638)
-lead8_level1_energy.glm.linear,rs380855,4,rs380855 (1.000); rs346089 (1.000); rs2454513 (1.000); rs2437685 (1.000)
-lead8_level2_energy.glm.linear,rs11073663,4,rs9806618 (0.970); rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.998)
-lead8_level2_energy.glm.linear,rs11857366,4,rs11857366 (1.000); rs907808 (1.000); rs8041224 (1.000); rs870306 (0.948)
-lead8_level2_energy.glm.linear,rs12904777,0,rs1107179 (0.800)
-lead8_level2_energy.glm.linear,rs2234962,4,rs2917928 (1.000); rs10749324 (1.000); rs4751742 (1.000); rs12569630 (1.000)
-lead8_level2_energy.glm.linear,rs34940894,1,rs34940894 (0.904)
-lead8_level3_energy.glm.linear,rs11970286,3,rs9387540 (1.000); rs65685 (1.000); rs284921 (1.000)
-lead8_level3_energy.glm.linear,rs2234962,3,rs2917928 (1.000); rs10749324 (1.000); rs12569630 (1.000)
-lead8_level3_energy.glm.linear,rs2303510,5,rs2848918 (1.000); rs499906 (1.000); rs563563 (1.000); rs2303510 (1.000); rs2303508 (1.000)
-lead8_level3_energy.glm.linear,rs34940894,5,rs7585334 (1.000); rs2291310 (1.000); rs7604033 (1.000); rs2291311 (1.000); rs2291312 (1.000)
-lead8_level3_energy.glm.linear,rs3803403,3,rs1107179 (0.916); rs117836980 (1.000); rs76911953 (1.000)
-lead8_level4_energy.glm.linear,rs11073663,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (0.988)
-lead8_level5_energy.glm.linear,rs10054375,3,rs112084781 (0.999); rs2544880 (1.000); rs1974777 (1.000)
-lead8_level5_energy.glm.linear,rs11073663,6,rs11073663 (0.630)
-lead8_level5_energy.glm.linear,rs2207790,1,rs2207790 (0.995)
-lead8_level5_energy.glm.linear,rs3750733,1,rs3750733 (1.000)
-lead8_level6_approx_energy.glm.linear,rs10054375,2,rs10054375 (0.545)
-lead8_level6_approx_energy.glm.linear,rs2207790,2,rs2207790 (1.000); rs2257749 (0.977)
-lead8_level6_approx_energy.glm.linear,rs2606761,4,rs380855 (1.000); rs346089 (1.000); rs2454513 (1.000); rs2437685 (1.000)
-lead8_level6_energy.glm.linear,rs10054375,2,rs10054375 (0.547)
-lead8_level6_energy.glm.linear,rs2207790,1,rs2207790 (1.000); rs2257749 (0.821)
-lead8_level6_energy.glm.linear,rs3750733,1,rs3750733 (1.000)
-lead9_level2_energy.glm.linear,rs11153730,2,rs65685 (1.000); rs284921 (1.000)
-lead9_level2_energy.glm.linear,rs11857366,3,rs11857366 (1.000); rs907808 (1.000); rs8041224 (1.000)
-lead9_level2_energy.glm.linear,rs306206,1,rs1107179 (0.946)
-lead9_level3_energy.glm.linear,Affx-2533062,3,Affx-2533062 (0.586)
-lead9_level3_energy.glm.linear,rs11153730,3,rs3734381 (1.000); rs78787171 (1.000); rs62422230 (1.000)
-lead9_level3_energy.glm.linear,rs11247866,3,rs3738450 (1.000); rs213629 (1.000); rs6698927 (0.969)
-lead9_level3_energy.glm.linear,rs11637728,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead9_level3_energy.glm.linear,rs17287293,2,rs17287293 (0.619)
-lead9_level3_energy.glm.linear,rs2207790,2,rs2207790 (0.996); rs2257749 (0.975)
-lead9_level3_energy.glm.linear,rs2848918,5,rs2848918 (1.000); rs499906 (1.000); rs563563 (1.000); rs2303510 (1.000); rs2303508 (1.000)
-lead9_level3_energy.glm.linear,rs3825214,3,rs3825214 (0.572)
-lead9_level3_energy.glm.linear,rs55756479,4,rs373610 (1.000); rs1188710 (1.000); rs883748 (1.000); rs12035900 (1.000)
-lead9_level3_energy.glm.linear,rs55770006,3,rs3734381 (1.000); rs78787171 (1.000); rs62422230 (1.000)
-lead9_level4_energy.glm.linear,rs11153730,2,rs65685 (1.000); rs284921 (1.000)
-lead9_level4_energy.glm.linear,rs11637728,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead9_level4_energy.glm.linear,rs17163588,3,rs3738450 (1.000); rs213629 (1.000); rs6698927 (0.980)
-lead9_level4_energy.glm.linear,rs2303510,5,rs2848918 (1.000); rs499906 (1.000); rs563563 (1.000); rs2303510 (1.000); rs2303508 (1.000)
-lead9_level5_energy.glm.linear,rs11708996,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
-lead9_level5_energy.glm.linear,rs12053903,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
-lead9_level5_energy.glm.linear,rs55824920,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
-lead9_level5_energy.glm.linear,rs58416181,3,rs4842939 (1.000); rs11633181 (1.000); rs1107179 (1.000)
-lead9_level6_approx_energy.glm.linear,rs10850409,2,rs1896312 (1.000); rs10850409 (1.000)
-lead9_level6_approx_energy.glm.linear,rs191397931,7,rs11708996 (0.742); rs6599238 (1.000); rs6599240 (0.997); rs6801957 (0.614); Affx-52364873 (0.615)
-lead9_level6_approx_energy.glm.linear,rs56087422,0,rs56087422 (0.032); rs75429792 (0.025); rs1117524 (0.024)
-lead9_level6_approx_energy.glm.linear,rs72671655,1,rs72671655 (0.999)
-lead9_level6_energy.glm.linear,rs11708996,3,rs171248 (1.000); rs183574 (1.000); rs149738 (1.000)
+lead10_level2_energy.glm.linear,rs11153730,2,"rs11970286 (PIP=1.000, P=1.21e-21); rs62422230 (PIP=1.000, P=3.93e-04)"
+lead10_level2_energy.glm.linear,rs2234962,3,"rs2917928 (PIP=1.000, P=2.20e-02); rs10749324 (PIP=1.000, P=1.87e-02); rs12569630 (PIP=1.000, P=1.02e-01)"
+lead10_level2_energy.glm.linear,rs55770006,2,"rs11970286 (PIP=1.000, P=1.21e-21); rs62422230 (PIP=1.000, P=3.93e-04)"
+lead10_level3_energy.glm.linear,rs11153730,5,"rs11153730 (PIP=1.000, P=1.44e-29); rs11970286 (PIP=1.000, P=2.29e-29); rs6569015 (PIP=1.000, P=1.68e-18); rs12197337 (PIP=1.000, P=6.04e-19); rs12210025 (PIP=1.000, P=6.89e-05)"
+lead10_level3_energy.glm.linear,rs12210810,5,"rs11153730 (PIP=1.000, P=1.44e-29); rs11970286 (PIP=1.000, P=2.29e-29); rs6569015 (PIP=1.000, P=1.68e-18); rs12197337 (PIP=1.000, P=6.04e-19); rs12210025 (PIP=1.000, P=6.89e-05)"
+lead10_level3_energy.glm.linear,rs306206,3,"rs35516100 (PIP=1.000, P=2.14e-07); rs7180849 (PIP=1.000, P=9.71e-01); rs1107179 (PIP=1.000, P=6.56e-07)"
+lead10_level3_energy.glm.linear,rs499906,2,"rs9304167 (PIP=1.000, P=4.72e-04); rs323295 (PIP=1.000, P=4.06e-04)"
+lead10_level3_energy.glm.linear,rs7342028,2,"rs7342028 (PIP=0.526, P=1.94e-08)"
+lead10_level4_energy.glm.linear,rs11970286,4,"rs11970286 (PIP=1.000, P=3.09e-12); rs6569015 (PIP=1.000, P=8.24e-07); rs12197337 (PIP=1.000, P=2.13e-07); rs12210025 (PIP=1.000, P=2.81e-03)"
+lead10_level4_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=1.86e-06); rs2950390 (PIP=1.000, P=2.09e-05); rs2958154 (PIP=1.000, P=1.26e-05); Affx-8220405 (PIP=1.000, P=7.00e-08)"
+lead10_level4_energy.glm.linear,rs306206,3,"rs35516100 (PIP=1.000, P=1.21e-09); rs7180849 (PIP=1.000, P=6.27e-01); rs1107179 (PIP=1.000, P=9.77e-10)"
+lead10_level4_energy.glm.linear,rs6480726,5,"rs7069584 (PIP=1.000, P=2.92e-06); rs2270548 (PIP=1.000, P=8.94e-05); rs1908339 (PIP=1.000, P=3.32e-02); rs7100550 (PIP=1.000, P=7.98e-07); rs6480741 (PIP=1.000, P=2.13e-04)"
+lead10_level4_energy.glm.linear,rs7166231,1,"rs7166231 (PIP=1.000, P=2.55e-08); rs117359208 (PIP=0.788, P=7.27e-03)"
+lead10_level4_energy.glm.linear,rs950169,1,"rs11633181 (PIP=1.000, P=9.26e-10)"
+lead10_level5_energy.glm.linear,rs11857366,5,"rs112646042 (PIP=1.000, P=9.33e-01); rs8034731 (PIP=1.000, P=6.67e-03); rs11247249 (PIP=1.000, P=1.28e-02); rs11857366 (PIP=1.000, P=2.99e-08); rs907808 (PIP=1.000, P=2.25e-07)"
+lead10_level5_energy.glm.linear,rs17410855,5,"rs3014242 (PIP=1.000, P=6.38e-02); rs3014238 (PIP=1.000, P=1.69e-01); rs1250 (PIP=1.000, P=6.81e-02); rs11211145 (PIP=1.000, P=3.63e-02); rs6671802 (PIP=1.000, P=5.65e-02)"
+lead10_level5_energy.glm.linear,rs2926743,2,"rs2950390 (PIP=1.000, P=7.70e-05); rs2958154 (PIP=1.000, P=3.62e-05)"
+lead10_level5_energy.glm.linear,rs58416181,2,"rs11633181 (PIP=1.000, P=1.58e-08); rs35516100 (PIP=1.000, P=1.63e-09)"
+lead10_level5_energy.glm.linear,rs6784842,2,"rs7429135 (PIP=1.000, P=2.21e-02); rs4624587 (PIP=1.000, P=2.10e-02)"
+lead10_level6_approx_energy.glm.linear,Affx-52364873,2,"rs35349722 (PIP=1.000, P=5.66e-02); rs35710839 (PIP=1.000, P=5.26e-01)"
+lead10_level6_approx_energy.glm.linear,rs116015634,5,"rs761862 (PIP=1.000, P=2.00e-02); rs61781795 (PIP=1.000, P=3.86e-02); rs479493 (PIP=1.000, P=8.58e-02); rs213769 (PIP=1.000, P=6.42e-03); rs72665633 (PIP=1.000, P=2.65e-01)"
+lead10_level6_approx_energy.glm.linear,rs116544863,4,"rs171248 (PIP=1.000, P=2.34e-01); rs183574 (PIP=1.000, P=2.46e-01); rs149738 (PIP=1.000, P=2.63e-01); rs1046048 (PIP=1.000, P=2.43e-04)"
+lead10_level6_approx_energy.glm.linear,rs12454640,2,"rs9949688 (PIP=1.000, P=2.51e-02); rs12454640 (PIP=1.000, P=4.69e-08)"
+lead10_level6_approx_energy.glm.linear,rs12923640,5,"rs6498222 (PIP=1.000, P=4.83e-02); rs12918651 (PIP=1.000, P=2.85e-04); rs1345441 (PIP=1.000, P=6.39e-01); rs17523609 (PIP=1.000, P=4.50e-05); rs12923640 (PIP=1.000, P=1.27e-09)"
+lead10_level6_approx_energy.glm.linear,rs679200,3,"rs3766437 (PIP=1.000, P=4.37e-07); rs679200 (PIP=1.000, P=3.04e-10); rs3766427 (PIP=1.000, P=7.52e-02)"
+lead10_level6_approx_energy.glm.linear,rs6801957,4,"rs6801957 (PIP=1.000, P=2.57e-09); rs57326399 (PIP=1.000, P=3.15e-01); rs9830687 (PIP=1.000, P=9.24e-07); rs60847476 (PIP=1.000, P=4.92e-01)"
+lead10_level6_approx_energy.glm.linear,rs728926,2,"rs1570745 (PIP=1.000, P=1.95e-05); rs34466030 (PIP=1.000, P=1.42e-01)"
+lead10_level6_energy.glm.linear,Affx-52364873,3,"rs171248 (PIP=1.000, P=1.22e-01); rs149738 (PIP=1.000, P=1.04e-01); rs6801957 (PIP=1.000, P=1.45e-08)"
+lead10_level6_energy.glm.linear,rs58416181,3,"rs12904682 (PIP=1.000, P=4.02e-02); rs4842939 (PIP=1.000, P=5.48e-01); rs11633181 (PIP=1.000, P=1.52e-05)"
+lead10_level6_energy.glm.linear,rs6784842,5,"rs3774051 (PIP=1.000, P=3.66e-02); rs7374394 (PIP=1.000, P=2.29e-01); rs62288664 (PIP=1.000, P=4.60e-02); rs7429135 (PIP=1.000, P=4.49e-04); rs12639437 (PIP=1.000, P=5.43e-03)"
+lead10_level6_energy.glm.linear,rs6801957,3,"rs171248 (PIP=1.000, P=1.22e-01); rs149738 (PIP=1.000, P=1.04e-01); rs6801957 (PIP=1.000, P=1.45e-08)"
+lead11_level2_energy.glm.linear,rs11153730,5,"rs11970286 (PIP=1.000, P=5.07e-18); rs6569015 (PIP=1.000, P=4.05e-13); rs3734382 (PIP=1.000, P=1.69e-06); rs12208253 (PIP=1.000, P=1.85e-13); rs62422230 (PIP=1.000, P=3.04e-05)"
+lead11_level2_energy.glm.linear,rs762624,2,"rs73730158 (PIP=1.000, P=5.10e-01); rs7743646 (PIP=1.000, P=9.37e-01)"
+lead11_level3_energy.glm.linear,rs11633181,4,"rs2044502 (PIP=1.000, P=7.40e-01); rs35516100 (PIP=1.000, P=7.89e-09); rs7180849 (PIP=1.000, P=8.10e-01); rs1107179 (PIP=1.000, P=2.33e-08)"
+lead11_level3_energy.glm.linear,rs11970286,5,"rs11970286 (PIP=1.000, P=3.52e-20); rs6569015 (PIP=1.000, P=1.89e-13); rs3734382 (PIP=1.000, P=1.48e-06); rs12208253 (PIP=1.000, P=2.47e-13); rs62422230 (PIP=1.000, P=9.27e-05)"
+lead11_level3_energy.glm.linear,rs17362588,1,"rs340348 (PIP=1.000, P=4.01e-01)"
+lead11_level3_energy.glm.linear,rs762624,2,"rs4713996 (PIP=1.000, P=2.55e-07); rs9394380 (PIP=1.000, P=4.06e-01)"
+lead11_level4_energy.glm.linear,rs11633181,3,"rs2044502 (PIP=1.000, P=7.51e-01); rs35516100 (PIP=1.000, P=6.84e-10); rs1107179 (PIP=1.000, P=1.88e-09)"
+lead11_level4_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=1.18e-08); rs2950390 (PIP=1.000, P=1.26e-07); rs2958154 (PIP=1.000, P=1.22e-07); Affx-8220405 (PIP=1.000, P=3.43e-10)"
+lead11_level4_energy.glm.linear,rs6784842,2,"rs7651090 (PIP=1.000, P=4.09e-01); rs4686696 (PIP=1.000, P=5.72e-01)"
+lead11_level4_energy.glm.linear,rs79146658,4,"rs7585334 (PIP=1.000, P=1.90e-03); rs2291310 (PIP=1.000, P=1.72e-03); rs7604033 (PIP=1.000, P=2.11e-03); rs2291312 (PIP=1.000, P=1.74e-03)"
+lead11_level5_energy.glm.linear,rs145281025,4,"rs3129716 (PIP=1.000, P=2.12e-05); rs3135006 (PIP=1.000, P=4.00e-01); rs1612904 (PIP=1.000, P=1.52e-02); rs3997848 (PIP=1.000, P=1.80e-02)"
+lead11_level5_energy.glm.linear,rs17367504,3,"rs41275456 (PIP=1.000, P=2.00e-05); rs4846054 (PIP=1.000, P=1.10e-04); rs1023252 (PIP=1.000, P=1.95e-04)"
+lead11_level5_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=4.24e-07); rs2950390 (PIP=1.000, P=1.27e-06); rs2958154 (PIP=1.000, P=9.52e-07); Affx-8220405 (PIP=1.000, P=1.96e-08)"
+lead11_level5_energy.glm.linear,rs58416181,2,"rs4842939 (PIP=1.000, P=7.93e-01); rs1107179 (PIP=1.000, P=7.39e-08)"
+lead11_level5_energy.glm.linear,rs62027818,2,"rs79312638 (PIP=1.000, P=4.59e-01); rs12904682 (PIP=1.000, P=8.53e-01)"
+lead11_level5_energy.glm.linear,rs6784842,3,"rs7429135 (PIP=1.000, P=3.00e-01); rs7651090 (PIP=1.000, P=5.99e-01); rs4686696 (PIP=1.000, P=7.44e-01)"
+lead11_level5_energy.glm.linear,rs9274569,2,"rs7195 (PIP=1.000, P=3.41e-01); rs17843606 (PIP=1.000, P=3.62e-04)"
+lead11_level6_approx_energy.glm.linear,Affx-52364873,4,"rs6801957 (PIP=1.000, P=3.30e-07); rs57326399 (PIP=1.000, P=3.07e-01); rs9830687 (PIP=1.000, P=1.90e-05); rs60847476 (PIP=1.000, P=9.41e-01)"
+lead11_level6_approx_energy.glm.linear,rs11067246,7,"rs11067246 (PIP=1.000, P=4.65e-08); rs7953394 (PIP=1.000, P=1.82e-01); rs2062716 (PIP=1.000, P=3.27e-04); rs4767252 (PIP=1.000, P=1.14e-01)"
+lead11_level6_approx_energy.glm.linear,rs116015634,4,"rs77098569 (PIP=1.000, P=8.89e-01); rs12073537 (PIP=1.000, P=2.28e-03); rs823673 (PIP=1.000, P=2.82e-03); rs2780945 (PIP=1.000, P=1.78e-04)"
+lead11_level6_approx_energy.glm.linear,rs116544863,5,"rs6806209 (PIP=1.000, P=5.34e-01); rs1046048 (PIP=1.000, P=9.74e-05); rs17037804 (PIP=1.000, P=1.81e-03); rs17037809 (PIP=1.000, P=7.60e-01); rs11711260 (PIP=1.000, P=1.65e-02)"
+lead11_level6_approx_energy.glm.linear,rs6762208,4,"rs4402960 (PIP=0.767, P=8.57e-01); rs7651090 (PIP=1.000, P=8.23e-01); rs4686696 (PIP=1.000, P=9.62e-01)"
+lead11_level6_approx_energy.glm.linear,rs728926,3,"rs728926 (PIP=1.000, P=4.30e-10); rs79067018 (PIP=1.000, P=4.37e-01); rs1570745 (PIP=1.000, P=1.19e-06)"
+lead11_level6_energy.glm.linear,Affx-13934985,4,"Affx-13926718 (PIP=1.000, P=6.26e-03); rs199442 (PIP=1.000, P=2.76e-06); rs199536 (PIP=1.000, P=9.43e-06); rs199530 (PIP=1.000, P=7.36e-06)"
+lead11_level6_energy.glm.linear,Affx-52364873,4,"rs9853984 (PIP=1.000, P=3.74e-01); rs35349722 (PIP=1.000, P=9.40e-01); rs35710839 (PIP=1.000, P=1.75e-01); rs73062575 (PIP=1.000, P=8.01e-02)"
+lead11_level6_energy.glm.linear,rs10054375,3,"rs10059636 (PIP=1.000, P=2.07e-02); rs3863198 (PIP=1.000, P=8.27e-01); rs115380213 (PIP=1.000, P=4.93e-01)"
+lead11_level6_energy.glm.linear,rs11067246,5,"rs474463 (PIP=1.000, P=3.07e-01); rs1061657 (PIP=1.000, P=3.01e-04); rs484443 (PIP=1.000, P=2.60e-03); rs1896312 (PIP=1.000, P=1.16e-04); rs10850409 (PIP=1.000, P=5.93e-05)"
+lead11_level6_energy.glm.linear,rs17831429,3,"rs957307 (PIP=1.000, P=4.16e-01); rs10885025 (PIP=1.000, P=8.19e-06); rs10749049 (PIP=1.000, P=7.46e-07)"
+lead11_level6_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=1.62e-06); rs2291310 (PIP=1.000, P=1.34e-06); rs7604033 (PIP=1.000, P=1.48e-06); rs2291311 (PIP=1.000, P=1.42e-06); rs2291312 (PIP=1.000, P=1.17e-06)"
+lead11_level6_energy.glm.linear,rs3096690,4,"rs3129886 (PIP=1.000, P=1.18e-01); rs8084 (PIP=1.000, P=2.48e-01); rs2239806 (PIP=1.000, P=1.42e-03); rs2647012 (PIP=1.000, P=2.45e-02)"
+lead11_level6_energy.glm.linear,rs3132450,4,"rs1048709 (PIP=1.000, P=3.40e-01); rs3130286 (PIP=1.000, P=1.99e-02); rs9267798 (PIP=1.000, P=1.20e-03); rs3117182 (PIP=1.000, P=7.85e-01)"
+lead11_level6_energy.glm.linear,rs58416181,4,"rs11633181 (PIP=1.000, P=1.38e-06); rs2044502 (PIP=1.000, P=7.21e-02); rs35516100 (PIP=1.000, P=6.81e-08); rs1107179 (PIP=1.000, P=4.88e-04)"
+lead11_level6_energy.glm.linear,rs6784842,4,"rs3774051 (PIP=1.000, P=1.42e-01); rs7374394 (PIP=1.000, P=7.74e-01); rs62288664 (PIP=1.000, P=2.84e-02); rs4624587 (PIP=1.000, P=4.05e-04)"
+lead12_level2_energy.glm.linear,rs11153730,5,"rs11970286 (PIP=1.000, P=3.38e-13); rs6569015 (PIP=1.000, P=1.14e-09); rs3734382 (PIP=1.000, P=1.43e-04); rs12208253 (PIP=1.000, P=2.71e-10); rs62422230 (PIP=1.000, P=1.52e-04)"
+lead12_level2_energy.glm.linear,rs4842994,3,"rs35516100 (PIP=1.000, P=6.27e-08); rs7180849 (PIP=1.000, P=7.21e-01); rs1107179 (PIP=1.000, P=3.68e-07)"
+lead12_level2_energy.glm.linear,rs762624,2,"rs73730158 (PIP=1.000, P=4.28e-01); rs3074 (PIP=1.000, P=6.83e-01)"
+lead12_level3_energy.glm.linear,rs11153730,4,"rs6569015 (PIP=1.000, P=1.08e-08); rs3734382 (PIP=1.000, P=1.24e-03); rs12208253 (PIP=1.000, P=9.63e-09); rs62422230 (PIP=1.000, P=8.26e-04)"
+lead12_level3_energy.glm.linear,rs306206,3,"rs2044502 (PIP=1.000, P=9.55e-01); rs35516100 (PIP=1.000, P=3.05e-09); rs1107179 (PIP=1.000, P=9.85e-08)"
+lead12_level3_energy.glm.linear,rs62027818,2,"rs2730078 (PIP=1.000, P=8.19e-03); rs12904682 (PIP=1.000, P=4.39e-01)"
+lead12_level3_energy.glm.linear,rs762624,3,"Affx-28561763 (PIP=1.000, P=1.81e-09); rs73730158 (PIP=1.000, P=6.72e-01); rs3074 (PIP=1.000, P=6.60e-01)"
+lead12_level4_energy.glm.linear,rs11633181,2,"rs12904682 (PIP=1.000, P=6.66e-01); rs11633181 (PIP=1.000, P=1.20e-10)"
+lead12_level4_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=1.88e-07); rs2950390 (PIP=1.000, P=1.32e-06); rs2958154 (PIP=1.000, P=1.82e-06); Affx-8220405 (PIP=1.000, P=1.48e-08)"
+lead12_level4_energy.glm.linear,rs762624,4,"rs10456442 (PIP=1.000, P=5.17e-01); rs1321311 (PIP=1.000, P=1.60e-07); rs6936598 (PIP=1.000, P=8.19e-07); rs73730158 (PIP=1.000, P=6.69e-01)"
+lead12_level5_energy.glm.linear,Affx-13925660,2,"Affx-92045287 (PIP=1.000, P=9.15e-09); Affx-13925346 (PIP=1.000, P=2.05e-06)"
+lead12_level5_energy.glm.linear,rs10850409,5,"rs474463 (PIP=1.000, P=1.14e-01); rs1061657 (PIP=1.000, P=2.17e-05); rs484443 (PIP=1.000, P=3.93e-03); rs1896312 (PIP=1.000, P=6.51e-08); rs10850409 (PIP=1.000, P=1.60e-08)"
+lead12_level5_energy.glm.linear,rs11067246,5,"rs1896012 (PIP=1.000, P=2.52e-01); rs4261333 (PIP=1.000, P=5.59e-02); rs753565 (PIP=1.000, P=1.02e-02); rs1896312 (PIP=1.000, P=6.51e-08); rs10850409 (PIP=1.000, P=1.60e-08)"
+lead12_level5_energy.glm.linear,rs11784192,3,"rs10505438 (PIP=1.000, P=3.10e-09); rs7386562 (PIP=1.000, P=2.18e-09); rs10956142 (PIP=1.000, P=1.71e-02)"
+lead12_level5_energy.glm.linear,rs11857366,4,"rs11857366 (PIP=1.000, P=4.91e-08); rs7183706 (PIP=1.000, P=2.48e-01); rs907808 (PIP=1.000, P=2.86e-07); rs8041224 (PIP=1.000, P=7.37e-04)"
+lead12_level5_energy.glm.linear,rs13061708,3,"rs12152485 (PIP=1.000, P=3.34e-02); rs7651090 (PIP=1.000, P=7.62e-01); rs4686696 (PIP=1.000, P=5.95e-01)"
+lead12_level5_energy.glm.linear,rs17367504,4,"rs4846048 (PIP=1.000, P=6.61e-01); rs4846054 (PIP=1.000, P=3.01e-03); rs1023252 (PIP=1.000, P=3.98e-03); rs5065 (PIP=1.000, P=1.53e-01)"
+lead12_level5_energy.glm.linear,rs17831429,3,"rs61862919 (PIP=1.000, P=2.69e-01); rs9703807 (PIP=1.000, P=4.71e-02); rs12242177 (PIP=1.000, P=4.53e-01)"
+lead12_level5_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=2.56e-07); rs2291310 (PIP=1.000, P=2.80e-07); rs7604033 (PIP=1.000, P=2.90e-07); rs2291311 (PIP=1.000, P=2.67e-07); rs2291312 (PIP=1.000, P=1.96e-07)"
+lead12_level5_energy.glm.linear,rs199529,3,"rs145809511 (PIP=1.000, P=2.04e-09); rs183211 (PIP=1.000, P=3.78e-09); rs199536 (PIP=1.000, P=8.04e-08)"
+lead12_level5_energy.glm.linear,rs2696624,3,"rs2732686 (PIP=1.000, P=6.22e-09); rs199442 (PIP=1.000, P=3.31e-08); rs199536 (PIP=1.000, P=8.04e-08)"
+lead12_level5_energy.glm.linear,rs35516100,2,"rs12904682 (PIP=1.000, P=8.92e-01); rs117836980 (PIP=1.000, P=4.37e-01)"
+lead12_level5_energy.glm.linear,rs62027818,2,"rs12904682 (PIP=1.000, P=8.92e-01); rs4842939 (PIP=1.000, P=8.58e-01)"
+lead12_level6_approx_energy.glm.linear,Affx-52364873,2,"rs62243862 (PIP=1.000, P=4.10e-01); rs6801957 (PIP=1.000, P=1.51e-04)"
+lead12_level6_approx_energy.glm.linear,rs11067246,4,"rs1896312 (PIP=1.000, P=5.37e-07); rs2195097 (PIP=1.000, P=4.07e-01); rs10850408 (PIP=1.000, P=4.72e-01); rs10850409 (PIP=1.000, P=1.18e-06)"
+lead12_level6_approx_energy.glm.linear,rs116015634,4,"rs12729448 (PIP=1.000, P=2.55e-02); rs479493 (PIP=1.000, P=5.13e-02); rs213769 (PIP=1.000, P=4.05e-02); rs72665633 (PIP=1.000, P=6.03e-01)"
+lead12_level6_approx_energy.glm.linear,rs116544863,5,"rs171248 (PIP=1.000, P=2.26e-01); rs149738 (PIP=1.000, P=2.57e-01); rs1046048 (PIP=1.000, P=6.81e-05); rs17037804 (PIP=1.000, P=2.39e-03); rs11711260 (PIP=1.000, P=4.42e-02)"
+lead12_level6_approx_energy.glm.linear,rs6762208,5,"rs3774051 (PIP=1.000, P=1.05e-01); rs7374394 (PIP=1.000, P=4.09e-01); rs62288664 (PIP=1.000, P=7.43e-02); rs7429135 (PIP=1.000, P=1.51e-02); rs12639437 (PIP=1.000, P=7.26e-02)"
+lead12_level6_approx_energy.glm.linear,rs728926,2,"Affx-9747617 (PIP=1.000, P=5.91e-01); rs34648351 (PIP=1.000, P=5.30e-01)"
+lead12_level6_energy.glm.linear,Affx-13925660,4,"Affx-13923818 (PIP=1.000, P=6.13e-10); Affx-13924069 (PIP=1.000, P=2.41e-08); Affx-13924155 (PIP=1.000, P=6.64e-01); Affx-13924674 (PIP=1.000, P=1.29e-09)"
+lead12_level6_energy.glm.linear,rs10850409,5,"rs474463 (PIP=1.000, P=3.05e-01); rs1061657 (PIP=1.000, P=2.19e-06); rs484443 (PIP=1.000, P=1.61e-04); rs1896312 (PIP=1.000, P=3.89e-11); rs10850409 (PIP=1.000, P=2.49e-11)"
+lead12_level6_energy.glm.linear,rs11067246,5,"rs474463 (PIP=1.000, P=3.05e-01); rs1061657 (PIP=1.000, P=2.19e-06); rs484443 (PIP=1.000, P=1.61e-04); rs1896312 (PIP=1.000, P=3.89e-11); rs10850409 (PIP=1.000, P=2.49e-11)"
+lead12_level6_energy.glm.linear,rs11784192,3,"rs10505438 (PIP=1.000, P=1.88e-09); rs7386562 (PIP=1.000, P=2.01e-09); rs10956142 (PIP=1.000, P=1.67e-02)"
+lead12_level6_energy.glm.linear,rs17367504,4,"rs11121755 (PIP=1.000, P=3.98e-01); rs2817580 (PIP=1.000, P=4.77e-01); rs4846048 (PIP=1.000, P=5.53e-01); rs4846054 (PIP=1.000, P=5.86e-02); rs2236797 (PIP=0.829, P=7.33e-05)"
+lead12_level6_energy.glm.linear,rs17831429,2,"rs9703807 (PIP=1.000, P=3.69e-03); rs7903560 (PIP=1.000, P=8.56e-01)"
+lead12_level6_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=7.07e-08); rs2291310 (PIP=1.000, P=7.69e-08); rs7604033 (PIP=1.000, P=7.64e-08); rs2291311 (PIP=1.000, P=7.04e-08); rs2291312 (PIP=1.000, P=5.21e-08)"
+lead12_level6_energy.glm.linear,rs199529,2,"rs183211 (PIP=1.000, P=7.26e-09); rs199530 (PIP=1.000, P=2.99e-08)"
+lead12_level6_energy.glm.linear,rs2696624,3,"rs2732686 (PIP=1.000, P=3.44e-10); rs199442 (PIP=1.000, P=7.74e-09); rs199536 (PIP=1.000, P=2.60e-08)"
+lead12_level6_energy.glm.linear,rs35516100,3,"rs35516100 (PIP=1.000, P=8.59e-09); rs7180849 (PIP=1.000, P=1.93e-02); rs1107179 (PIP=1.000, P=5.76e-04)"
+lead12_level6_energy.glm.linear,rs4984806,4,"rs17807841 (PIP=1.000, P=9.15e-05); rs4984806 (PIP=1.000, P=3.46e-08); rs78931180 (PIP=1.000, P=9.53e-03); rs35583599 (PIP=1.000, P=3.11e-03)"
+lead12_level6_energy.glm.linear,rs6784842,5,"rs3774051 (PIP=1.000, P=1.06e-01); rs62288664 (PIP=1.000, P=1.06e-01); rs7429135 (PIP=1.000, P=1.69e-02); rs12639437 (PIP=1.000, P=5.53e-02); rs4624587 (PIP=1.000, P=1.16e-02)"
+lead12_level6_energy.glm.linear,rs7028995,5,"rs12002810 (PIP=1.000, P=2.63e-02); rs7858258 (PIP=1.000, P=1.73e-02); rs1418194 (PIP=1.000, P=3.66e-04); rs4260979 (PIP=1.000, P=2.44e-01); rs7021965 (PIP=1.000, P=3.92e-03)"
+lead12_level6_energy.glm.linear,rs77188861,4,"rs4648468 (PIP=0.999, P=1.21e-01); rs2455144 (PIP=1.000, P=1.01e-02); rs6670328 (PIP=1.000, P=6.92e-05); rs4648473 (PIP=1.000, P=3.74e-01)"
+lead12_level6_energy.glm.linear,rs77961995,4,"rs594140 (PIP=1.000, P=2.62e-04); rs3131913 (PIP=1.000, P=2.99e-04); rs8543 (PIP=1.000, P=1.23e-02); rs29784 (PIP=1.000, P=3.63e-02)"
+lead1_level3_energy.glm.linear,rs10054375,5,"rs6895742 (PIP=1.000, P=6.64e-02); rs112084781 (PIP=1.000, P=1.47e-01); rs2544880 (PIP=1.000, P=1.24e-01); rs1421813 (PIP=1.000, P=5.91e-02); rs1974777 (PIP=1.000, P=1.03e-01)"
+lead1_level3_energy.glm.linear,rs11067246,3,"rs2062716 (PIP=1.000, P=9.43e-08); rs1896312 (PIP=1.000, P=4.12e-07); rs10850409 (PIP=1.000, P=1.20e-07)"
+lead1_level3_energy.glm.linear,rs1324007,3,"rs7982810 (PIP=1.000, P=6.87e-09); rs842379 (PIP=1.000, P=1.20e-01); rs842374 (PIP=1.000, P=8.67e-13)"
+lead1_level3_energy.glm.linear,rs13386459,5,"rs1043160 (PIP=1.000, P=1.13e-02); rs7577690 (PIP=1.000, P=5.34e-02); rs10177476 (PIP=1.000, P=1.41e-03); Affx-19148793 (PIP=1.000, P=1.91e-03); rs11685912 (PIP=1.000, P=8.87e-03)"
+lead1_level3_energy.glm.linear,rs2958149,4,"rs941207 (PIP=1.000, P=1.08e-07); rs2950390 (PIP=1.000, P=6.60e-05); rs2958154 (PIP=1.000, P=1.45e-04); Affx-8220405 (PIP=1.000, P=3.54e-08)"
+lead1_level3_energy.glm.linear,rs306206,4,"rs2044502 (PIP=1.000, P=4.26e-01); rs35516100 (PIP=1.000, P=3.88e-10); rs7180849 (PIP=1.000, P=4.68e-01); rs1107179 (PIP=1.000, P=3.46e-10)"
+lead1_level3_energy.glm.linear,rs34160967,3,"rs6693391 (PIP=1.000, P=3.32e-03); rs35375392 (PIP=1.000, P=4.75e-03); rs481771 (PIP=1.000, P=7.65e-03)"
+lead1_level3_energy.glm.linear,rs4713996,5,"rs9470361 (PIP=1.000, P=2.28e-10); rs4713996 (PIP=1.000, P=4.15e-12); Affx-28561763 (PIP=1.000, P=1.45e-09); rs7452626 (PIP=1.000, P=7.39e-02); rs2395655 (PIP=1.000, P=6.42e-11)"
+lead1_level3_energy.glm.linear,rs55824920,3,"rs171248 (PIP=1.000, P=7.56e-02); rs149738 (PIP=1.000, P=4.87e-02); rs6801957 (PIP=1.000, P=4.73e-03)"
+lead1_level3_energy.glm.linear,rs950169,2,"rs4262914 (PIP=1.000, P=1.39e-03); rs11633181 (PIP=1.000, P=6.34e-09)"
+lead1_level4_energy.glm.linear,Affx-2533062,3,"Affx-2533062 (PIP=0.460, P=2.15e-08); rs7342028 (PIP=0.341, P=2.63e-08); rs1923258 (PIP=0.227, P=1.69e-02)"
+lead1_level4_energy.glm.linear,rs10054375,2,"rs3863198 (PIP=1.000, P=3.69e-01); rs115380213 (PIP=1.000, P=7.20e-01)"
+lead1_level4_energy.glm.linear,rs10850409,3,"rs2062716 (PIP=1.000, P=1.11e-10); rs1896312 (PIP=1.000, P=1.19e-12); rs10850409 (PIP=1.000, P=1.71e-13)"
+lead1_level4_energy.glm.linear,rs11067246,3,"rs2062716 (PIP=1.000, P=1.11e-10); rs1896312 (PIP=1.000, P=1.19e-12); rs10850409 (PIP=1.000, P=1.71e-13)"
+lead1_level4_energy.glm.linear,rs1107179,4,"rs11633181 (PIP=1.000, P=1.57e-09); rs2044502 (PIP=1.000, P=3.36e-01); rs35516100 (PIP=1.000, P=9.41e-10); rs1107179 (PIP=1.000, P=1.88e-10)"
+lead1_level4_energy.glm.linear,rs12906247,2,"rs12904682 (PIP=1.000, P=2.32e-01); rs4842939 (PIP=1.000, P=9.96e-01)"
+lead1_level4_energy.glm.linear,rs13386459,3,"Affx-19148793 (PIP=1.000, P=4.51e-05); rs11685912 (PIP=1.000, P=2.37e-04); rs59332477 (PIP=1.000, P=1.84e-03)"
+lead1_level4_energy.glm.linear,rs1566643,3,"rs2062716 (PIP=1.000, P=1.11e-10); rs1896312 (PIP=1.000, P=1.19e-12); rs10850409 (PIP=1.000, P=1.71e-13)"
+lead1_level4_energy.glm.linear,rs2042995,5,"rs7585334 (PIP=1.000, P=4.99e-04); rs2291310 (PIP=1.000, P=4.25e-04); rs7604033 (PIP=1.000, P=4.06e-04); rs2291311 (PIP=1.000, P=2.93e-04); rs2291312 (PIP=1.000, P=4.32e-04)"
+lead1_level4_energy.glm.linear,rs2374381,5,"rs2374381 (PIP=1.000, P=1.19e-08); rs4952542 (PIP=1.000, P=1.28e-07); rs78494590 (PIP=1.000, P=5.03e-01); rs10196626 (PIP=1.000, P=6.04e-01); Affx-52362409 (PIP=1.000, P=7.59e-02)"
+lead1_level4_energy.glm.linear,rs262121,6,"rs262121 (PIP=0.279, P=3.52e-09); rs262129 (PIP=0.189, P=5.40e-09); rs3748069 (PIP=0.184, P=5.61e-09)"
+lead1_level4_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=2.47e-08); rs2950390 (PIP=1.000, P=4.51e-06); rs2958154 (PIP=1.000, P=9.34e-06); Affx-8220405 (PIP=1.000, P=2.58e-09)"
+lead1_level4_energy.glm.linear,rs4713996,5,"rs9470361 (PIP=1.000, P=5.02e-08); rs4713996 (PIP=1.000, P=2.87e-08); Affx-28561763 (PIP=1.000, P=9.13e-06); rs7452626 (PIP=1.000, P=3.63e-01); rs2395655 (PIP=1.000, P=3.65e-07)"
+lead1_level4_energy.glm.linear,rs61732533,4,"rs9886389 (PIP=1.000, P=7.47e-02); rs11136321 (PIP=1.000, P=1.83e-01); rs9969456 (PIP=1.000, P=2.78e-01); rs6997644 (PIP=1.000, P=3.96e-01)"
+lead1_level4_energy.glm.linear,rs6561323,3,"rs7982810 (PIP=1.000, P=8.24e-07); rs842379 (PIP=1.000, P=2.35e-01); rs842374 (PIP=1.000, P=5.21e-09)"
+lead1_level4_energy.glm.linear,rs6810325,5,"rs2442804 (PIP=1.000, P=8.93e-03); rs904464 (PIP=1.000, P=2.26e-02); rs9874315 (PIP=1.000, P=2.07e-03); rs9837573 (PIP=1.000, P=1.41e-03); rs11719526 (PIP=1.000, P=3.95e-03)"
+lead1_level5_energy.glm.linear,Affx-13925660,1,"Affx-92045287 (PIP=1.000, P=1.03e-07)"
+lead1_level5_energy.glm.linear,Affx-13934460,4,"Affx-13926718 (PIP=1.000, P=2.69e-02); Affx-92043127 (PIP=1.000, P=1.67e-07); rs199442 (PIP=1.000, P=1.98e-06); rs199536 (PIP=1.000, P=2.13e-06)"
+lead1_level5_energy.glm.linear,rs10850409,5,"rs2042853 (PIP=1.000, P=7.04e-02); rs12317207 (PIP=1.000, P=5.68e-02); rs75363344 (PIP=1.000, P=6.52e-01); rs7959016 (PIP=1.000, P=2.72e-01); rs2195097 (PIP=1.000, P=1.65e-01)"
+lead1_level5_energy.glm.linear,rs11067246,3,"rs75363344 (PIP=1.000, P=6.52e-01); rs7959016 (PIP=1.000, P=2.72e-01); rs2195097 (PIP=1.000, P=1.65e-01)"
+lead1_level5_energy.glm.linear,rs11073663,3,"rs2044502 (PIP=1.000, P=3.91e-01); rs35516100 (PIP=1.000, P=3.07e-08); rs1107179 (PIP=1.000, P=1.15e-08)"
+lead1_level5_energy.glm.linear,rs12188412,5,"rs61551899 (PIP=1.000, P=1.20e-02); rs6898804 (PIP=1.000, P=2.81e-04); rs12188412 (PIP=1.000, P=2.25e-09); rs3830368 (PIP=1.000, P=1.66e-02); rs7708044 (PIP=1.000, P=5.17e-02)"
+lead1_level5_energy.glm.linear,rs12542527,3,"rs6992468 (PIP=1.000, P=1.57e-04); rs10110021 (PIP=1.000, P=3.86e-04); rs67698519 (PIP=1.000, P=7.00e-01)"
+lead1_level5_energy.glm.linear,rs1566643,5,"rs7296431 (PIP=1.000, P=1.77e-02); rs2384406 (PIP=1.000, P=2.76e-01); rs12581328 (PIP=1.000, P=7.77e-02); rs7959016 (PIP=1.000, P=2.72e-01); rs2195097 (PIP=1.000, P=1.65e-01)"
+lead1_level5_energy.glm.linear,rs2042995,5,"rs7585334 (PIP=1.000, P=8.53e-04); rs2291310 (PIP=1.000, P=6.12e-04); rs7604033 (PIP=1.000, P=5.81e-04); rs2291311 (PIP=1.000, P=5.16e-04); rs2291312 (PIP=1.000, P=6.26e-04)"
+lead1_level5_energy.glm.linear,rs2298632,5,"rs2092933 (PIP=1.000, P=1.66e-02); rs649458 (PIP=1.000, P=1.32e-06); rs12126283 (PIP=1.000, P=7.81e-05); rs10917431 (PIP=1.000, P=1.02e-01); rs4649124 (PIP=1.000, P=6.65e-02)"
+lead1_level5_energy.glm.linear,rs2374381,5,"rs2374381 (PIP=1.000, P=1.86e-08); rs4952542 (PIP=1.000, P=7.36e-08); rs78494590 (PIP=1.000, P=4.96e-01); rs10196626 (PIP=1.000, P=9.06e-01); Affx-52362409 (PIP=1.000, P=1.43e-01)"
+lead1_level5_energy.glm.linear,rs34050148,3,"rs34050148 (PIP=0.604, P=3.40e-18)"
+lead1_level5_energy.glm.linear,rs3748069,4,"rs3748069 (PIP=0.514, P=5.13e-13)"
+lead1_level5_energy.glm.linear,rs61732533,2,"rs61732533 (PIP=0.678, P=3.95e-09)"
+lead1_level5_energy.glm.linear,rs6810325,5,"rs6766744 (PIP=1.000, P=1.02e-06); rs11719526 (PIP=1.000, P=1.46e-03); rs73813505 (PIP=1.000, P=1.06e-03); rs2305398 (PIP=1.000, P=1.74e-08); Affx-21118103 (PIP=1.000, P=3.63e-12)"
+lead1_level5_energy.glm.linear,rs706606,5,"rs2765768 (PIP=1.000, P=1.60e-05); rs41369045 (PIP=1.000, P=1.22e-02); rs706606 (PIP=1.000, P=5.85e-10); rs1262775 (PIP=1.000, P=7.65e-04); rs1638703 (PIP=1.000, P=8.72e-04)"
+lead1_level6_approx_energy.glm.linear,Affx-9453681,5,"rs2765768 (PIP=1.000, P=2.03e-05); rs41369045 (PIP=1.000, P=4.78e-02); rs706606 (PIP=1.000, P=3.35e-09); rs1262775 (PIP=1.000, P=4.36e-02); rs1638703 (PIP=1.000, P=6.18e-02)"
+lead1_level6_approx_energy.glm.linear,rs11067246,5,"rs7296431 (PIP=1.000, P=5.82e-03); rs2384406 (PIP=1.000, P=4.23e-01); rs12581328 (PIP=1.000, P=2.52e-02); rs1896312 (PIP=1.000, P=1.58e-05); rs10850409 (PIP=1.000, P=2.23e-05)"
+lead1_level6_approx_energy.glm.linear,rs12188412,4,"rs67343882 (PIP=1.000, P=8.80e-01); rs11749052 (PIP=1.000, P=6.53e-01); rs954609 (PIP=1.000, P=1.21e-01); rs10077096 (PIP=1.000, P=1.27e-01)"
+lead1_level6_approx_energy.glm.linear,rs2074238,1,"rs2074238 (PIP=1.000, P=5.91e-09)"
+lead1_level6_approx_energy.glm.linear,rs2298632,4,"rs2235547 (PIP=1.000, P=1.28e-05); rs2092933 (PIP=1.000, P=3.95e-01); rs649458 (PIP=1.000, P=2.34e-04); rs12126283 (PIP=1.000, P=1.37e-04)"
+lead1_level6_approx_energy.glm.linear,rs34050148,1,"rs34050148 (PIP=0.978, P=9.02e-14)"
+lead1_level6_approx_energy.glm.linear,rs3748069,4,"rs3748069 (PIP=0.379, P=4.13e-10); rs262121 (PIP=0.211, P=7.81e-10); rs7776375 (PIP=0.204, P=8.16e-10)"
+lead1_level6_approx_energy.glm.linear,rs687050,4,"rs687050 (PIP=1.000, P=2.23e-09); rs3766437 (PIP=1.000, P=4.67e-05); rs679200 (PIP=1.000, P=3.73e-08); rs3766427 (PIP=1.000, P=1.01e-01)"
+lead1_level6_approx_energy.glm.linear,rs728926,2,"rs7335575 (PIP=1.000, P=2.90e-05); rs34648351 (PIP=1.000, P=2.14e-01)"
+lead1_level6_approx_energy.glm.linear,rs7629354,5,"rs6766744 (PIP=1.000, P=8.75e-05); rs11719526 (PIP=1.000, P=2.80e-02); rs73813505 (PIP=1.000, P=1.14e-03); rs2305398 (PIP=1.000, P=1.07e-05); Affx-21118103 (PIP=1.000, P=1.48e-08)"
+lead1_level6_energy.glm.linear,Affx-13930382,1,"Affx-92045287 (PIP=1.000, P=6.58e-08)"
+lead1_level6_energy.glm.linear,Affx-9453681,5,"rs2765768 (PIP=1.000, P=8.10e-07); rs41369045 (PIP=1.000, P=1.15e-02); rs706606 (PIP=1.000, P=9.60e-11); rs1262775 (PIP=1.000, P=3.98e-03); rs1638703 (PIP=1.000, P=5.89e-03)"
+lead1_level6_energy.glm.linear,rs10900864,2,"rs3172746 (PIP=1.000, P=3.21e-06); Affx-25714575 (PIP=1.000, P=1.11e-05)"
+lead1_level6_energy.glm.linear,rs11067246,3,"rs2062716 (PIP=1.000, P=2.34e-13); rs1896312 (PIP=1.000, P=6.41e-09); rs10850409 (PIP=1.000, P=7.22e-09)"
+lead1_level6_energy.glm.linear,rs12188412,5,"rs61551899 (PIP=1.000, P=1.67e-02); rs6898804 (PIP=1.000, P=2.25e-04); rs12188412 (PIP=1.000, P=3.50e-11); rs3830368 (PIP=1.000, P=5.83e-03); rs7708044 (PIP=1.000, P=1.42e-02)"
+lead1_level6_energy.glm.linear,rs12542527,3,"rs6992468 (PIP=1.000, P=2.24e-03); rs10110021 (PIP=1.000, P=4.55e-03); rs67698519 (PIP=1.000, P=8.53e-01)"
+lead1_level6_energy.glm.linear,rs1405210,5,"rs6568971 (PIP=1.000, P=8.75e-05); rs884854 (PIP=1.000, P=7.23e-03); rs884856 (PIP=1.000, P=9.36e-02); rs961764 (PIP=1.000, P=1.95e-08); rs1405210 (PIP=1.000, P=5.49e-10)"
+lead1_level6_energy.glm.linear,rs145809511,5,"rs1662576 (PIP=1.000, P=7.17e-05); rs7342957 (PIP=1.000, P=6.51e-05); rs7225428 (PIP=1.000, P=8.81e-05); rs197919 (PIP=1.000, P=8.78e-05); rs2191033 (PIP=1.000, P=5.67e-05)"
+lead1_level6_energy.glm.linear,rs1896312,3,"rs2062716 (PIP=1.000, P=2.34e-13); rs1896312 (PIP=1.000, P=6.41e-09); rs10850409 (PIP=1.000, P=7.22e-09)"
+lead1_level6_energy.glm.linear,rs2298632,5,"rs2092933 (PIP=1.000, P=3.40e-02); rs649458 (PIP=1.000, P=9.82e-06); rs12126283 (PIP=1.000, P=2.79e-04); rs10917431 (PIP=1.000, P=9.79e-02); rs4649124 (PIP=1.000, P=5.88e-02)"
+lead1_level6_energy.glm.linear,rs34050148,1,"rs34050148 (PIP=0.967, P=2.30e-24)"
+lead1_level6_energy.glm.linear,rs3748069,5,"rs3748069 (PIP=0.343, P=1.15e-11); rs7776375 (PIP=0.284, P=1.41e-11); rs262121 (PIP=0.217, P=1.87e-11)"
+lead1_level6_energy.glm.linear,rs3798371,5,"rs6568971 (PIP=1.000, P=8.75e-05); rs884854 (PIP=1.000, P=7.23e-03); rs884856 (PIP=1.000, P=9.36e-02); rs961764 (PIP=1.000, P=1.95e-08); rs1405210 (PIP=1.000, P=5.49e-10)"
+lead1_level6_energy.glm.linear,rs4074536,4,"rs10127797 (PIP=1.000, P=1.55e-07); rs12144451 (PIP=1.000, P=3.54e-07); rs9428222 (PIP=1.000, P=3.62e-06); rs9428225 (PIP=1.000, P=6.90e-05)"
+lead1_level6_energy.glm.linear,rs4466711,1,"rs2620914 (PIP=1.000, P=1.46e-01)"
+lead1_level6_energy.glm.linear,rs5026246,4,"Affx-13923818 (PIP=1.000, P=5.49e-09); Affx-13924069 (PIP=1.000, P=4.04e-08); Affx-13924155 (PIP=1.000, P=9.34e-01); Affx-13925579 (PIP=1.000, P=9.63e-01)"
+lead1_level6_energy.glm.linear,rs6810325,5,"rs6766744 (PIP=1.000, P=1.28e-06); rs11719526 (PIP=1.000, P=7.17e-04); rs73813505 (PIP=1.000, P=3.46e-03); rs2305398 (PIP=1.000, P=1.35e-08); Affx-21118103 (PIP=1.000, P=2.12e-11)"
+lead1_level6_energy.glm.linear,rs687050,4,"rs687050 (PIP=1.000, P=6.92e-09); rs3766437 (PIP=1.000, P=3.04e-05); rs679200 (PIP=1.000, P=1.51e-06); rs3766427 (PIP=1.000, P=4.46e-01)"
+lead1_level6_energy.glm.linear,rs77961995,2,"rs594140 (PIP=1.000, P=1.92e-04); rs11746302 (PIP=1.000, P=1.78e-01)"
+lead2_level3_energy.glm.linear,rs10850409,4,"rs1896312 (PIP=1.000, P=4.24e-14); rs117409025 (PIP=1.000, P=9.05e-03); rs10850409 (PIP=1.000, P=9.49e-16); rs10735086 (PIP=1.000, P=5.63e-03)"
+lead2_level3_energy.glm.linear,rs11153730,5,"rs11970286 (PIP=1.000, P=8.28e-13); rs3734382 (PIP=1.000, P=9.00e-05); rs12208253 (PIP=1.000, P=6.16e-10); rs62422230 (PIP=1.000, P=1.91e-03); rs12210025 (PIP=1.000, P=2.50e-03)"
+lead2_level3_energy.glm.linear,rs11857366,3,"rs8024622 (PIP=1.000, P=1.85e-03); rs11857366 (PIP=1.000, P=1.39e-08); rs907808 (PIP=1.000, P=3.00e-05)"
+lead2_level3_energy.glm.linear,rs2234962,5,"rs2917928 (PIP=1.000, P=3.55e-02); rs10749324 (PIP=1.000, P=3.43e-02); rs4751742 (PIP=1.000, P=2.72e-03); rs7075684 (PIP=1.000, P=1.52e-03); rs12569630 (PIP=1.000, P=2.53e-03)"
+lead2_level3_energy.glm.linear,rs306206,3,"rs2044502 (PIP=1.000, P=7.60e-01); rs35516100 (PIP=1.000, P=3.19e-09); rs1107179 (PIP=1.000, P=1.16e-08)"
+lead2_level3_energy.glm.linear,rs762624,2,"rs73730158 (PIP=1.000, P=2.85e-01); rs9380596 (PIP=1.000, P=2.81e-01)"
+lead2_level3_energy.glm.linear,rs9850919,5,"rs448378 (PIP=1.000, P=5.89e-05); rs17485501 (PIP=1.000, P=8.09e-04); rs16853722 (PIP=1.000, P=1.45e-02); rs9850919 (PIP=1.000, P=2.93e-08); rs7613621 (PIP=1.000, P=1.36e-05)"
+lead2_level4_energy.glm.linear,Affx-13928731,4,"Affx-13923818 (PIP=1.000, P=1.70e-08); Affx-13924069 (PIP=1.000, P=8.25e-07); Affx-13924155 (PIP=1.000, P=4.87e-01); Affx-13924674 (PIP=1.000, P=1.15e-07)"
+lead2_level4_energy.glm.linear,rs10850409,4,"rs1896312 (PIP=1.000, P=9.21e-27); rs7959016 (PIP=1.000, P=6.31e-03); rs2195097 (PIP=1.000, P=8.67e-03); rs10850409 (PIP=1.000, P=8.92e-29)"
+lead2_level4_energy.glm.linear,rs11067246,4,"rs1896312 (PIP=1.000, P=9.21e-27); rs7959016 (PIP=1.000, P=6.31e-03); rs2195097 (PIP=1.000, P=8.67e-03); rs10850409 (PIP=1.000, P=8.92e-29)"
+lead2_level4_energy.glm.linear,rs12902672,3,"rs2044502 (PIP=1.000, P=6.45e-01); rs35516100 (PIP=1.000, P=6.92e-11); rs1107179 (PIP=1.000, P=9.06e-11)"
+lead2_level4_energy.glm.linear,rs2288323,5,"rs7585334 (PIP=1.000, P=2.32e-04); rs2291310 (PIP=1.000, P=2.10e-04); rs7604033 (PIP=1.000, P=3.47e-04); rs2291311 (PIP=1.000, P=1.91e-04); rs2291312 (PIP=1.000, P=2.17e-04)"
+lead2_level4_energy.glm.linear,rs306206,3,"rs35516100 (PIP=1.000, P=6.92e-11); rs1107179 (PIP=1.000, P=9.06e-11); rs117836980 (PIP=1.000, P=5.05e-01)"
+lead2_level4_energy.glm.linear,rs57701885,3,"Affx-35292701 (PIP=1.000, P=4.47e-03); rs35874668 (PIP=1.000, P=2.20e-03); rs57701885 (PIP=1.000, P=4.25e-08)"
+lead2_level4_energy.glm.linear,rs6726147,4,"rs1394783 (PIP=1.000, P=4.54e-01); rs4672645 (PIP=1.000, P=3.14e-03); rs2135157 (PIP=1.000, P=1.87e-05); rs2371573 (PIP=1.000, P=6.61e-04)"
+lead2_level4_energy.glm.linear,rs6784842,5,"rs3774051 (PIP=1.000, P=5.32e-02); rs62288664 (PIP=1.000, P=2.70e-01); rs7429135 (PIP=1.000, P=3.01e-02); rs12639437 (PIP=1.000, P=6.40e-02); rs7428983 (PIP=1.000, P=4.46e-01)"
+lead2_level4_energy.glm.linear,rs77188861,3,"rs2455144 (PIP=1.000, P=3.15e-03); rs6670328 (PIP=1.000, P=7.72e-06); rs4648473 (PIP=1.000, P=1.77e-01)"
+lead2_level4_energy.glm.linear,rs8327,2,"Affx-92045287 (PIP=1.000, P=4.50e-06); Affx-92039460 (PIP=1.000, P=5.24e-01)"
+lead2_level4_energy.glm.linear,rs883894,5,"rs7585334 (PIP=1.000, P=2.32e-04); rs2291310 (PIP=1.000, P=2.10e-04); rs7604033 (PIP=1.000, P=3.47e-04); rs2291311 (PIP=1.000, P=1.91e-04); rs2291312 (PIP=1.000, P=2.17e-04)"
+lead2_level5_energy.glm.linear,Affx-13930382,1,"Affx-13925346 (PIP=1.000, P=1.48e-08)"
+lead2_level5_energy.glm.linear,Affx-79512291,3,"rs199448 (PIP=1.000, P=8.07e-12); rs199442 (PIP=1.000, P=8.19e-11); rs199536 (PIP=1.000, P=2.62e-10)"
+lead2_level5_energy.glm.linear,rs10850409,4,"rs1896312 (PIP=1.000, P=1.03e-29); rs7959016 (PIP=1.000, P=3.67e-02); rs2195097 (PIP=1.000, P=4.68e-02); rs10850409 (PIP=1.000, P=1.43e-31)"
+lead2_level5_energy.glm.linear,rs11067246,4,"rs1896312 (PIP=1.000, P=1.03e-29); rs7959016 (PIP=1.000, P=3.67e-02); rs2195097 (PIP=1.000, P=4.68e-02); rs10850409 (PIP=1.000, P=1.43e-31)"
+lead2_level5_energy.glm.linear,rs13061708,5,"rs3774051 (PIP=1.000, P=7.63e-02); rs7374394 (PIP=1.000, P=4.06e-01); rs62288664 (PIP=1.000, P=1.08e-01); rs7429135 (PIP=1.000, P=4.08e-02); rs12639437 (PIP=1.000, P=1.82e-01)"
+lead2_level5_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=1.47e-07); rs2291310 (PIP=1.000, P=1.79e-07); rs7604033 (PIP=1.000, P=2.29e-07); rs2291311 (PIP=1.000, P=1.74e-07); rs2291312 (PIP=1.000, P=1.63e-07)"
+lead2_level5_energy.glm.linear,rs3803403,4,"rs2044502 (PIP=1.000, P=7.44e-01); rs35516100 (PIP=1.000, P=4.04e-12); rs7180849 (PIP=1.000, P=7.29e-01); rs1107179 (PIP=1.000, P=8.15e-10)"
+lead2_level5_energy.glm.linear,rs3823183,4,"rs2757594 (PIP=1.000, P=4.20e-01); rs9502640 (PIP=1.000, P=8.53e-01); rs1575291 (PIP=1.000, P=3.59e-01); rs12198986 (PIP=1.000, P=2.63e-01)"
+lead2_level5_energy.glm.linear,rs5026246,5,"Affx-13923818 (PIP=1.000, P=6.13e-13); Affx-13924069 (PIP=1.000, P=8.11e-11); Affx-13924155 (PIP=1.000, P=6.63e-01); Affx-13924447 (PIP=1.000, P=1.01e-11); rs117536416 (PIP=1.000, P=8.87e-01)"
+lead2_level5_energy.glm.linear,rs55896578,2,"rs2158998 (PIP=1.000, P=2.53e-01); rs79064452 (PIP=1.000, P=3.26e-01)"
+lead2_level5_energy.glm.linear,rs77188861,4,"rs2455144 (PIP=1.000, P=3.81e-03); rs6670328 (PIP=1.000, P=3.67e-06); rs4648473 (PIP=1.000, P=1.34e-01); rs77188861 (PIP=0.998, P=8.77e-13)"
+lead2_level5_energy.glm.linear,rs883894,5,"rs7585334 (PIP=1.000, P=1.47e-07); rs2291310 (PIP=1.000, P=1.79e-07); rs7604033 (PIP=1.000, P=2.29e-07); rs2291311 (PIP=1.000, P=1.74e-07); rs2291312 (PIP=1.000, P=1.63e-07)"
+lead2_level6_approx_energy.glm.linear,Affx-13928731,4,"Affx-13923818 (PIP=1.000, P=3.88e-08); Affx-13924069 (PIP=1.000, P=9.85e-07); Affx-13924155 (PIP=1.000, P=5.74e-01); Affx-13925579 (PIP=1.000, P=4.49e-01)"
+lead2_level6_approx_energy.glm.linear,Affx-52364873,4,"rs6801957 (PIP=1.000, P=1.52e-07); rs57326399 (PIP=1.000, P=1.92e-01); rs9830687 (PIP=1.000, P=8.20e-05); rs60847476 (PIP=1.000, P=4.50e-01)"
+lead2_level6_approx_energy.glm.linear,rs11067246,3,"rs2062716 (PIP=1.000, P=9.24e-06); rs1896312 (PIP=1.000, P=8.02e-08); rs10850409 (PIP=1.000, P=3.91e-07)"
+lead2_level6_approx_energy.glm.linear,rs116015634,4,"rs761862 (PIP=1.000, P=9.50e-02); rs479493 (PIP=1.000, P=2.65e-02); rs213769 (PIP=1.000, P=2.41e-02); rs72665633 (PIP=1.000, P=6.14e-01)"
+lead2_level6_approx_energy.glm.linear,rs116544863,4,"rs171248 (PIP=1.000, P=1.96e-01); rs149738 (PIP=1.000, P=1.64e-01); rs1046048 (PIP=1.000, P=3.56e-04); rs17037804 (PIP=1.000, P=1.47e-03)"
+lead2_level6_approx_energy.glm.linear,rs12923640,5,"rs6498222 (PIP=1.000, P=1.66e-03); rs12918651 (PIP=1.000, P=1.63e-05); rs1345441 (PIP=0.999, P=7.33e-01); rs17523609 (PIP=1.000, P=5.75e-05); rs12923640 (PIP=1.000, P=6.54e-10)"
+lead2_level6_approx_energy.glm.linear,rs13061708,4,"rs3774051 (PIP=1.000, P=1.03e-01); rs7374394 (PIP=1.000, P=8.48e-01); rs62288664 (PIP=1.000, P=2.05e-02); rs4624587 (PIP=1.000, P=2.84e-03)"
+lead2_level6_approx_energy.glm.linear,rs883894,5,"rs7585334 (PIP=1.000, P=1.32e-02); rs2291310 (PIP=1.000, P=1.39e-02); rs7604033 (PIP=1.000, P=1.63e-02); rs2291311 (PIP=1.000, P=1.94e-02); rs2291312 (PIP=1.000, P=1.40e-02)"
+lead2_level6_energy.glm.linear,Affx-79512291,4,"rs199442 (PIP=1.000, P=3.70e-11); rs199536 (PIP=1.000, P=2.00e-10); rs199530 (PIP=1.000, P=1.08e-10); rs199529 (PIP=1.000, P=1.63e-10)"
+lead2_level6_energy.glm.linear,Affx-92039435,5,"Affx-13923818 (PIP=1.000, P=4.65e-12); Affx-13924069 (PIP=1.000, P=2.71e-10); Affx-13924155 (PIP=1.000, P=9.46e-01); Affx-13925346 (PIP=1.000, P=3.05e-09); Affx-13925579 (PIP=1.000, P=2.23e-01)"
+lead2_level6_energy.glm.linear,Affx-92043101,5,"Affx-92045292 (PIP=1.000, P=1.31e-10); Affx-13924447 (PIP=1.000, P=1.92e-10); rs117536416 (PIP=1.000, P=6.44e-01); Affx-92045303 (PIP=1.000, P=2.07e-12); Affx-13925346 (PIP=1.000, P=3.05e-09)"
+lead2_level6_energy.glm.linear,Affx-9453681,4,"rs2765768 (PIP=1.000, P=2.93e-04); rs41369045 (PIP=1.000, P=3.09e-01); rs706606 (PIP=1.000, P=3.51e-04); rs9596268 (PIP=1.000, P=7.56e-01)"
+lead2_level6_energy.glm.linear,rs10850409,2,"rs1896312 (PIP=1.000, P=1.17e-30); rs10850409 (PIP=1.000, P=6.93e-31)"
+lead2_level6_energy.glm.linear,rs11067228,2,"rs1896312 (PIP=1.000, P=1.17e-30); rs10850409 (PIP=1.000, P=6.93e-31)"
+lead2_level6_energy.glm.linear,rs11067246,5,"rs1265507 (PIP=1.000, P=1.78e-03); rs1896312 (PIP=1.000, P=1.17e-30); rs117409025 (PIP=1.000, P=1.36e-01); rs10850409 (PIP=1.000, P=6.93e-31); rs10735086 (PIP=1.000, P=1.04e-01)"
+lead2_level6_energy.glm.linear,rs11784175,3,"rs10505438 (PIP=1.000, P=1.42e-07); rs7386562 (PIP=1.000, P=2.64e-05); rs10956142 (PIP=1.000, P=3.63e-01)"
+lead2_level6_energy.glm.linear,rs13061708,5,"rs3774051 (PIP=1.000, P=3.96e-02); rs7374394 (PIP=1.000, P=4.93e-01); rs62288664 (PIP=1.000, P=1.20e-02); rs7429135 (PIP=1.000, P=1.17e-02); rs12639437 (PIP=1.000, P=2.14e-01)"
+lead2_level6_energy.glm.linear,rs2271322,2,"rs56898160 (PIP=1.000, P=4.21e-02); rs354209 (PIP=1.000, P=2.96e-07)"
+lead2_level6_energy.glm.linear,rs2742347,5,"rs7585334 (PIP=1.000, P=1.98e-08); rs2291310 (PIP=1.000, P=2.90e-08); rs7604033 (PIP=1.000, P=2.92e-08); rs2291311 (PIP=1.000, P=2.91e-08); rs2291312 (PIP=1.000, P=2.01e-08)"
+lead2_level6_energy.glm.linear,rs3750733,4,"rs79751877 (PIP=1.000, P=2.26e-02); rs1411924 (PIP=1.000, P=9.91e-07); rs3750733 (PIP=1.000, P=2.34e-10); rs2776944 (PIP=1.000, P=3.58e-02)"
+lead2_level6_energy.glm.linear,rs3803403,3,"rs2044502 (PIP=1.000, P=1.88e-01); rs35516100 (PIP=1.000, P=4.36e-09); rs1107179 (PIP=1.000, P=1.17e-05)"
+lead2_level6_energy.glm.linear,rs6489995,2,"rs1896312 (PIP=1.000, P=1.17e-30); rs10850409 (PIP=1.000, P=6.93e-31)"
+lead2_level6_energy.glm.linear,rs668477,3,"rs4145318 (PIP=1.000, P=2.42e-05); rs12958434 (PIP=1.000, P=1.75e-07); rs17669142 (PIP=1.000, P=4.56e-01)"
+lead2_level6_energy.glm.linear,rs72711231,3,"rs10505438 (PIP=1.000, P=1.42e-07); rs7386562 (PIP=1.000, P=2.64e-05); rs10956142 (PIP=1.000, P=3.63e-01)"
+lead2_level6_energy.glm.linear,rs77188861,3,"rs2455144 (PIP=1.000, P=8.50e-04); rs6670328 (PIP=1.000, P=1.48e-07); rs4648473 (PIP=1.000, P=1.47e-01)"
+lead2_level6_energy.glm.linear,rs883894,5,"rs7585334 (PIP=1.000, P=1.98e-08); rs2291310 (PIP=1.000, P=2.90e-08); rs7604033 (PIP=1.000, P=2.92e-08); rs2291311 (PIP=1.000, P=2.91e-08); rs2291312 (PIP=1.000, P=2.01e-08)"
+lead3_level1_energy.glm.linear,rs12055433,1,"rs12055433 (PIP=1.000, P=1.19e-08)"
+lead3_level3_energy.glm.linear,rs11073663,2,"rs4842939 (PIP=1.000, P=1.45e-01); rs35516100 (PIP=1.000, P=2.11e-12)"
+lead3_level3_energy.glm.linear,rs11153730,5,"rs6569015 (PIP=1.000, P=3.37e-09); rs12208253 (PIP=1.000, P=3.14e-08); rs62422230 (PIP=1.000, P=9.76e-05); rs65685 (PIP=1.000, P=2.21e-01); rs284921 (PIP=1.000, P=1.82e-01)"
+lead3_level3_energy.glm.linear,rs2234962,2,"rs17098758 (PIP=1.000, P=4.65e-01); rs75085125 (PIP=1.000, P=9.55e-01)"
+lead3_level3_energy.glm.linear,rs34940894,5,"rs4894030 (PIP=1.000, P=2.44e-05); rs6715406 (PIP=1.000, P=1.79e-04); rs3816849 (PIP=1.000, P=4.27e-06); rs7591759 (PIP=1.000, P=1.62e-06); rs2366913 (PIP=1.000, P=1.55e-04)"
+lead3_level3_energy.glm.linear,rs950169,3,"rs2044502 (PIP=1.000, P=2.06e-01); rs35516100 (PIP=1.000, P=2.11e-12); rs1107179 (PIP=1.000, P=1.21e-13)"
+lead3_level4_energy.glm.linear,Affx-18566111,5,"rs7585334 (PIP=1.000, P=6.05e-02); rs2291312 (PIP=1.000, P=7.70e-02); rs6715406 (PIP=1.000, P=4.26e-04); rs3816849 (PIP=1.000, P=3.57e-06); rs2029395 (PIP=1.000, P=8.34e-02)"
+lead3_level4_energy.glm.linear,rs11073663,2,"rs12904682 (PIP=1.000, P=2.37e-01); rs11633181 (PIP=1.000, P=8.66e-11)"
+lead3_level4_energy.glm.linear,rs1405210,4,"rs339329 (PIP=1.000, P=5.85e-03); rs1321364 (PIP=1.000, P=3.42e-03); rs961764 (PIP=1.000, P=5.58e-04); rs1405210 (PIP=1.000, P=4.73e-08)"
+lead3_level4_energy.glm.linear,rs34940894,3,"rs3816849 (PIP=1.000, P=3.57e-06); rs111337675 (PIP=1.000, P=5.43e-01); rs340348 (PIP=1.000, P=1.79e-01)"
+lead3_level4_energy.glm.linear,rs950169,3,"rs2044502 (PIP=1.000, P=2.99e-01); rs35516100 (PIP=1.000, P=1.57e-11); rs1107179 (PIP=1.000, P=1.54e-12)"
+lead3_level5_energy.glm.linear,Affx-18566111,4,"rs4894030 (PIP=1.000, P=1.69e-04); rs10497520 (PIP=1.000, P=1.37e-01); rs6715406 (PIP=1.000, P=2.20e-04); rs3816849 (PIP=1.000, P=2.36e-06)"
+lead3_level5_energy.glm.linear,rs1405210,2,"rs72951735 (PIP=1.000, P=5.47e-01); rs1407184 (PIP=1.000, P=9.61e-01)"
+lead3_level5_energy.glm.linear,rs2008262,2,"rs4842939 (PIP=1.000, P=2.45e-01); rs35516100 (PIP=1.000, P=7.91e-07)"
+lead3_level5_energy.glm.linear,rs34940894,4,"rs4894030 (PIP=1.000, P=1.69e-04); rs10497520 (PIP=1.000, P=1.37e-01); rs6715406 (PIP=1.000, P=2.20e-04); rs3816849 (PIP=1.000, P=2.36e-06)"
+lead3_level6_approx_energy.glm.linear,rs1405210,5,"rs339329 (PIP=1.000, P=9.08e-07); rs1321364 (PIP=1.000, P=4.63e-07); rs72953674 (PIP=1.000, P=3.39e-03); rs961764 (PIP=1.000, P=1.78e-09); rs1405210 (PIP=1.000, P=2.66e-15)"
+lead3_level6_approx_energy.glm.linear,rs34050148,3,"rs34050148 (PIP=0.452, P=1.28e-08); rs17130052 (PIP=0.337, P=1.89e-08); Affx-2533062 (PIP=0.205, P=3.24e-08)"
+lead3_level6_energy.glm.linear,rs1405210,5,"rs6568971 (PIP=1.000, P=2.79e-02); rs884854 (PIP=1.000, P=2.09e-02); rs884856 (PIP=1.000, P=5.37e-02); rs961764 (PIP=1.000, P=6.92e-07); rs1405210 (PIP=1.000, P=9.13e-13)"
+lead4_level3_energy.glm.linear,rs10850409,4,"rs1896312 (PIP=1.000, P=1.23e-12); rs117409025 (PIP=1.000, P=2.97e-02); rs10850409 (PIP=1.000, P=1.98e-14); rs10735086 (PIP=1.000, P=5.22e-02)"
+lead4_level3_energy.glm.linear,rs11067246,4,"rs1896312 (PIP=1.000, P=1.23e-12); rs117409025 (PIP=1.000, P=2.97e-02); rs10850409 (PIP=1.000, P=1.98e-14); rs10735086 (PIP=1.000, P=5.22e-02)"
+lead4_level3_energy.glm.linear,rs11153730,5,"rs11970286 (PIP=1.000, P=5.52e-07); rs12197337 (PIP=1.000, P=7.17e-06); rs12210025 (PIP=1.000, P=4.61e-02); rs65685 (PIP=1.000, P=4.84e-01); rs284921 (PIP=1.000, P=4.07e-01)"
+lead4_level3_energy.glm.linear,rs17362588,5,"rs3731745 (PIP=1.000, P=3.34e-02); rs2288570 (PIP=1.000, P=5.62e-02); rs2291310 (PIP=1.000, P=1.42e-04); rs2291311 (PIP=1.000, P=1.12e-04); rs2291312 (PIP=1.000, P=1.38e-04)"
+lead4_level3_energy.glm.linear,rs2028004,5,"rs7958683 (PIP=1.000, P=1.95e-08); rs4766497 (PIP=1.000, P=8.73e-05); rs11065719 (PIP=1.000, P=3.19e-03); rs960669 (PIP=1.000, P=1.25e-04); rs6490098 (PIP=1.000, P=4.55e-04)"
+lead4_level3_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=7.72e-08); rs2950390 (PIP=1.000, P=3.86e-06); rs2958154 (PIP=1.000, P=1.28e-05); Affx-8220405 (PIP=1.000, P=1.16e-08)"
+lead4_level3_energy.glm.linear,rs2932971,4,"rs4522851 (PIP=1.000, P=3.73e-05); rs11724741 (PIP=1.000, P=6.45e-03); rs4336216 (PIP=1.000, P=2.48e-01); rs619646 (PIP=1.000, P=3.16e-05)"
+lead4_level3_energy.glm.linear,rs306206,3,"rs35516100 (PIP=1.000, P=2.51e-10); rs7180849 (PIP=1.000, P=9.02e-01); rs1107179 (PIP=1.000, P=8.30e-09)"
+lead4_level3_energy.glm.linear,rs3922844,4,"rs6801957 (PIP=1.000, P=1.10e-05); rs57326399 (PIP=1.000, P=1.26e-02); rs9830687 (PIP=1.000, P=7.80e-02); rs60847476 (PIP=1.000, P=1.16e-01)"
+lead4_level3_energy.glm.linear,rs55742743,5,"rs3731745 (PIP=1.000, P=3.34e-02); rs2288570 (PIP=1.000, P=5.62e-02); rs2291310 (PIP=1.000, P=1.42e-04); rs2291311 (PIP=1.000, P=1.12e-04); rs2291312 (PIP=1.000, P=1.38e-04)"
+lead4_level3_energy.glm.linear,rs55824920,4,"rs6801957 (PIP=1.000, P=1.10e-05); rs57326399 (PIP=1.000, P=1.26e-02); rs9830687 (PIP=1.000, P=7.80e-02); rs60847476 (PIP=1.000, P=1.16e-01)"
+lead4_level3_energy.glm.linear,rs6561321,3,"rs7982810 (PIP=1.000, P=6.11e-05); rs842379 (PIP=1.000, P=1.36e-02); rs842374 (PIP=1.000, P=3.07e-10)"
+lead4_level3_energy.glm.linear,rs6890391,3,"rs3131913 (PIP=1.000, P=6.11e-05); rs8543 (PIP=1.000, P=2.03e-01); rs29784 (PIP=1.000, P=1.56e-03)"
+lead4_level3_energy.glm.linear,rs705708,4,"rs7302925 (PIP=1.000, P=3.61e-02); rs2657879 (PIP=1.000, P=1.04e-02); rs2638335 (PIP=1.000, P=4.66e-02); rs11171865 (PIP=1.000, P=5.48e-02)"
+lead4_level3_energy.glm.linear,rs762624,5,"rs9470361 (PIP=1.000, P=6.64e-14); rs4713996 (PIP=1.000, P=2.25e-13); Affx-28561763 (PIP=1.000, P=6.42e-12); rs7452626 (PIP=1.000, P=6.12e-01); rs4711462 (PIP=1.000, P=6.11e-01)"
+lead4_level3_energy.glm.linear,rs950169,2,"rs12904682 (PIP=1.000, P=6.72e-01); rs4842939 (PIP=1.000, P=1.91e-01)"
+lead4_level4_energy.glm.linear,Affx-13930382,4,"Affx-13924026 (PIP=1.000, P=5.50e-09); Affx-13924069 (PIP=1.000, P=1.71e-07); Affx-13924155 (PIP=1.000, P=8.73e-01); Affx-13924674 (PIP=1.000, P=1.54e-07)"
+lead4_level4_energy.glm.linear,rs10850409,2,"rs1896312 (PIP=1.000, P=9.06e-30); rs10850409 (PIP=1.000, P=7.04e-33)"
+lead4_level4_energy.glm.linear,rs11067246,2,"rs1896312 (PIP=1.000, P=9.06e-30); rs10850409 (PIP=1.000, P=7.04e-33)"
+lead4_level4_energy.glm.linear,rs12902672,2,"rs79312638 (PIP=1.000, P=5.86e-01); rs12904682 (PIP=1.000, P=7.37e-01)"
+lead4_level4_energy.glm.linear,rs13386459,4,"rs6436153 (PIP=1.000, P=3.03e-01); Affx-19148793 (PIP=1.000, P=2.12e-05); rs35417960 (PIP=1.000, P=1.95e-04); rs11685912 (PIP=1.000, P=5.37e-05)"
+lead4_level4_energy.glm.linear,rs1361108,7,"rs749897 (PIP=1.000, P=1.92e-01); rs2326201 (PIP=0.979, P=3.44e-02); rs4897169 (PIP=0.612, P=5.06e-02)"
+lead4_level4_energy.glm.linear,rs17362588,5,"rs7585334 (PIP=1.000, P=1.59e-08); rs2291310 (PIP=1.000, P=1.14e-08); rs7604033 (PIP=1.000, P=1.58e-08); rs2291311 (PIP=1.000, P=6.70e-09); rs2291312 (PIP=1.000, P=1.02e-08)"
+lead4_level4_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=1.59e-08); rs2291310 (PIP=1.000, P=1.14e-08); rs7604033 (PIP=1.000, P=1.58e-08); rs2291311 (PIP=1.000, P=6.70e-09); rs2291312 (PIP=1.000, P=1.02e-08)"
+lead4_level4_energy.glm.linear,rs199533,5,"rs199442 (PIP=1.000, P=2.14e-07); rs199536 (PIP=1.000, P=2.24e-07); rs199533 (PIP=1.000, P=4.71e-08); rs199530 (PIP=1.000, P=1.89e-07); rs199515 (PIP=1.000, P=4.46e-07)"
+lead4_level4_energy.glm.linear,rs2135157,3,"rs1394783 (PIP=1.000, P=5.20e-02); rs4672645 (PIP=1.000, P=1.83e-03); rs2135157 (PIP=1.000, P=4.93e-09)"
+lead4_level4_energy.glm.linear,rs2926743,3,"rs11171865 (PIP=1.000, P=7.53e-03); rs2950390 (PIP=1.000, P=1.39e-08); rs2958154 (PIP=1.000, P=4.34e-08)"
+lead4_level4_energy.glm.linear,rs2932971,4,"rs4522851 (PIP=1.000, P=7.97e-04); rs11724741 (PIP=1.000, P=1.97e-03); rs4336216 (PIP=1.000, P=9.24e-01); rs6820543 (PIP=1.000, P=1.40e-01); rs640050 (PIP=0.673, P=7.39e-04)"
+lead4_level4_energy.glm.linear,rs306206,4,"rs2044502 (PIP=1.000, P=9.93e-01); rs35516100 (PIP=1.000, P=2.16e-11); rs7180849 (PIP=1.000, P=9.32e-01); rs1107179 (PIP=1.000, P=8.27e-10)"
+lead4_level4_energy.glm.linear,rs5030166,5,"rs7118294 (PIP=1.000, P=3.17e-02); rs12285677 (PIP=1.000, P=2.14e-01); rs2418904 (PIP=1.000, P=1.40e-01); rs201844 (PIP=1.000, P=4.84e-02); rs7927900 (PIP=1.000, P=3.88e-02)"
+lead4_level4_energy.glm.linear,rs6726147,3,"rs1394783 (PIP=1.000, P=5.20e-02); rs4672645 (PIP=1.000, P=1.83e-03); rs2135157 (PIP=1.000, P=4.93e-09)"
+lead4_level4_energy.glm.linear,rs7591759,5,"rs7585334 (PIP=1.000, P=1.59e-08); rs2291310 (PIP=1.000, P=1.14e-08); rs7604033 (PIP=1.000, P=1.58e-08); rs2291311 (PIP=1.000, P=6.70e-09); rs2291312 (PIP=1.000, P=1.02e-08)"
+lead4_level4_energy.glm.linear,rs762624,5,"rs9470361 (PIP=1.000, P=7.70e-11); rs4713996 (PIP=1.000, P=1.22e-09); Affx-28561763 (PIP=1.000, P=7.18e-07); rs7452626 (PIP=1.000, P=7.87e-01); rs4711462 (PIP=1.000, P=3.70e-01)"
+lead4_level4_energy.glm.linear,rs77961995,4,"rs594140 (PIP=1.000, P=3.10e-04); rs3131913 (PIP=1.000, P=2.56e-05); rs8543 (PIP=1.000, P=3.97e-02); rs29784 (PIP=1.000, P=6.12e-03)"
+lead4_level4_energy.glm.linear,rs9825233,5,"rs904464 (PIP=1.000, P=1.55e-03); rs9861271 (PIP=1.000, P=8.99e-01); rs4377481 (PIP=1.000, P=1.14e-03); rs9874315 (PIP=1.000, P=2.14e-03); rs9837573 (PIP=1.000, P=2.38e-06)"
+lead4_level5_energy.glm.linear,Affx-13925660,5,"Affx-13923818 (PIP=1.000, P=2.51e-13); Affx-13924069 (PIP=1.000, P=1.97e-12); Affx-13924155 (PIP=1.000, P=6.28e-01); Affx-13925346 (PIP=1.000, P=4.87e-09); Affx-13925579 (PIP=1.000, P=4.71e-02)"
+lead4_level5_energy.glm.linear,Affx-13934460,3,"Affx-13926718 (PIP=1.000, P=5.44e-04); rs199442 (PIP=1.000, P=2.85e-12); rs199536 (PIP=1.000, P=4.99e-12)"
+lead4_level5_energy.glm.linear,Affx-9453681,4,"rs2765768 (PIP=1.000, P=4.54e-06); rs41369045 (PIP=1.000, P=6.91e-02); rs706606 (PIP=1.000, P=1.40e-08); rs9596268 (PIP=1.000, P=4.18e-01)"
+lead4_level5_energy.glm.linear,rs10505438,3,"rs10505438 (PIP=1.000, P=1.09e-11); rs7386562 (PIP=1.000, P=1.44e-10); rs10956142 (PIP=1.000, P=3.54e-02)"
+lead4_level5_energy.glm.linear,rs10822099,2,"rs10822099 (PIP=1.000, P=2.94e-08); rs35506078 (PIP=1.000, P=6.79e-01)"
+lead4_level5_energy.glm.linear,rs10850409,4,"rs1896312 (PIP=1.000, P=3.00e-35); rs7959016 (PIP=1.000, P=1.23e-01); rs2195097 (PIP=1.000, P=1.37e-01); rs10850409 (PIP=1.000, P=2.28e-38)"
+lead4_level5_energy.glm.linear,rs11031767,4,"rs12285677 (PIP=1.000, P=3.52e-01); rs201873 (PIP=1.000, P=4.16e-03); rs201844 (PIP=1.000, P=4.73e-03); rs7927900 (PIP=1.000, P=2.90e-03)"
+lead4_level5_energy.glm.linear,rs11067246,4,"rs1896312 (PIP=1.000, P=3.00e-35); rs7959016 (PIP=1.000, P=1.23e-01); rs2195097 (PIP=1.000, P=1.37e-01); rs10850409 (PIP=1.000, P=2.28e-38)"
+lead4_level5_energy.glm.linear,rs13061708,5,"rs3774051 (PIP=1.000, P=6.75e-02); rs7374394 (PIP=1.000, P=2.86e-01); rs62288664 (PIP=1.000, P=9.87e-02); rs7429135 (PIP=1.000, P=8.33e-02); rs12639437 (PIP=1.000, P=1.81e-01)"
+lead4_level5_energy.glm.linear,rs13386459,3,"Affx-19148793 (PIP=1.000, P=1.50e-07); rs11685912 (PIP=1.000, P=1.73e-07); rs59332477 (PIP=1.000, P=4.40e-07)"
+lead4_level5_energy.glm.linear,rs1566643,4,"rs1896312 (PIP=1.000, P=3.00e-35); rs7959016 (PIP=1.000, P=1.23e-01); rs2195097 (PIP=1.000, P=1.37e-01); rs10850409 (PIP=1.000, P=2.28e-38)"
+lead4_level5_energy.glm.linear,rs17362588,5,"rs7585334 (PIP=1.000, P=7.75e-12); rs2291310 (PIP=1.000, P=5.61e-12); rs7604033 (PIP=1.000, P=5.39e-12); rs2291311 (PIP=1.000, P=3.97e-12); rs2291312 (PIP=1.000, P=4.34e-12)"
+lead4_level5_energy.glm.linear,rs17831429,3,"rs4525160 (PIP=1.000, P=7.27e-05); rs17764171 (PIP=1.000, P=1.45e-03); rs79603535 (PIP=1.000, P=4.68e-03)"
+lead4_level5_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=7.75e-12); rs2291310 (PIP=1.000, P=5.61e-12); rs7604033 (PIP=1.000, P=5.39e-12); rs2291311 (PIP=1.000, P=3.97e-12); rs2291312 (PIP=1.000, P=4.34e-12)"
+lead4_level5_energy.glm.linear,rs199529,2,"rs3744462 (PIP=1.000, P=1.15e-01); rs199533 (PIP=1.000, P=8.07e-13)"
+lead4_level5_energy.glm.linear,rs2200541,4,"rs6786486 (PIP=1.000, P=6.43e-02); rs2200541 (PIP=1.000, P=1.82e-08); rs9835316 (PIP=1.000, P=4.76e-03); rs6797405 (PIP=1.000, P=8.50e-01)"
+lead4_level5_energy.glm.linear,rs2298632,2,"rs56221187 (PIP=1.000, P=1.58e-01); rs649458 (PIP=1.000, P=4.14e-07)"
+lead4_level5_energy.glm.linear,rs2374381,5,"rs2374381 (PIP=1.000, P=5.45e-09); rs4952542 (PIP=1.000, P=2.41e-07); rs10196626 (PIP=1.000, P=6.74e-01); Affx-52362409 (PIP=1.000, P=1.73e-03); rs28651764 (PIP=1.000, P=4.44e-03)"
+lead4_level5_energy.glm.linear,rs2926743,3,"rs11171865 (PIP=1.000, P=7.27e-04); rs2950390 (PIP=1.000, P=3.41e-07); rs2958154 (PIP=1.000, P=8.35e-07)"
+lead4_level5_energy.glm.linear,rs3183099,3,"Affx-19148793 (PIP=1.000, P=1.50e-07); rs11685912 (PIP=1.000, P=1.73e-07); rs59332477 (PIP=1.000, P=4.40e-07)"
+lead4_level5_energy.glm.linear,rs3803405,3,"rs35516100 (PIP=1.000, P=2.28e-11); rs7180849 (PIP=1.000, P=4.72e-01); rs1107179 (PIP=1.000, P=2.22e-08)"
+lead4_level5_energy.glm.linear,rs4984806,4,"rs17807841 (PIP=1.000, P=9.17e-06); rs4984806 (PIP=1.000, P=3.58e-08); rs78931180 (PIP=1.000, P=1.96e-02); rs35583599 (PIP=1.000, P=9.02e-03)"
+lead4_level5_energy.glm.linear,rs6489995,4,"rs1896312 (PIP=1.000, P=3.00e-35); rs7959016 (PIP=1.000, P=1.23e-01); rs2195097 (PIP=1.000, P=1.37e-01); rs10850409 (PIP=1.000, P=2.28e-38)"
+lead4_level5_energy.glm.linear,rs6726147,3,"rs1394783 (PIP=1.000, P=5.14e-02); rs4672645 (PIP=1.000, P=5.67e-03); rs2135157 (PIP=1.000, P=6.76e-08)"
+lead4_level5_energy.glm.linear,rs7028995,4,"rs1418194 (PIP=1.000, P=1.43e-04); rs4260979 (PIP=1.000, P=2.98e-01); rs7021965 (PIP=1.000, P=8.74e-05); rs10988687 (PIP=1.000, P=8.95e-01)"
+lead4_level5_energy.glm.linear,rs72837574,3,"rs2169446 (PIP=1.000, P=8.92e-06); rs58258528 (PIP=1.000, P=2.89e-02); rs8056064 (PIP=1.000, P=4.99e-03)"
+lead4_level5_energy.glm.linear,rs7591759,5,"rs7585334 (PIP=1.000, P=7.75e-12); rs2291310 (PIP=1.000, P=5.61e-12); rs7604033 (PIP=1.000, P=5.39e-12); rs2291311 (PIP=1.000, P=3.97e-12); rs2291312 (PIP=1.000, P=4.34e-12)"
+lead4_level5_energy.glm.linear,rs77961995,4,"rs594140 (PIP=1.000, P=3.75e-03); rs3131913 (PIP=1.000, P=8.53e-04); rs8543 (PIP=1.000, P=2.49e-03); rs29784 (PIP=1.000, P=1.87e-01)"
+lead4_level5_energy.glm.linear,rs9825233,5,"rs904464 (PIP=1.000, P=3.26e-03); rs9861271 (PIP=1.000, P=3.56e-01); rs4377481 (PIP=1.000, P=2.08e-02); rs9874315 (PIP=1.000, P=2.63e-03); rs9837573 (PIP=1.000, P=5.05e-05)"
+lead4_level6_approx_energy.glm.linear,Affx-13925660,4,"Affx-13923818 (PIP=1.000, P=4.10e-09); Affx-13924069 (PIP=1.000, P=3.86e-08); Affx-13924155 (PIP=1.000, P=7.72e-01); Affx-13925579 (PIP=1.000, P=7.81e-01)"
+lead4_level6_approx_energy.glm.linear,Affx-52364873,2,"rs73062575 (PIP=1.000, P=4.50e-01); rs6802909 (PIP=1.000, P=9.13e-01)"
+lead4_level6_approx_energy.glm.linear,Affx-9453681,5,"rs2765768 (PIP=1.000, P=5.44e-08); rs41369045 (PIP=1.000, P=1.75e-01); rs706606 (PIP=1.000, P=2.12e-09); rs1262775 (PIP=1.000, P=2.50e-01); rs1638703 (PIP=1.000, P=2.25e-01)"
+lead4_level6_approx_energy.glm.linear,rs10850409,3,"rs2062716 (PIP=1.000, P=1.78e-09); rs1896312 (PIP=1.000, P=3.58e-11); rs10850409 (PIP=1.000, P=3.11e-11)"
+lead4_level6_approx_energy.glm.linear,rs11067246,3,"rs2062716 (PIP=1.000, P=1.78e-09); rs1896312 (PIP=1.000, P=3.58e-11); rs10850409 (PIP=1.000, P=3.11e-11)"
+lead4_level6_approx_energy.glm.linear,rs116015634,1,"rs2780945 (PIP=0.558, P=5.13e-02); rs116015634 (PIP=1.000, P=1.94e-14)"
+lead4_level6_approx_energy.glm.linear,rs116202356,3,"rs171248 (PIP=1.000, P=3.46e-02); rs183574 (PIP=1.000, P=3.73e-02); rs149738 (PIP=1.000, P=3.87e-02)"
+lead4_level6_approx_energy.glm.linear,rs145809511,2,"Affx-13931337 (PIP=1.000, P=1.76e-05); rs118008815 (PIP=1.000, P=6.98e-01)"
+lead4_level6_approx_energy.glm.linear,rs2074238,1,"rs2074238 (PIP=1.000, P=1.86e-08)"
+lead4_level6_approx_energy.glm.linear,rs2298632,4,"rs56221187 (PIP=1.000, P=1.16e-01); rs2092933 (PIP=1.000, P=5.08e-02); rs649458 (PIP=1.000, P=8.42e-05); rs12126283 (PIP=1.000, P=1.85e-03)"
+lead4_level6_approx_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=5.37e-06); rs2950390 (PIP=1.000, P=3.86e-04); rs2958154 (PIP=1.000, P=9.60e-04); Affx-8220405 (PIP=1.000, P=4.03e-07)"
+lead4_level6_approx_energy.glm.linear,rs44410,4,"rs44410 (PIP=1.000, P=4.60e-09); rs419919 (PIP=1.000, P=4.11e-08); rs12148713 (PIP=1.000, P=3.45e-03); rs7182574 (PIP=1.000, P=2.55e-03)"
+lead4_level6_approx_energy.glm.linear,rs6752756,5,"rs7585334 (PIP=1.000, P=1.35e-04); rs2291310 (PIP=1.000, P=1.03e-04); rs7604033 (PIP=1.000, P=1.19e-04); rs2291311 (PIP=1.000, P=1.42e-04); rs2291312 (PIP=1.000, P=9.72e-05)"
+lead4_level6_approx_energy.glm.linear,rs687050,3,"rs3766437 (PIP=1.000, P=1.01e-04); rs679200 (PIP=1.000, P=8.13e-10); rs3766427 (PIP=1.000, P=6.87e-04)"
+lead4_level6_approx_energy.glm.linear,rs728926,2,"rs1570745 (PIP=1.000, P=1.62e-06); rs34466030 (PIP=1.000, P=9.75e-01)"
+lead4_level6_approx_energy.glm.linear,rs742036,4,"rs17807841 (PIP=1.000, P=8.89e-04); rs4984806 (PIP=1.000, P=3.08e-06); rs78931180 (PIP=1.000, P=3.41e-02); rs71145423 (PIP=1.000, P=5.57e-02)"
+lead4_level6_approx_energy.glm.linear,rs8049607,4,"rs7189692 (PIP=1.000, P=4.01e-06); rs1345441 (PIP=1.000, P=1.45e-01); rs12923640 (PIP=1.000, P=8.05e-09); rs7187399 (PIP=1.000, P=2.59e-08)"
+lead4_level6_approx_energy.glm.linear,rs883894,5,"rs7585334 (PIP=1.000, P=1.35e-04); rs2291310 (PIP=1.000, P=1.03e-04); rs7604033 (PIP=1.000, P=1.19e-04); rs2291311 (PIP=1.000, P=1.42e-04); rs2291312 (PIP=1.000, P=9.72e-05)"
+lead4_level6_approx_energy.glm.linear,rs9274569,2,"rs9268832 (PIP=1.000, P=6.37e-01); rs9270050 (PIP=1.000, P=3.91e-02)"
+lead4_level6_energy.glm.linear,Affx-13930382,4,"Affx-13924069 (PIP=1.000, P=2.08e-12); Affx-13925346 (PIP=1.000, P=8.21e-11); Affx-92039462 (PIP=0.995, P=1.34e-13); Affx-13925579 (PIP=1.000, P=2.36e-01)"
+lead4_level6_energy.glm.linear,Affx-9453681,5,"rs2765768 (PIP=1.000, P=6.06e-09); rs41369045 (PIP=1.000, P=2.52e-02); rs706606 (PIP=1.000, P=2.50e-11); rs1262775 (PIP=1.000, P=1.09e-01); rs1638703 (PIP=1.000, P=1.02e-01)"
+lead4_level6_energy.glm.linear,rs10505438,3,"rs10505438 (PIP=1.000, P=2.89e-11); rs7386562 (PIP=1.000, P=6.46e-10); rs10956142 (PIP=1.000, P=4.59e-02)"
+lead4_level6_energy.glm.linear,rs10850409,4,"rs1061657 (PIP=0.996, P=1.52e-05); rs484443 (PIP=1.000, P=2.51e-06); rs1896312 (PIP=1.000, P=7.93e-29); rs10850409 (PIP=1.000, P=6.12e-30)"
+lead4_level6_energy.glm.linear,rs11067246,5,"rs7296431 (PIP=1.000, P=6.69e-02); rs2384406 (PIP=1.000, P=2.67e-01); rs12581328 (PIP=1.000, P=2.84e-01); rs1896312 (PIP=1.000, P=7.93e-29); rs10850409 (PIP=1.000, P=6.12e-30)"
+lead4_level6_energy.glm.linear,rs13061708,3,"rs62288664 (PIP=1.000, P=1.57e-02); rs7429135 (PIP=1.000, P=8.98e-03); rs12639437 (PIP=1.000, P=8.48e-02)"
+lead4_level6_energy.glm.linear,rs17831429,4,"rs10749053 (PIP=1.000, P=2.81e-05); rs4525160 (PIP=1.000, P=2.71e-04); rs17764171 (PIP=1.000, P=8.31e-03); rs79603535 (PIP=1.000, P=7.31e-03)"
+lead4_level6_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=1.05e-10); rs2291310 (PIP=1.000, P=7.99e-11); rs7604033 (PIP=1.000, P=1.03e-10); rs2291311 (PIP=1.000, P=8.52e-11); rs2291312 (PIP=1.000, P=6.21e-11)"
+lead4_level6_energy.glm.linear,rs199442,4,"rs199442 (PIP=1.000, P=5.76e-13); rs199536 (PIP=1.000, P=1.30e-12); rs1662576 (PIP=1.000, P=1.55e-02); rs7342957 (PIP=1.000, P=1.17e-02)"
+lead4_level6_energy.glm.linear,rs2200541,4,"rs6786486 (PIP=1.000, P=2.28e-02); rs2200541 (PIP=1.000, P=4.10e-10); rs9835316 (PIP=1.000, P=6.17e-03); rs6797405 (PIP=1.000, P=6.93e-01)"
+lead4_level6_energy.glm.linear,rs2298632,3,"rs2235547 (PIP=1.000, P=5.26e-06); rs9426690 (PIP=1.000, P=2.29e-02); rs56221187 (PIP=1.000, P=8.10e-02)"
+lead4_level6_energy.glm.linear,rs2374381,4,"rs2374381 (PIP=1.000, P=4.15e-09); rs4952542 (PIP=1.000, P=8.43e-08); Affx-52362409 (PIP=1.000, P=1.60e-03); rs28651764 (PIP=1.000, P=1.79e-03)"
+lead4_level6_energy.glm.linear,rs2926743,4,"rs941207 (PIP=1.000, P=3.81e-07); rs2950390 (PIP=1.000, P=2.72e-06); rs2958154 (PIP=1.000, P=8.25e-06); Affx-8220405 (PIP=1.000, P=2.57e-08)"
+lead4_level6_energy.glm.linear,rs3803405,3,"rs35516100 (PIP=1.000, P=9.52e-09); rs7180849 (PIP=1.000, P=7.14e-02); rs1107179 (PIP=1.000, P=9.53e-05)"
+lead4_level6_energy.glm.linear,rs4657175,5,"rs1932933 (PIP=1.000, P=1.64e-05); rs10918762 (PIP=1.000, P=5.57e-06); rs12069336 (PIP=1.000, P=6.31e-01); rs4431825 (PIP=1.000, P=2.21e-03); rs4657178 (PIP=1.000, P=1.02e-06)"
+lead4_level6_energy.glm.linear,rs5026246,4,"Affx-13923818 (PIP=1.000, P=2.01e-13); Affx-13924069 (PIP=1.000, P=2.08e-12); Affx-13924155 (PIP=1.000, P=6.19e-01); Affx-13924674 (PIP=1.000, P=6.01e-13)"
+lead4_level6_energy.glm.linear,rs5030166,5,"rs201844 (PIP=1.000, P=5.57e-03); rs7945593 (PIP=1.000, P=9.13e-05); rs7927900 (PIP=1.000, P=4.18e-03); rs11032025 (PIP=1.000, P=8.19e-04); rs10767971 (PIP=1.000, P=1.85e-01)"
+lead4_level6_energy.glm.linear,rs6489995,4,"rs1061657 (PIP=0.999, P=1.52e-05); rs484443 (PIP=1.000, P=2.51e-06); rs1896312 (PIP=1.000, P=7.93e-29); rs10850409 (PIP=1.000, P=6.12e-30)"
+lead4_level6_energy.glm.linear,rs7028995,5,"rs7039157 (PIP=1.000, P=2.51e-02); rs17519205 (PIP=1.000, P=6.74e-03); rs1418194 (PIP=1.000, P=6.50e-05); rs4260979 (PIP=1.000, P=4.75e-01); rs7021965 (PIP=1.000, P=2.88e-06)"
+lead4_level6_energy.glm.linear,rs7591759,5,"rs7585334 (PIP=1.000, P=1.05e-10); rs2291310 (PIP=1.000, P=7.99e-11); rs7604033 (PIP=1.000, P=1.03e-10); rs2291311 (PIP=1.000, P=8.52e-11); rs2291312 (PIP=1.000, P=6.21e-11)"
+lead4_level6_energy.glm.linear,rs77961995,4,"rs594140 (PIP=1.000, P=3.49e-05); rs3131913 (PIP=1.000, P=2.78e-05); rs8543 (PIP=1.000, P=4.67e-03); rs29784 (PIP=1.000, P=2.06e-02)"
+lead4_level6_energy.glm.linear,rs9274569,4,"DRB1_1501 (PIP=1.000, P=1.08e-02); rs9269797 (PIP=1.000, P=1.33e-03); rs6928482 (PIP=1.000, P=2.00e-01); rs4642516 (PIP=1.000, P=4.59e-01)"
+lead4_level6_energy.glm.linear,rs9825233,5,"rs2442804 (PIP=1.000, P=5.93e-03); rs904464 (PIP=1.000, P=1.45e-02); rs9861271 (PIP=1.000, P=2.33e-01); rs9874315 (PIP=1.000, P=5.45e-03); rs9837573 (PIP=1.000, P=1.24e-03)"
+lead5_level3_energy.glm.linear,rs11637728,3,"rs2044502 (PIP=1.000, P=7.29e-01); rs35516100 (PIP=1.000, P=1.38e-07); rs1107179 (PIP=1.000, P=7.43e-07)"
+lead5_level3_energy.glm.linear,rs1324007,3,"rs7982810 (PIP=1.000, P=1.41e-06); rs842379 (PIP=1.000, P=4.02e-01); rs842374 (PIP=1.000, P=5.84e-08)"
+lead5_level4_energy.glm.linear,rs6810325,5,"rs2442804 (PIP=1.000, P=5.51e-03); rs904464 (PIP=1.000, P=3.49e-02); rs4377481 (PIP=1.000, P=7.44e-01); rs9874315 (PIP=1.000, P=2.38e-03); rs9837573 (PIP=1.000, P=1.16e-02)"
+lead5_level5_energy.glm.linear,rs1405210,4,"rs984258 (PIP=1.000, P=3.08e-01); rs884854 (PIP=1.000, P=1.62e-02); rs884856 (PIP=1.000, P=3.97e-01); rs2498925 (PIP=1.000, P=9.01e-04)"
+lead5_level5_energy.glm.linear,rs17263178,4,"rs4235197 (PIP=1.000, P=1.23e-03); rs11930301 (PIP=1.000, P=8.01e-01); rs6812032 (PIP=1.000, P=1.29e-04); rs4490433 (PIP=1.000, P=4.09e-03)"
+lead5_level5_energy.glm.linear,rs2207790,3,"rs9436640 (PIP=1.000, P=2.68e-07); rs2092867 (PIP=1.000, P=2.49e-07); rs2499530 (PIP=1.000, P=7.38e-01)"
+lead5_level5_energy.glm.linear,rs2298632,2,"rs79599917 (PIP=1.000, P=4.78e-01); rs9426690 (PIP=1.000, P=7.85e-03)"
+lead5_level5_energy.glm.linear,rs34050148,2,"rs1926564 (PIP=1.000, P=7.83e-04); rs12355831 (PIP=1.000, P=4.62e-03); rs703332 (PIP=0.513, P=2.81e-02)"
+lead5_level5_energy.glm.linear,rs3798371,5,"rs6568971 (PIP=1.000, P=3.22e-02); rs884854 (PIP=1.000, P=1.62e-02); rs884856 (PIP=1.000, P=3.97e-01); rs961764 (PIP=1.000, P=4.21e-06); rs1405210 (PIP=1.000, P=1.32e-08)"
+lead5_level5_energy.glm.linear,rs4074536,5,"rs12729921 (PIP=1.000, P=4.00e-01); rs10127797 (PIP=1.000, P=5.55e-06); rs12144451 (PIP=1.000, P=2.46e-05); rs9428222 (PIP=1.000, P=2.10e-05); rs9428225 (PIP=1.000, P=2.21e-04)"
+lead5_level5_energy.glm.linear,rs6810325,3,"rs2442804 (PIP=1.000, P=5.56e-03); rs116441871 (PIP=1.000, P=1.65e-01); rs9815898 (PIP=1.000, P=4.63e-01)"
+lead5_level6_approx_energy.glm.linear,rs1405210,3,"rs984258 (PIP=1.000, P=3.32e-01); rs72967912 (PIP=1.000, P=1.48e-03); rs961764 (PIP=1.000, P=3.23e-08)"
+lead5_level6_approx_energy.glm.linear,rs34050148,5,"rs2419622 (PIP=1.000, P=2.68e-02); rs1926564 (PIP=1.000, P=2.39e-03); rs4333963 (PIP=1.000, P=4.31e-02); rs876873 (PIP=1.000, P=5.76e-01); rs12355831 (PIP=1.000, P=6.05e-03)"
+lead5_level6_approx_energy.glm.linear,rs3798371,5,"rs884854 (PIP=1.000, P=3.06e-02); rs884856 (PIP=1.000, P=7.00e-02); rs2498925 (PIP=1.000, P=3.17e-05); rs961764 (PIP=1.000, P=3.23e-08); rs1405210 (PIP=1.000, P=1.37e-10)"
+lead5_level6_energy.glm.linear,rs1405210,5,"rs6568971 (PIP=1.000, P=2.65e-03); rs884854 (PIP=1.000, P=8.21e-04); rs884856 (PIP=1.000, P=3.39e-01); rs961764 (PIP=1.000, P=4.55e-09); rs1405210 (PIP=1.000, P=1.00e-12)"
+lead5_level6_energy.glm.linear,rs17263178,3,"rs4235197 (PIP=1.000, P=4.79e-04); rs11930301 (PIP=1.000, P=7.32e-01); rs6812032 (PIP=1.000, P=5.89e-05)"
+lead5_level6_energy.glm.linear,rs2207790,3,"rs9436640 (PIP=1.000, P=1.17e-08); rs2092867 (PIP=1.000, P=7.93e-09); rs2499530 (PIP=1.000, P=6.71e-01)"
+lead5_level6_energy.glm.linear,rs2298632,3,"rs649458 (PIP=1.000, P=1.14e-02); rs10917431 (PIP=1.000, P=3.38e-02); rs4649124 (PIP=1.000, P=2.56e-02)"
+lead5_level6_energy.glm.linear,rs34050148,4,"rs1926564 (PIP=0.999, P=2.60e-03); rs4333963 (PIP=1.000, P=9.29e-02); rs876873 (PIP=1.000, P=8.58e-01); rs12355831 (PIP=0.656, P=1.18e-02); rs703332 (PIP=0.995, P=1.92e-02)"
+lead5_level6_energy.glm.linear,rs3798371,5,"rs6568971 (PIP=1.000, P=2.65e-03); rs884854 (PIP=1.000, P=8.21e-04); rs884856 (PIP=1.000, P=3.39e-01); rs961764 (PIP=1.000, P=4.55e-09); rs1405210 (PIP=1.000, P=1.00e-12)"
+lead5_level6_energy.glm.linear,rs4074536,2,"rs12749096 (PIP=1.000, P=6.27e-02); rs10127797 (PIP=1.000, P=3.60e-07)"
+lead5_level6_energy.glm.linear,rs6810325,6,"rs2442804 (PIP=1.000, P=6.73e-03); rs9861271 (PIP=1.000, P=3.95e-04); rs4377481 (PIP=1.000, P=5.83e-01); rs9837573 (PIP=1.000, P=7.95e-02); rs11719526 (PIP=0.672, P=1.30e-01)"
+lead6_level2_energy.glm.linear,rs11153730,3,"rs12208253 (PIP=1.000, P=6.02e-07); rs65685 (PIP=1.000, P=4.19e-01); rs284921 (PIP=1.000, P=3.63e-01)"
+lead6_level2_energy.glm.linear,rs2234962,5,"rs4752328 (PIP=1.000, P=4.67e-03); rs2917928 (PIP=1.000, P=4.78e-03); rs10749324 (PIP=1.000, P=4.65e-03); rs7075684 (PIP=1.000, P=5.81e-04); rs12569630 (PIP=1.000, P=1.09e-03)"
+lead6_level3_energy.glm.linear,rs11153730,5,"rs11970286 (PIP=1.000, P=1.53e-10); rs6569015 (PIP=1.000, P=3.36e-09); rs12210025 (PIP=1.000, P=4.32e-02); rs65685 (PIP=1.000, P=4.01e-01); rs284921 (PIP=1.000, P=3.24e-01)"
+lead6_level3_energy.glm.linear,rs2234962,5,"rs4752328 (PIP=1.000, P=3.12e-03); rs2917928 (PIP=1.000, P=1.48e-03); rs10749324 (PIP=1.000, P=3.13e-03); rs7075684 (PIP=1.000, P=6.28e-04); rs12569630 (PIP=1.000, P=9.00e-04)"
+lead6_level3_energy.glm.linear,rs306206,4,"rs35516100 (PIP=1.000, P=1.31e-06); rs7180849 (PIP=1.000, P=9.70e-01); rs1107179 (PIP=1.000, P=8.70e-06); rs76911953 (PIP=1.000, P=3.40e-01)"
+lead6_level3_energy.glm.linear,rs34940894,4,"rs2291310 (PIP=1.000, P=2.76e-02); rs2291311 (PIP=1.000, P=2.60e-02); rs2291312 (PIP=1.000, P=2.68e-02); rs340348 (PIP=1.000, P=1.07e-01)"
+lead6_level4_energy.glm.linear,rs2234962,2,"rs17098758 (PIP=1.000, P=6.94e-01); rs12217200 (PIP=1.000, P=5.11e-02)"
+lead6_level4_energy.glm.linear,rs34940894,2,"rs111337675 (PIP=1.000, P=3.74e-01); rs340348 (PIP=1.000, P=1.28e-01)"
+lead6_level4_energy.glm.linear,rs6496318,2,"rs12904682 (PIP=1.000, P=2.45e-01); rs11633181 (PIP=1.000, P=2.43e-05)"
+lead6_level5_energy.glm.linear,rs1280100,5,"rs28647489 (PIP=1.000, P=5.43e-03); rs1280100 (PIP=1.000, P=1.08e-08); rs1280099 (PIP=1.000, P=1.45e-04); rs328418 (PIP=1.000, P=5.83e-08); rs9996710 (PIP=1.000, P=2.69e-05)"
+lead6_level5_energy.glm.linear,rs2234962,4,"rs2917928 (PIP=1.000, P=1.84e-02); rs10749324 (PIP=1.000, P=2.86e-02); rs3816145 (PIP=1.000, P=3.72e-02); rs12569630 (PIP=1.000, P=1.93e-02)"
+lead6_level5_energy.glm.linear,rs34940894,5,"rs7585334 (PIP=1.000, P=6.76e-03); rs2291310 (PIP=1.000, P=8.02e-03); rs7604033 (PIP=1.000, P=9.14e-03); rs2291311 (PIP=1.000, P=9.09e-03); rs2291312 (PIP=1.000, P=9.02e-03)"
+lead6_level6_approx_energy.glm.linear,rs2234962,3,"rs79214115 (PIP=1.000, P=9.43e-01); rs12569630 (PIP=1.000, P=2.84e-02); rs11199047 (PIP=1.000, P=1.19e-02)"
+lead6_level6_energy.glm.linear,rs13061708,3,"rs3774051 (PIP=1.000, P=1.53e-01); rs7651090 (PIP=1.000, P=1.53e-01); rs4686696 (PIP=1.000, P=8.48e-02)"
+lead6_level6_energy.glm.linear,rs77188861,4,"rs4648468 (PIP=1.000, P=4.66e-04); rs2455144 (PIP=1.000, P=7.02e-02); rs6670328 (PIP=1.000, P=1.14e-06); rs4648473 (PIP=1.000, P=5.70e-03)"
+lead7_level2_energy.glm.linear,rs1490384,4,"rs2326201 (PIP=0.965, P=3.98e-03); rs4897169 (PIP=1.000, P=1.43e-02); rs1902258 (PIP=1.000, P=9.11e-03); rs853964 (PIP=0.987, P=6.25e-02)"
+lead7_level2_energy.glm.linear,rs6496318,2,"rs11633181 (PIP=1.000, P=2.55e-03); rs4842994 (PIP=1.000, P=1.14e-07)"
+lead7_level3_energy.glm.linear,rs11067246,5,"rs2062716 (PIP=1.000, P=1.36e-05); rs4767252 (PIP=1.000, P=9.80e-03); rs12580721 (PIP=1.000, P=6.10e-06); rs1896312 (PIP=1.000, P=3.52e-04); rs10850409 (PIP=1.000, P=1.76e-04)"
+lead7_level3_energy.glm.linear,rs12904777,4,"rs2044502 (PIP=1.000, P=5.89e-01); rs35516100 (PIP=1.000, P=6.29e-09); rs1107179 (PIP=1.000, P=1.70e-08); rs76911953 (PIP=1.000, P=2.57e-01)"
+lead7_level3_energy.glm.linear,rs1490384,5,"rs2326201 (PIP=0.916, P=1.36e-03); rs4897169 (PIP=1.000, P=5.06e-02); rs1902258 (PIP=1.000, P=1.59e-03); rs1490384 (PIP=0.943, P=3.86e-18); rs853964 (PIP=1.000, P=5.37e-03)"
+lead7_level3_energy.glm.linear,rs2234962,2,"rs75085125 (PIP=1.000, P=3.05e-01); rs12217200 (PIP=1.000, P=3.40e-02)"
+lead7_level3_energy.glm.linear,rs251253,4,"rs3131913 (PIP=1.000, P=5.94e-08); rs8543 (PIP=1.000, P=3.30e-01); rs29784 (PIP=1.000, P=8.48e-07); rs2879599 (PIP=1.000, P=1.54e-08)"
+lead7_level3_energy.glm.linear,rs2729577,2,"rs2729577 (PIP=0.704, P=2.15e-10)"
+lead7_level3_energy.glm.linear,rs35504893,5,"rs7585334 (PIP=1.000, P=1.32e-04); rs2291310 (PIP=1.000, P=6.86e-05); rs7604033 (PIP=1.000, P=1.21e-04); rs2291311 (PIP=1.000, P=1.06e-04); rs2291312 (PIP=1.000, P=1.21e-04)"
+lead7_level3_energy.glm.linear,rs55877020,4,"rs3131913 (PIP=1.000, P=5.94e-08); rs8543 (PIP=1.000, P=3.30e-01); rs29784 (PIP=1.000, P=8.48e-07); rs2879599 (PIP=1.000, P=1.54e-08)"
+lead7_level3_energy.glm.linear,rs6496318,4,"rs2044502 (PIP=1.000, P=5.89e-01); rs35516100 (PIP=1.000, P=6.29e-09); rs7180849 (PIP=1.000, P=6.28e-01); rs1107179 (PIP=1.000, P=1.70e-08)"
+lead7_level3_energy.glm.linear,rs7374138,5,"rs6801957 (PIP=1.000, P=5.57e-06); rs6800541 (PIP=1.000, P=2.43e-06); rs9830687 (PIP=1.000, P=8.12e-02); rs60847476 (PIP=1.000, P=8.58e-01); rs7617919 (PIP=1.000, P=3.33e-04)"
+lead7_level3_energy.glm.linear,rs762624,5,"rs9470361 (PIP=1.000, P=2.37e-13); rs4713996 (PIP=1.000, P=1.55e-12); Affx-28561763 (PIP=1.000, P=2.16e-08); rs7452626 (PIP=1.000, P=5.98e-01); rs2395655 (PIP=1.000, P=2.69e-12)"
+lead7_level3_energy.glm.linear,rs9825233,5,"rs904464 (PIP=1.000, P=2.08e-05); rs9861271 (PIP=1.000, P=4.49e-01); rs4377481 (PIP=1.000, P=5.48e-05); rs9874315 (PIP=1.000, P=1.50e-03); rs9837573 (PIP=1.000, P=8.44e-07)"
+lead7_level4_energy.glm.linear,rs10850409,4,"rs4767252 (PIP=1.000, P=6.22e-03); rs12580721 (PIP=1.000, P=2.42e-07); rs1896312 (PIP=1.000, P=6.60e-08); rs10850409 (PIP=1.000, P=6.61e-09)"
+lead7_level4_energy.glm.linear,rs11067246,2,"rs12580721 (PIP=0.871, P=2.42e-07); rs1896312 (PIP=1.000, P=6.60e-08); rs10850409 (PIP=1.000, P=6.61e-09)"
+lead7_level4_energy.glm.linear,rs1490384,5,"rs2326201 (PIP=0.964, P=4.36e-04); rs4897169 (PIP=1.000, P=3.90e-02); rs1902258 (PIP=1.000, P=2.32e-03); rs1490384 (PIP=0.962, P=2.77e-16); rs853964 (PIP=1.000, P=3.43e-02)"
+lead7_level4_energy.glm.linear,rs1883085,5,"rs7585334 (PIP=1.000, P=4.87e-07); rs2291310 (PIP=1.000, P=2.24e-07); rs7604033 (PIP=1.000, P=4.19e-07); rs2291311 (PIP=1.000, P=6.36e-07); rs2291312 (PIP=1.000, P=4.11e-07)"
+lead7_level4_energy.glm.linear,rs251253,5,"rs3131913 (PIP=1.000, P=2.16e-09); rs8543 (PIP=1.000, P=1.04e-01); rs29784 (PIP=1.000, P=4.37e-07); rs29783 (PIP=1.000, P=6.62e-07); rs2879599 (PIP=1.000, P=3.06e-09)"
+lead7_level4_energy.glm.linear,rs2729577,4,"rs2729577 (PIP=0.515, P=1.16e-08)"
+lead7_level4_energy.glm.linear,rs55877020,5,"rs3131913 (PIP=1.000, P=2.16e-09); rs8543 (PIP=1.000, P=1.04e-01); rs29784 (PIP=1.000, P=4.37e-07); rs29783 (PIP=1.000, P=6.62e-07); rs2879599 (PIP=1.000, P=3.06e-09)"
+lead7_level4_energy.glm.linear,rs6496318,5,"rs12904682 (PIP=1.000, P=6.48e-01); rs4842939 (PIP=1.000, P=5.39e-01); rs11633181 (PIP=1.000, P=1.13e-03); rs117836980 (PIP=1.000, P=7.14e-02); rs76911953 (PIP=1.000, P=4.23e-02)"
+lead7_level4_energy.glm.linear,rs9825233,5,"rs904464 (PIP=1.000, P=2.38e-04); rs9861271 (PIP=1.000, P=3.55e-01); rs4377481 (PIP=1.000, P=6.32e-04); rs9874315 (PIP=1.000, P=1.72e-02); rs9837573 (PIP=1.000, P=8.79e-06)"
+lead7_level5_energy.glm.linear,rs11067246,3,"rs1896312 (PIP=1.000, P=1.07e-04); rs10850409 (PIP=1.000, P=1.01e-04); rs10735086 (PIP=0.995, P=2.13e-03)"
+lead7_level5_energy.glm.linear,rs13185595,2,"rs12655409 (PIP=1.000, P=6.57e-01); rs115380213 (PIP=1.000, P=2.40e-01)"
+lead7_level5_energy.glm.linear,rs1490384,5,"rs1465104 (PIP=1.000, P=3.78e-04); rs2326201 (PIP=1.000, P=7.24e-04); rs17229485 (PIP=1.000, P=7.61e-01); rs117083891 (PIP=1.000, P=1.10e-01); rs76850604 (PIP=1.000, P=6.55e-01)"
+lead7_level5_energy.glm.linear,rs2207790,4,"rs9436640 (PIP=1.000, P=5.56e-11); rs2092867 (PIP=1.000, P=1.93e-06); rs2499530 (PIP=1.000, P=1.26e-03); rs2207790 (PIP=1.000, P=4.61e-16)"
+lead7_level5_energy.glm.linear,rs2298632,4,"rs9426690 (PIP=1.000, P=4.96e-02); rs2092933 (PIP=1.000, P=2.16e-02); rs649458 (PIP=1.000, P=1.65e-05); rs12126283 (PIP=1.000, P=7.95e-04)"
+lead7_level5_energy.glm.linear,rs251253,2,"rs594140 (PIP=1.000, P=1.28e-07); rs2879599 (PIP=1.000, P=5.13e-09)"
+lead7_level5_energy.glm.linear,rs34050148,2,"rs34050148 (PIP=0.886, P=2.22e-08)"
+lead7_level5_energy.glm.linear,rs55877020,2,"rs594140 (PIP=1.000, P=1.28e-07); rs2879599 (PIP=1.000, P=5.13e-09)"
+lead7_level6_approx_energy.glm.linear,rs10054375,5,"rs10037652 (PIP=1.000, P=1.28e-02); rs6882998 (PIP=1.000, P=1.49e-02); rs2544880 (PIP=1.000, P=2.55e-01); rs1974777 (PIP=1.000, P=2.77e-01); rs13186258 (PIP=1.000, P=1.61e-02)"
+lead7_level6_approx_energy.glm.linear,rs1405210,5,"rs6568971 (PIP=1.000, P=1.48e-04); rs884854 (PIP=1.000, P=1.60e-04); rs884856 (PIP=1.000, P=7.92e-02); rs961764 (PIP=1.000, P=3.06e-06); rs1405210 (PIP=1.000, P=4.48e-11)"
+lead7_level6_approx_energy.glm.linear,rs1490384,1,"rs4897169 (PIP=1.000, P=1.08e-02); rs1902258 (PIP=0.690, P=1.23e-03); rs1034207 (PIP=0.845, P=1.29e-02)"
+lead7_level6_approx_energy.glm.linear,rs2207790,4,"rs9436640 (PIP=1.000, P=9.74e-11); rs2092867 (PIP=1.000, P=6.26e-06); rs2499530 (PIP=1.000, P=3.65e-03); rs2207790 (PIP=1.000, P=5.58e-14)"
+lead7_level6_approx_energy.glm.linear,rs55877020,4,"rs3131913 (PIP=1.000, P=1.40e-05); rs8543 (PIP=1.000, P=3.06e-01); rs29784 (PIP=1.000, P=2.18e-04); rs2879599 (PIP=1.000, P=9.59e-07)"
+lead7_level6_approx_energy.glm.linear,rs56087422,4,"rs35583513 (PIP=1.000, P=1.78e-05); rs13113625 (PIP=1.000, P=3.43e-02); rs12503836 (PIP=1.000, P=1.73e-01); rs13128941 (PIP=1.000, P=9.01e-03)"
+lead7_level6_energy.glm.linear,rs11067246,4,"rs1896359 (PIP=1.000, P=6.88e-02); rs117409025 (PIP=1.000, P=9.75e-03); rs10735086 (PIP=1.000, P=3.09e-04); rs58269708 (PIP=1.000, P=1.44e-02)"
+lead7_level6_energy.glm.linear,rs1188298,5,"rs1975441 (PIP=1.000, P=2.20e-05); rs1188298 (PIP=1.000, P=5.24e-10); rs1624786 (PIP=1.000, P=9.13e-02); rs57218302 (PIP=1.000, P=3.57e-02); rs1729180 (PIP=1.000, P=4.36e-03)"
+lead7_level6_energy.glm.linear,rs13185595,5,"Affx-25899100 (PIP=1.000, P=7.32e-01); rs10037652 (PIP=1.000, P=1.33e-02); rs4958740 (PIP=1.000, P=1.44e-04); rs6882998 (PIP=1.000, P=4.33e-03); rs13186258 (PIP=1.000, P=6.09e-03)"
+lead7_level6_energy.glm.linear,rs1405210,3,"rs884854 (PIP=1.000, P=1.98e-05); rs884856 (PIP=1.000, P=2.42e-01); rs2498925 (PIP=1.000, P=1.78e-08)"
+lead7_level6_energy.glm.linear,rs1490384,2,"rs1538171 (PIP=1.000, P=1.18e-08); rs11754129 (PIP=1.000, P=1.03e-02)"
+lead7_level6_energy.glm.linear,rs2207790,3,"rs9436640 (PIP=1.000, P=3.99e-15); rs2092867 (PIP=1.000, P=3.02e-08); rs2499530 (PIP=1.000, P=2.42e-04)"
+lead7_level6_energy.glm.linear,rs2298632,4,"rs309527 (PIP=1.000, P=4.86e-02); rs10917333 (PIP=1.000, P=3.70e-04); rs620514 (PIP=1.000, P=7.00e-02); rs649458 (PIP=1.000, P=4.84e-05)"
+lead7_level6_energy.glm.linear,rs251253,2,"rs3131913 (PIP=1.000, P=4.81e-08); rs2879599 (PIP=1.000, P=2.02e-09)"
+lead7_level6_energy.glm.linear,rs34050148,1,"rs34050148 (PIP=0.928, P=7.76e-12)"
+lead7_level6_energy.glm.linear,rs3750733,4,"rs1187068 (PIP=1.000, P=9.77e-04); rs1187078 (PIP=1.000, P=6.83e-03); rs7081159 (PIP=1.000, P=2.60e-01); rs2218970 (PIP=1.000, P=9.21e-02); rs2601760 (PIP=0.562, P=6.59e-01)"
+lead7_level6_energy.glm.linear,rs55877020,2,"rs594140 (PIP=1.000, P=1.08e-07); rs2879599 (PIP=1.000, P=2.02e-09)"
+lead7_level6_energy.glm.linear,rs77188861,3,"rs2455144 (PIP=1.000, P=1.55e-01); rs6670328 (PIP=1.000, P=1.24e-05); rs4648473 (PIP=1.000, P=1.63e-02)"
+lead8_level1_energy.glm.linear,rs11073663,2,"rs4842939 (PIP=1.000, P=9.24e-01); rs117836980 (PIP=1.000, P=6.53e-01)"
+lead8_level1_energy.glm.linear,rs34940894,4,"rs10497520 (PIP=1.000, P=5.95e-01); rs35813871 (PIP=1.000, P=3.84e-02); rs6715406 (PIP=1.000, P=5.62e-03); rs3816849 (PIP=1.000, P=3.85e-03)"
+lead8_level1_energy.glm.linear,rs380855,3,"rs36117895 (PIP=1.000, P=6.27e-01); rs2454513 (PIP=1.000, P=5.92e-06); rs2437685 (PIP=1.000, P=7.42e-05)"
+lead8_level2_energy.glm.linear,rs11073663,2,"rs12904682 (PIP=1.000, P=3.71e-01); rs11633181 (PIP=1.000, P=2.92e-05)"
+lead8_level2_energy.glm.linear,rs11857366,3,"rs8024622 (PIP=1.000, P=1.12e-02); rs11857366 (PIP=1.000, P=1.30e-08); rs907808 (PIP=1.000, P=5.44e-05)"
+lead8_level2_energy.glm.linear,rs12904777,4,"rs2044502 (PIP=1.000, P=2.26e-01); rs35516100 (PIP=1.000, P=8.47e-10); rs7180849 (PIP=1.000, P=2.85e-01); rs1107179 (PIP=1.000, P=2.51e-10)"
+lead8_level2_energy.glm.linear,rs2234962,2,"rs12569630 (PIP=1.000, P=8.70e-03); rs196196 (PIP=1.000, P=2.38e-02)"
+lead8_level2_energy.glm.linear,rs34940894,3,"rs10497520 (PIP=1.000, P=4.62e-01); rs6715406 (PIP=1.000, P=1.72e-03); rs3816849 (PIP=1.000, P=1.35e-02)"
+lead8_level3_energy.glm.linear,rs11970286,5,"rs11970286 (PIP=1.000, P=4.22e-10); rs12197337 (PIP=1.000, P=4.63e-08); rs12210025 (PIP=1.000, P=9.86e-02); rs65685 (PIP=1.000, P=3.58e-02); rs284921 (PIP=1.000, P=3.20e-02)"
+lead8_level3_energy.glm.linear,rs2234962,4,"rs2917928 (PIP=1.000, P=2.97e-02); rs10749324 (PIP=1.000, P=2.12e-02); rs10886516 (PIP=1.000, P=3.33e-02); rs12569630 (PIP=1.000, P=2.52e-02)"
+lead8_level3_energy.glm.linear,rs2303510,3,"rs9304167 (PIP=1.000, P=1.10e-01); rs323295 (PIP=1.000, P=1.15e-01); rs2847593 (PIP=1.000, P=1.96e-02)"
+lead8_level3_energy.glm.linear,rs34940894,2,"rs10188759 (PIP=1.000, P=5.59e-01); rs115969895 (PIP=1.000, P=7.36e-01)"
+lead8_level3_energy.glm.linear,rs3803403,3,"rs35516100 (PIP=1.000, P=2.29e-13); rs7180849 (PIP=1.000, P=7.80e-01); rs1107179 (PIP=1.000, P=1.33e-10)"
+lead8_level4_energy.glm.linear,rs11073663,2,"rs11633181 (PIP=1.000, P=1.52e-05); rs1107179 (PIP=1.000, P=8.59e-08)"
+lead8_level5_energy.glm.linear,rs10054375,4,"rs114207507 (PIP=1.000, P=5.56e-01); rs2544880 (PIP=1.000, P=1.51e-01); rs1974777 (PIP=1.000, P=2.05e-01); rs348735 (PIP=1.000, P=8.67e-02)"
+lead8_level5_energy.glm.linear,rs11073663,2,"rs4842939 (PIP=1.000, P=9.38e-01); rs117836980 (PIP=1.000, P=2.35e-01)"
+lead8_level5_energy.glm.linear,rs2207790,4,"rs9436640 (PIP=1.000, P=2.61e-06); rs2092867 (PIP=1.000, P=2.23e-05); rs2499530 (PIP=1.000, P=4.71e-01); rs2207790 (PIP=1.000, P=1.42e-09)"
+lead8_level5_energy.glm.linear,rs3750733,5,"rs61843220 (PIP=0.997, P=1.15e-01); rs79751877 (PIP=0.998, P=3.14e-01); rs1411924 (PIP=1.000, P=2.36e-04); rs3750733 (PIP=1.000, P=1.48e-10); rs2776944 (PIP=1.000, P=2.47e-02)"
+lead8_level6_approx_energy.glm.linear,rs10054375,5,"rs10037652 (PIP=1.000, P=5.27e-02); rs4958740 (PIP=1.000, P=7.96e-03); rs10054375 (PIP=0.913, P=5.89e-09); rs2544880 (PIP=1.000, P=9.60e-02); rs1974777 (PIP=1.000, P=1.17e-01)"
+lead8_level6_approx_energy.glm.linear,rs2207790,3,"rs9436640 (PIP=1.000, P=1.35e-10); rs2092867 (PIP=1.000, P=8.85e-08); rs2499530 (PIP=1.000, P=1.32e-01)"
+lead8_level6_approx_energy.glm.linear,rs2606761,3,"rs36117895 (PIP=1.000, P=2.55e-01); rs2454513 (PIP=1.000, P=1.02e-07); rs2437685 (PIP=1.000, P=9.54e-06)"
+lead8_level6_energy.glm.linear,rs10054375,4,"rs2544880 (PIP=1.000, P=2.42e-01); rs1974777 (PIP=1.000, P=3.04e-01); rs348735 (PIP=1.000, P=5.04e-02); rs903837 (PIP=1.000, P=1.95e-01)"
+lead8_level6_energy.glm.linear,rs2207790,3,"rs9436640 (PIP=1.000, P=1.09e-11); rs2092867 (PIP=1.000, P=4.72e-09); rs2499530 (PIP=1.000, P=2.72e-01)"
+lead8_level6_energy.glm.linear,rs3750733,4,"rs72784055 (PIP=1.000, P=2.40e-01); rs2230396 (PIP=1.000, P=2.88e-01); rs1187068 (PIP=0.791, P=2.18e-02); rs1187078 (PIP=1.000, P=2.53e-02); rs3851080 (PIP=1.000, P=1.45e-02)"
+lead9_level2_energy.glm.linear,rs11153730,5,"rs11970286 (PIP=1.000, P=4.44e-19); rs6569015 (PIP=1.000, P=1.42e-13); rs12208253 (PIP=1.000, P=2.23e-13); rs65685 (PIP=1.000, P=8.87e-02); rs284921 (PIP=1.000, P=1.01e-01)"
+lead9_level2_energy.glm.linear,rs11857366,3,"rs8024622 (PIP=1.000, P=1.34e-02); rs11857366 (PIP=1.000, P=2.48e-08); rs907808 (PIP=1.000, P=3.89e-06)"
+lead9_level2_energy.glm.linear,rs306206,3,"rs35516100 (PIP=1.000, P=1.73e-08); rs7180849 (PIP=1.000, P=7.31e-01); rs1107179 (PIP=1.000, P=4.46e-08)"
+lead9_level3_energy.glm.linear,Affx-2533062,2,"Affx-2533062 (PIP=0.585, P=9.49e-09)"
+lead9_level3_energy.glm.linear,rs11153730,5,"rs11970286 (PIP=1.000, P=9.70e-31); rs6569015 (PIP=1.000, P=7.70e-22); rs12208253 (PIP=1.000, P=1.01e-20); rs65685 (PIP=1.000, P=3.91e-03); rs284921 (PIP=1.000, P=5.04e-03)"
+lead9_level3_energy.glm.linear,rs11247866,5,"rs11583205 (PIP=1.000, P=5.59e-01); rs4584380 (PIP=1.000, P=7.03e-02); rs7534104 (PIP=1.000, P=2.01e-03); rs11247933 (PIP=1.000, P=4.46e-02); rs145815386 (PIP=1.000, P=3.87e-01)"
+lead9_level3_energy.glm.linear,rs11637728,4,"rs4842939 (PIP=1.000, P=5.71e-02); rs35516100 (PIP=1.000, P=6.57e-10); rs7180849 (PIP=1.000, P=6.24e-01); rs1107179 (PIP=1.000, P=5.66e-08)"
+lead9_level3_energy.glm.linear,rs17287293,5,"rs74420180 (PIP=0.998, P=2.13e-01); rs1386639 (PIP=1.000, P=1.02e-01); rs17287293 (PIP=1.000, P=3.80e-08); rs1872874 (PIP=1.000, P=4.50e-02); rs80249736 (PIP=1.000, P=5.22e-01)"
+lead9_level3_energy.glm.linear,rs2207790,3,"rs9436640 (PIP=1.000, P=1.97e-09); rs2092867 (PIP=1.000, P=4.95e-05); rs2499530 (PIP=1.000, P=3.30e-02)"
+lead9_level3_energy.glm.linear,rs2848918,2,"rs9304167 (PIP=1.000, P=2.19e-02); rs323295 (PIP=1.000, P=1.89e-02)"
+lead9_level3_energy.glm.linear,rs3825214,4,"rs3825214 (PIP=1.000, P=4.68e-08); rs7310159 (PIP=1.000, P=3.07e-01); rs7137598 (PIP=1.000, P=9.57e-01); rs4113925 (PIP=1.000, P=3.26e-03)"
+lead9_level3_energy.glm.linear,rs55756479,4,"rs373610 (PIP=1.000, P=3.02e-06); rs1188710 (PIP=1.000, P=2.93e-04); rs883748 (PIP=1.000, P=3.13e-04); rs12035900 (PIP=1.000, P=1.36e-06)"
+lead9_level3_energy.glm.linear,rs55770006,5,"rs11970286 (PIP=1.000, P=9.70e-31); rs12197337 (PIP=1.000, P=6.22e-21); rs12210025 (PIP=1.000, P=1.89e-04); rs65685 (PIP=1.000, P=3.91e-03); rs284921 (PIP=1.000, P=5.04e-03)"
+lead9_level4_energy.glm.linear,rs11153730,4,"rs6569015 (PIP=1.000, P=2.99e-10); rs12208253 (PIP=1.000, P=8.91e-10); rs65685 (PIP=1.000, P=1.22e-02); rs284921 (PIP=1.000, P=1.80e-02)"
+lead9_level4_energy.glm.linear,rs11637728,4,"rs12904682 (PIP=1.000, P=7.37e-01); rs2044502 (PIP=1.000, P=7.63e-01); rs35516100 (PIP=1.000, P=7.86e-13); rs1107179 (PIP=1.000, P=1.47e-10)"
+lead9_level4_energy.glm.linear,rs17163588,2,"rs7534104 (PIP=1.000, P=1.09e-03); rs11247933 (PIP=1.000, P=8.17e-03)"
+lead9_level4_energy.glm.linear,rs2303510,2,"rs9304167 (PIP=1.000, P=8.61e-02); rs323295 (PIP=1.000, P=7.30e-02)"
+lead9_level5_energy.glm.linear,rs11708996,4,"rs171248 (PIP=1.000, P=3.58e-04); rs183574 (PIP=1.000, P=5.12e-04); rs151608 (PIP=1.000, P=6.50e-04); rs149738 (PIP=1.000, P=4.77e-04)"
+lead9_level5_energy.glm.linear,rs12053903,4,"rs171248 (PIP=1.000, P=3.58e-04); rs183574 (PIP=1.000, P=5.12e-04); rs151608 (PIP=1.000, P=6.50e-04); rs149738 (PIP=1.000, P=4.77e-04)"
+lead9_level5_energy.glm.linear,rs55824920,4,"rs171248 (PIP=1.000, P=3.58e-04); rs183574 (PIP=1.000, P=5.12e-04); rs151608 (PIP=1.000, P=6.50e-04); rs149738 (PIP=1.000, P=4.77e-04)"
+lead9_level5_energy.glm.linear,rs58416181,2,"rs4842939 (PIP=1.000, P=2.40e-02); rs11633181 (PIP=1.000, P=1.35e-08)"
+lead9_level6_approx_energy.glm.linear,rs10850409,3,"rs1896312 (PIP=1.000, P=2.45e-07); rs10850409 (PIP=1.000, P=2.41e-08); rs117103768 (PIP=1.000, P=8.76e-01)"
+lead9_level6_approx_energy.glm.linear,rs191397931,4,"rs6801957 (PIP=1.000, P=2.37e-06); rs57326399 (PIP=1.000, P=3.50e-01); rs9830687 (PIP=1.000, P=7.27e-04); rs60847476 (PIP=1.000, P=1.13e-01)"
+lead9_level6_approx_energy.glm.linear,rs56087422,4,"rs35583513 (PIP=1.000, P=1.23e-06); rs13113625 (PIP=1.000, P=3.63e-03); rs12503836 (PIP=1.000, P=9.42e-01); rs13128941 (PIP=1.000, P=6.28e-05)"
+lead9_level6_approx_energy.glm.linear,rs72671655,5,"rs28481643 (PIP=1.000, P=1.71e-01); rs10103119 (PIP=1.000, P=5.72e-04); rs117441475 (PIP=1.000, P=7.93e-01); rs2122444 (PIP=1.000, P=9.80e-03); rs79127267 (PIP=1.000, P=5.99e-01)"
+lead9_level6_energy.glm.linear,rs11708996,2,"rs73062575 (PIP=1.000, P=9.32e-03); rs6800541 (PIP=1.000, P=9.49e-07)"
